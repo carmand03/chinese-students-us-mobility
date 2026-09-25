@@ -188,9 +188,6 @@ normal shapefile components, including at least:
 -   `Provinces_1912-1931.dbf`
 -   `Provinces_1912-1931.prj`
 
-The notebook also copies optional sidecar files when available. It
-recognizes an uploaded duplicate named `Provinces_1912-1931(1).shp`.
-
 The historical layer is read with `pyshp` and reprojected to WGS84 with
 `pyproj`; GeoPandas is not required.
 
@@ -210,7 +207,7 @@ interactive HTML files.
 
 ## 3. Running the notebook
 
-Place all source files in `/mnt/data/`, then restart the kernel and run
+Place all source files in `/data/`, then restart the kernel and run
 the notebook from the first cell through the end.
 
 This is important because later sections reuse objects constructed
