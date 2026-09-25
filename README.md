@@ -424,7 +424,7 @@ Popups/tooltips include romanized and Chinese names when available.
 The map includes the global birth-year controls and browser-side export
 buttons for the currently filtered province and city tables.
 
-### [06_us_education_by_state.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/output/birth_education_flows/06_us_education_by_state.html)
+### [06_us_education_by_state.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/06_us_education_by_state.html)
 
 Interactive U.S. state-level education map.
 
