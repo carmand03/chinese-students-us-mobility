@@ -220,7 +220,7 @@ and visualization payloads.
 
 Outputs are written to:
 
-`/mnt/data/birth_education_outputs_enhanced/`
+`/output/birth_education_flows`
 
 ## 4. Data preparation
 
@@ -340,7 +340,7 @@ multi-stage Sankey. Their trajectories begin directly at Education Stage
 
 ## 8. Interactive outputs
 
-### `01_birth_to_first_education_sankey.html`
+### [01_birth_to_first_education_sankey.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/01_birth_to_first_education_sankey.html)
 
 Sankey diagram from birthplace to first observed educational
 destination.
@@ -358,7 +358,7 @@ Controls include:
 
 Flow width represents distinct students.
 
-### `02_birth_to_first_education_map.html`
+### [02_birth_to_first_education_map.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/02_birth_to_first_education_map.html)
 
 Spatial version of birthplace → first-education flows.
 
@@ -368,7 +368,7 @@ birth-year, Top N, and minimum-student controls.
 Historical Chinese province boundaries are displayed as geographic
 context.
 
-### `03_multistage_sankey.html`
+### [03_multistage_sankey.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/03_multistage_sankey.html)
 
 Sankey diagram of:
 
@@ -386,7 +386,7 @@ Controls include:
 Students without a recorded birthplace enter the Sankey directly at
 Stage 1.
 
-### `04_multistage_spatial_map.html`
+### [04_multistage_spatial_map.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/04_multistage_spatial_map.html)
 
 Spatial representation of multi-stage education trajectories.
 
@@ -406,7 +406,7 @@ The map also provides:
 -   minimum-student threshold; and
 -   Top N flows per stage.
 
-### `05_birth_distribution_china_combined.html`
+### [05_birth_distribution_china_combined.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/05_birth_distribution_china_combined.html)
 
 Combined interactive map of recorded birthplaces in China.
 
@@ -424,7 +424,7 @@ Popups/tooltips include romanized and Chinese names when available.
 The map includes the global birth-year controls and browser-side export
 buttons for the currently filtered province and city tables.
 
-### `07_us_education_by_state.html`
+### [06_us_education_by_state.html](https://carmand03.github.io/chinese-students-us-mobility/output/birth_education_flows/output/birth_education_flows/06_us_education_by_state.html)
 
 Interactive U.S. state-level education map.
 
