@@ -24,7 +24,7 @@ This repository contains interactive visualizations and supporting data derived 
   - Communities can be filtered by community size rather than by community ID.
   - Physics controls: Stop, Slow, Normal, Fast.
 
-- `03_spatial_network.html` — Geolocated university projection on an OpenStreetMap basemap.
+- [03_spatial_network.html](https://carmand03.github.io/chinese-students-us-mobility/output/03_spatial_network.html) — Geolocated university projection on an OpenStreetMap basemap.
   - World / United States scope.
   - Minimum shared-student and minimum visible-degree filters.
   - University labels use the raw `University` name.
