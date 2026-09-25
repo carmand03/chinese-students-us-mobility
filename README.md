@@ -495,7 +495,7 @@ For reproducible execution:
 2.  Keep all shapefile components together.
 3.  Restart the Python kernel.
 4.  Run all notebook cells in order.
-5.  Use the generated files in `birth_education_outputs_enhanced/`.
+5.  Use the generated files in `output/birth_education_flows/`.
 
 If a later cell raises a `NameError`, first confirm that the notebook
 has been run from the beginning. Many visualization cells intentionally
@@ -507,7 +507,7 @@ preparation.
 After a complete run, the primary artifacts are available under:
 
 ``` text
-birth_education_outputs_enhanced/
+output/birth_education_flows/
 ├── 01_birth_to_first_education_sankey.html
 ├── 02_birth_to_first_education_map.html
 ├── 03_multistage_sankey.html
