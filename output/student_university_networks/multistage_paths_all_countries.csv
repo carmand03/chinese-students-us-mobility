@@ -1,0 +1,284 @@
+student,stage1,stage1_display,stage1_year,stage1_levels,stage1_country,stage2,stage2_display,stage2_year,stage2_levels,stage2_country,stage3,stage3_display,stage3_year,stage3_levels,stage3_country
+N00011,Jinling University,金陵大學,1936,['Unspecified'],China,University of Edinburgh,University of Edinburgh,1941,['Master'],Other,Columbia University,Columbia University,1943,['Unspecified'],US
+N00012,Denison University,Denison University,1921,['Bachelor'],US,New York University,New York University,1924,['Doctorate'],US,Columbia University,Columbia University,1927,['Master'],US
+N00020,University of Southern California,University of Southern California,1939,['Unspecified'],US,Wheaton College,Wheaton College,1942,['Unspecified'],US,State University of Iowa,State University of Iowa,1943,['Unspecified'],US
+N00020,University of Southern California,University of Southern California,1939,['Unspecified'],US,Wheaton College,Wheaton College,1942,['Unspecified'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N00025,Southeast University,東南大學,1935,['Unspecified'],China,New York University,New York University,1936,['Master'],US,Columbia University,Columbia University,1938,['Master'],US
+N00025,New York University,New York University,1936,['Master'],US,Columbia University,Columbia University,1938,['Master'],US,New York University,New York University,1939,['Doctorate'],US
+N00026,Southeast University,東南大學,1941,['Unspecified'],China,Detroit College of Law,Detroit College of Law,1942,['Unspecified'],US,Dartmouth College,Dartmouth College,1943,['Unspecified'],US
+N00028,Jiaotong University,交通大學,1935,['Unspecified'],China,University of London,University of London,1939,['Master'],Other,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1941,['Unspecified'],US
+N00031,University of Colorado,University of Colorado,1936,['Unspecified'],US,Oxford University,Oxford University,1939,['Unspecified'],Other,University of London,University of London,1941,['Unspecified'],Other
+N00032,Dominican College,Dominican College,1940,['Unspecified'],US,University of California,University of California,1942,['Unspecified'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N00040,Fu-jen University,輔仁大學,1932,['Unspecified'],China,University of Notre Dame,University of Notre Dame,1941,['Master'],US,Syracuse University,Syracuse University,1943,['Bachelor'],US
+N00041,Yenching University,燕京大學,1932,['Unspecified'],China,George Williams College,George Williams College,1942,['Bachelor'],US,New York University,New York University,1943,['Unspecified'],US
+N00048,Ginling College,金陵女子文理學院,1928,['Unspecified'],China,Yenching University,燕京大學,1932,['Unspecified'],China,University of Michigan,University of Michigan,1942,['Doctorate'],US
+N00052,Jiaotong University,交通大學,1940,['Unspecified'],China,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1942,['Master'],US,Brown University,Brown University,1943,['Master'],US
+N00052,Jiaotong University,交通大學,1940,['Unspecified'],China,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1942,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N00053,Beijing University,北京大學,1934,['Unspecified'],China,California Institute of Technology,California Institute of Technology,1938,['Master'],US,Stanford University,Stanford University,1941,['Doctorate'],US
+N00065,Beijing University,北京大學,1936,['Unspecified'],China,Nankai University,南開大學,1937,['Unspecified'],China,Columbia University,Columbia University,1943,['Unspecified'],US
+N00067,Yenching University,燕京大學,1934,['Unspecified'],China,Peking Union Medical College,協和醫學院,1937,['Unspecified'],China,University of Minnesota,University of Minnesota,1943,['Doctorate'],US
+N00071,Shanghai University,滬江大學,1928,['Unspecified'],China,Northwestern University,Northwestern University,1931,['Unspecified'],US,University of Chicago,University of Chicago,1937,['Unspecified'],US
+N00071,Northwestern University,Northwestern University,1931,['Unspecified'],US,University of Chicago,University of Chicago,1937,['Unspecified'],US,Tulane University,Tulane University,1941,['Unspecified'],US
+N00072,Yenching University,燕京大學,1940,['Unspecified'],China,Missouri School of Mines & Metals,Missouri School of Mines & Metals,1942,['Unspecified'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00073,Guangxi University,廣西大學,1937,['Unspecified'],China,Oregon State College,Oregon State College,1941,['Master'],US,University of Wisconsin,University of Wisconsin,1943,['Unspecified'],US
+N00077,Southeast University,東南大學,1932,['Unspecified'],China,Peking Union Medical College,協和醫學院,1936,['Unspecified'],China,Johns Hopkins University,Johns Hopkins University,1942,['Master'],US
+N00082,Yenching University,燕京大學,1934,['Unspecified'],China,State University of Iowa,State University of Iowa,1942,['Master'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N00095,China Academy,中國學院,1928,['Unspecified'],China,University of London,University of London,1936,['Unspecified'],Other,University of California,University of California,1942,['Master'],US
+N00099,Shanghai University,滬江大學,1940,['Unspecified'],China,University of Dubuque,University of Dubuque,1942,['Bachelor'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N00105,Normal University,師範大學,1927,['Unspecified'],China,Oxford University,Oxford University,1940,['Master'],Other,Princeton University,Princeton University,1943,['Unspecified'],US
+N00107,Fudan University,復旦大學,1926,['Unspecified'],China,New York University,New York University,1937,['Unspecified'],US,University of Michigan,University of Michigan,1942,['Master'],US
+N00117,Jinan University,暨南大學,1938,['Unspecified'],China,University of Michigan,University of Michigan,1940,['Unspecified'],US,New York University,New York University,1943,['Unspecified'],US
+N00121,Beijing University,北京大學,1931,['Unspecified'],China,Hartford Seminary Foundation,Hartford Seminary Foundation,1934,['Bachelor'],US,University of Chicago,University of Chicago,1943,['Doctorate'],US
+N00127,Jinling University,金陵大學,1933,['Unspecified'],China,Syracuse University,Syracuse University,1942,['Master'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N00133,Lingnan University,嶺南大學,1937,['Unspecified'],China,Iowa State College,Iowa State College,1940,['Bachelor'],US,University of California,University of California,1943,['Unspecified'],US
+N00138,Guanghua University,光華大學,1938,['Unspecified'],China,American Conservatory of Music,American Conservatory of Music,1942,['Master'],US,Northeastern University,Northeastern University,1943,['Unspecified'],US
+N00141,Jiaotong University,交通大學,1937,['Unspecified'],China,University of Toronto,University of Toronto,1941,['Master'],Other,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N00145,Lingnan University,嶺南大學,1930,['Unspecified'],China,George Washington University,George Washington University,1939,['Master'],US,Hartford Seminary Foundation,Hartford Seminary Foundation,1943,['Unspecified'],US
+N00148,Shanghai University,滬江大學,1937,['Unspecified'],China,Oberlin College,Oberlin College,1938,['Bachelor'],US,University of California,University of California,1941,['Master'],US
+N00153,Zhijiang University,之江大學,1926,['Unspecified'],China,Virginia Polytechnic Institute,Virginia Polytechnic Institute,1942,['Master'],US,Drew University,Drew University,1943,['Unspecified'],US
+N00159,Tsinghua University,清華大學,1930,['Unspecified'],China,University of Wisconsin,University of Wisconsin,1932,['Bachelor'],US,University of Missouri,University of Missouri,1933,['Master'],US
+N00159,University of Wisconsin,University of Wisconsin,1932,['Bachelor'],US,University of Missouri,University of Missouri,1933,['Master'],US,University of Illinois,University of Illinois,1937,['Doctorate'],US
+N00174,North Dakota State College,North Dakota State College,1940,['Bachelor'],US,University of Minnesota,University of Minnesota,1941,['Unspecified'],US,University of California,University of California,1942,['Unspecified'],US
+N00181,Lingnan University,嶺南大學,1939,['Unspecified'],China,Stanford University,Stanford University,1942,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00197,St. John's University,聖約翰大學,1941,['Unspecified'],China,Colorado School of Mines,Colorado School of Mines,1942,['Unspecified'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N00204,Central Army Military Academy,中央陸軍軍官學校,1938,['Unspecified'],China,Royal Military College,Royal Military College,1940,['Unspecified'],Other,Field Artillery School,Field Artillery School,1942,['Unspecified'],US
+N00205,Lingnan University,嶺南大學,1926,['Unspecified'],China,Pomona College,Pomona College,1940,['Bachelor'],US,University of Denver,University of Denver,1943,['Unspecified'],US
+N00206,Yenching University,燕京大學,1941,['Unspecified'],China,University of Washington,University of Washington,1942,['Unspecified'],US,Princeton University,Princeton University,1943,['Unspecified'],US
+N00213,Madison College,Madison College,1940,['Bachelor'],US,Michigan State College,Michigan State College,1941,['Master'],US,Cornell University,Cornell University,1943,['Unspecified'],US
+N00218,Shanghai University,滬江大學,1930,['Unspecified'],China,Women's Christian Medical College,Women's Christian Medical College,1935,['Doctorate'],China,University of Pennsylvania,University of Pennsylvania,1940,['Unspecified'],US
+N00222,Lingnan University,嶺南大學,1932,['Unspecified'],China,Haverford College,Haverford College,1941,['Master'],US,Hartford Seminary Foundation,Hartford Seminary Foundation,1942,['Unspecified'],US
+N00225,Qilu University,齊魯大學,1933,['Unspecified'],China,Duke University,Duke University,1939,['Unspecified'],US,University of Chicago,University of Chicago,1942,['Unspecified'],US
+N00228,Beijing University,北京大學,1936,['Bachelor'],China,University of Missouri,University of Missouri,1942,['Unspecified'],US,Columbia University,Columbia University,1943,['Master'],US
+N00243,Jinling University,金陵大學,1928,['Unspecified'],China,Juilliard School of Music,Juilliard School of Music,1939,['Unspecified'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00249,Yenching University,燕京大學,1929,['Unspecified'],China,College of St. Elisabeth,College of St. Elisabeth,1934,['Unspecified'],US,Catholic University of America,Catholic University of America,1940,['Unspecified'],US
+N00251,Yenching University,燕京大學,1936,['Unspecified'],China,University of Michigan,University of Michigan,1938,['Master'],US,Georgetown University,Georgetown University,1942,['Doctorate'],US
+N00252,Tsinghua University,清華大學,1920,['Unspecified'],China,University of Missouri,University of Missouri,1922,['Master'],US,Harvard University,Harvard University,1926,['Doctorate'],US
+N00257,Jinling University,金陵大學,1938,['Unspecified'],China,University of Chicago,University of Chicago,1941,['Unspecified'],US,Iowa State College,Iowa State College,1943,['Doctorate'],US
+N00262,Zhongshan University,中山大學,1938,['Unspecified'],China,University of Hawaii,University of Hawaii,1940,['Unspecified'],US,University of California,University of California,1943,['Unspecified'],US
+N00265,University of Hong Kong,University of Hong Kong,1940,['Unspecified'],Other,Penn State College,Penn State College,1942,['Bachelor'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N00266,Fujian Union University,福建協和大學,1929,['Unspecified'],China,Dickinson College,Dickinson College,1940,['Bachelor'],US,Penn State College,Penn State College,1943,['Unspecified'],US
+N00267,University of British Columbia,University of British Columbia,1939,['Unspecified'],Other,University of Michigan,University of Michigan,1942,['Bachelor'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00270,Yenching University,燕京大學,1932,['Unspecified'],China,University of Tennessee,University of Tennessee,1941,['Master'],US,University of Illinois,University of Illinois,1943,['Unspecified'],US
+N00279,Yenching University,燕京大學,1935,['Unspecified'],China,University of Missouri,University of Missouri,1938,['Master'],US,University of California,University of California,1943,['Unspecified'],US
+N00288,Tientsin Institute of Commerce,天津工商學院學,1939,['Unspecified'],China,University of Detroit,University of Detroit,1942,['Unspecified'],US,New York University,New York University,1943,['Unspecified'],US
+N00290,Ginling College,金陵女子文理學院,1931,['Unspecified'],China,Smith College,Smith College,1939,['Master'],US,New School For Social Research,New School For Social Research,1944,['Doctorate'],US
+N00293,Tsinghua University,清華大學,1937,['Unspecified'],China,Cornell University,Cornell University,1940,['Bachelor'],US,Harvard University,Harvard University,1942,['Master'],US
+N00326,Southeast University,東南大學,1925,['Unspecified'],China,Peking Union Medical College,協和醫學院,1930,['Unspecified'],China,Northwestern University,Northwestern University,1943,['Unspecified'],US
+N00327,Lingnan University,嶺南大學,1940,['Unspecified'],China,Penn State College,Penn State College,1942,['Bachelor'],US,Cornell University,Cornell University,1943,['Unspecified'],US
+N00336,Yenching University,燕京大學,1935,['Unspecified'],China,Mills College,Mills College,1938,['Master'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N00339,St. John's University,聖約翰大學,1933,['Unspecified'],China,Purdue University,Purdue University,1934,['Unspecified'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1938,['Unspecified'],US
+N00356,Lingnan University,嶺南大學,1929,['Unspecified'],China,Kansas State College,Kansas State College,1936,['Bachelor'],US,Art Institute of Chicago,Art Institute of Chicago,1943,['Bachelor'],US
+N00362,University of the Philippines,University of the Philippines,1937,['Bachelor'],Other,Mapúa Institute of Technology,Mapúa Institute of Technology,1939,['Bachelor'],Other,California Institute of Technology,California Institute of Technology,1942,['Master'],US
+N00385,Ginling College,金陵女子文理學院,1936,['Unspecified'],China,Oregon State College,Oregon State College,1940,['Master'],US,University of Wisconsin,University of Wisconsin,1943,['Unspecified'],US
+N00389,Lingnan University,嶺南大學,1941,['Unspecified'],China,Rockford College,Rockford College,1942,['Bachelor'],US,Northwestern University,Northwestern University,1943,['Unspecified'],US
+N00399,Jinan University,暨南大學,1936,['Unspecified'],China,Albion College,Albion College,1938,['Unspecified'],US,Olivet College,Olivet College,1942,['Unspecified'],US
+N00413,Nankai University,南開大學,1934,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1940,['Master'],US,Louisiana State University,Louisiana State University,1943,['Unspecified'],US
+N00415,Zhongshan University,中山大學,1937,['Unspecified'],China,University of Illinois,University of Illinois,1940,['Master'],US,University of Cincinnati,University of Cincinnati,1943,['Unspecified'],US
+N00417,Lingnan University,嶺南大學,1940,['Unspecified'],China,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1941,['Master'],US,University of Illinois,University of Illinois,1943,['Doctorate'],US
+N00419,Shanghai University,滬江大學,1939,['Unspecified'],China,Mount Holyoke College,Mount Holyoke College,1941,['Bachelor'],US,University of North Carolina,University of North Carolina,1942,['Unspecified'],US
+N00424,St. John's University,聖約翰大學,1937,['Unspecified'],China,New York University,New York University,1942,['Master'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N00427,Southeast University,東南大學,1940,['Unspecified'],China,Indiana University,Indiana University,1941,['Doctorate'],US,Radcliffe College,Radcliffe College,1943,['Unspecified'],US
+N00431,Fujian Union University,福建協和大學,1929,['Unspecified'],China,St. John's University,聖約翰大學,1934,['Doctorate'],China,University of Minnesota,University of Minnesota,1943,['Master'],US
+N00434,Zhongshan University,中山大學,1937,['Unspecified'],China,University of Michigan,University of Michigan,1940,['Bachelor'],US,Purdue University,Purdue University,1941,['Unspecified'],US
+N00436,Lingnan University,嶺南大學,1935,['Unspecified'],China,Kansas State College,Kansas State College,1941,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00469,Aurora University,震旦大學,1930,['Unspecified'],China,International University,International University,1937,['Master'],Other,Loyola University,Loyola University,1943,['Unspecified'],US
+N00471,Yenching University,燕京大學,1935,['Unspecified'],China,University of California,University of California,1940,['Master'],US,Columbia University,Columbia University,1942,['Doctorate'],US
+N00474,Aurora University,震旦大學,1935,['Unspecified'],China,Catholic University of America,Catholic University of America,1940,['Master'],US,Loyola University,Loyola University,1943,['Unspecified'],US
+N00481,Wellesley College,Wellesley College,1931,['Bachelor'],US,University of Michigan,University of Michigan,1939,['Doctorate'],US,Texas Technical College,Texas Technical College,1943,['Unspecified'],US
+N00493,Hwa Nan College,華南學院,1937,['Unspecified'],China,Morningside Conservatory of Music,Morningside Conservatory of Music,1940,['Bachelor'],US,Westminster Choir College,Westminster Choir College,1943,['Unspecified'],US
+N00497,Tsinghua University,清華大學,1937,['Unspecified'],China,University of Toronto,University of Toronto,1941,['Master'],Other,California Institute of Technology,California Institute of Technology,1943,['Unspecified'],US
+N00500,Foochow College,福州學院,1909,['Unspecified'],China,Forest Park University,Forest Park University,1911,['Master'],US,University of Illinois,University of Illinois,1915,['Doctorate'],US
+N00501,Fujian Union University,福建協和大學,1926,['Unspecified'],China,Oberlin College,Oberlin College,1932,['Unspecified'],US,University of Chicago,University of Chicago,1935,['Doctorate'],US
+N00501,Fujian Union University,福建協和大學,1926,['Unspecified'],China,Oberlin College,Oberlin College,1932,['Unspecified'],US,Yale University,Yale University,1935,['Unspecified'],US
+N00507,Tsinghua University,清華大學,1937,['Unspecified'],China,University of Wisconsin,University of Wisconsin,1940,['Bachelor'],US,Columbia University,Columbia University,1942,['Master'],US
+N00507,University of Wisconsin,University of Wisconsin,1940,['Bachelor'],US,Columbia University,Columbia University,1942,['Master'],US,Yale University,Yale University,1943,['Unspecified'],US
+N00518,Shanghai University,滬江大學,1935,['Unspecified'],China,Southwestern Seminary,Southwestern Seminary,1941,['Unspecified'],US,George Peabody College,George Peabody College,1942,['Unspecified'],US
+N00518,Southwestern Seminary,Southwestern Seminary,1941,['Unspecified'],US,George Peabody College,George Peabody College,1942,['Unspecified'],US,University of Colorado,University of Colorado,1943,['Unspecified'],US
+N00528,St. John's University,聖約翰大學,1938,['Unspecified'],China,University of California,University of California,1942,['Master'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N00532,Jinling University,金陵大學,1930,['Unspecified'],China,University of California,University of California,1936,['Master'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N00533,West China University,華西大學,1935,['Unspecified'],China,Syracuse University,Syracuse University,1937,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00539,Fu-jen University,輔仁大學,1941,['Unspecified'],China,University of Washington,University of Washington,1942,['Unspecified'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00553,Yenching University,燕京大學,1937,['Unspecified'],China,Columbia University,Columbia University,1940,['Master'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N00556,Tsinghua University,清華大學,1938,['Unspecified'],China,Zhejiang University,浙江大學,1942,['Unspecified'],China,University of California,University of California,1943,['Unspecified'],US
+N00557,Jinan University,暨南大學,1938,['Unspecified'],China,University of Michigan,University of Michigan,1940,['Master'],US,University of Southern California,University of Southern California,1943,['Unspecified'],US
+N00561,Jiaotong University,交通大學,1939,['Unspecified'],China,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1940,['Master'],US,California Institute of Technology,California Institute of Technology,1942,['Unspecified'],US
+N00561,Jiaotong University,交通大學,1939,['Unspecified'],China,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1940,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1942,['Doctorate'],US
+N00562,Zhijiang University,之江大學,1940,['Unspecified'],China,University of Michigan,University of Michigan,1942,['Master'],US,University of Illinois,University of Illinois,1943,['Unspecified'],US
+N00574,Tsinghua University,清華大學,1912,['Unspecified'],China,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1917,['Unspecified'],US,Columbia University,Columbia University,1921,['Doctorate'],US
+N00575,Zhijiang University,之江大學,1937,['Unspecified'],China,University of Colorado,University of Colorado,1938,['Unspecified'],US,Montana State College,Montana State College,1943,['Unspecified'],US
+N00581,Yenching University,燕京大學,1939,['Unspecified'],China,American National University,NationaI University,1940,['Master'],US,New York University,New York University,1943,['Unspecified'],US
+N00591,Tsinghua University,清華大學,1936,['Unspecified'],China,University of Toronto,University of Toronto,1941,['Master'],Other,Princeton University,Princeton University,1943,['Unspecified'],US
+N00599,Beijing University,北京大學,1940,['Unspecified'],China,Oberlin College,Oberlin College,1942,['Bachelor'],US,Columbia University,Columbia University,1943,['Master'],US
+N00600,Shanghai University,滬江大學,1938,['Unspecified'],China,Cornell University,Cornell University,1942,['Unspecified'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00600,Shanghai University,滬江大學,1938,['Unspecified'],China,Haverford College,Haverford College,1942,['Bachelor'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00603,Jiaotong University,交通大學,1930,['Unspecified'],China,North American Institute of Aviation,North American Institute of Aviation,1937,['Unspecified'],US,Arizona State Teachers' College,Arizona State Teachers' College,1943,['Unspecified'],US
+N00604,Central University,中央大學,1932,['Unspecified'],China,Edinburgh University,Edinburgh University,1940,['Doctorate'],Other,Harvard University,Harvard University,1943,['Unspecified'],US
+N00608,Yenching University,燕京大學,1935,['Unspecified'],China,Mills College,Mills College,1940,['Master'],US,University of California,University of California,1943,['Unspecified'],US
+N00610,Yenching University,燕京大學,1935,['Unspecified'],China,University of Chicago,University of Chicago,1941,['Unspecified'],US,University of Minnesota,University of Minnesota,1943,['Unspecified'],US
+N00611,Jinling University,金陵大學,1937,['Unspecified'],China,Oregon State College,Oregon State College,1940,['Unspecified'],US,University of California,University of California,1943,['Unspecified'],US
+N00615,Sino-French University,中法大學,1934,['Unspecified'],China,University of Lyon,University of Lyon,1937,['Master'],Other,Chemical Institute of Lyon,Chemical Institute of Lyon,1938,['Unspecified'],Other
+N00615,University of Lyon,University of Lyon,1937,['Master'],Other,Chemical Institute of Lyon,Chemical Institute of Lyon,1938,['Unspecified'],Other,University of Paris,University of Paris,1941,['Doctorate'],Other
+N00623,Yenching University,燕京大學,1938,['Unspecified'],China,Seton Hill College,Seton Hill College,1941,['Bachelor'],US,Drew University,Drew University,1942,['Unspecified'],US
+N00624,Yenching University,燕京大學,1936,['Unspecified'],China,Peking Union Medical College,協和醫學院,1941,['Unspecified'],China,Drake University,Drake University,1943,['Unspecified'],US
+N00626,Lenoir-Rhyne College,Lenoir-Rhyne College,1940,['Bachelor'],US,New York University,New York University,1941,['Master'],US,Cornell University,Cornell University,1943,['Unspecified'],US
+N00627,Qilu University,齊魯大學,1930,['Unspecified'],China,Yenching University,燕京大學,1932,['Unspecified'],China,Columbia University,Columbia University,1938,['Doctorate'],US
+N00629,West China University,華西大學,1930,['Unspecified'],China,Yenching University,燕京大學,1933,['Unspecified'],China,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1942,['Doctorate'],US
+N00635,Jiaotong University,交通大學,1936,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1939,['Master'],US,University of Southern California,University of Southern California,1943,['Unspecified'],US
+N00639,Lingnan University,嶺南大學,1929,['Unspecified'],China,Smith College,Smith College,1939,['Master'],US,University of California,University of California,1943,['Unspecified'],US
+N00642,University of California,University of California,1936,['Bachelor'],US,University of Michigan,University of Michigan,1939,['Master'],US,University of Colorado,University of Colorado,1943,['Unspecified'],US
+N00647,University of London,University of London,1939,['Unspecified'],Other,Purdue University,Purdue University,1942,['Bachelor'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N00649,Jiaotong University,交通大學,1935,['Unspecified'],China,Cornell University,Cornell University,1937,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1938,['Unspecified'],US
+N00649,Cornell University,Cornell University,1937,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1938,['Unspecified'],US,Cornell University,Cornell University,1940,['Doctorate'],US
+N00677,University of Chicago,University of Chicago,1918,['Unspecified'],US,Cornell University,Cornell University,1920,['Master'],US,Princeton University,Princeton University,1925,['Doctorate'],US
+N00689,Tsinghua University,清華大學,1936,['Unspecified'],China,Manchester University,Manchester University,1940,['Master'],US,State University of Iowa,State University of Iowa,1943,['Doctorate'],US
+N00713,Lingnan University,嶺南大學,1933,['Unspecified'],China,University of Washington,University of Washington,1938,['Master'],US,Georgetown University,Georgetown University,1943,['Unspecified'],US
+N00715,Lingnan University,嶺南大學,1928,['Unspecified'],China,University of Hawaii,University of Hawaii,1940,['Master'],US,New York University,New York University,1943,['Unspecified'],US
+N00718,Lingnan University,嶺南大學,1929,['Unspecified'],China,Stanford University,Stanford University,1931,['Master'],US,University of Southern California,University of Southern California,1936,['Doctorate'],US
+N00737,Lingnan University,嶺南大學,1932,['Unspecified'],China,Yenching University,燕京大學,1936,['Unspecified'],China,Claremont College,Claremont College,1943,['Unspecified'],US
+N00737,Lingnan University,嶺南大學,1932,['Unspecified'],China,Yenching University,燕京大學,1936,['Unspecified'],China,University of California,University of California,1943,['Unspecified'],US
+N00743,Nankai School,南開學校,1929,['Unspecified'],China,University of Southern California,University of Southern California,1933,['Bachelor'],US,Columbia University,Columbia University,1936,['Master'],US
+N00743,University of Southern California,University of Southern California,1933,['Bachelor'],US,Columbia University,Columbia University,1936,['Master'],US,Georgetown University,Georgetown University,1938,['Unspecified'],US
+N00755,Central University,中央大學,1929,['Unspecified'],China,University of Michigan,University of Michigan,1937,['Master'],US,Columbia University,Columbia University,1941,['Doctorate'],US
+N00757,Beijing University,北京大學,1935,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Doctorate'],Other,Columbia University,Columbia University,1943,['Unspecified'],US
+N00758,Daxia University,大夏大學,1930,['Unspecified'],China,George Washington University,George Washington University,1941,['Unspecified'],US,Purdue University,Purdue University,1943,['Unspecified'],US
+N00761,Yenching University,燕京大學,1937,['Unspecified'],China,University of Southern California,University of Southern California,1942,['Unspecified'],US,Simmons College,Simmons College,1943,['Unspecified'],US
+N00771,Fudan University,復旦大學,1940,['Unspecified'],China,Indiana University,Indiana University,1942,['Unspecified'],US,Columbia University,Columbia University,1943,['Master'],US
+N00772,Zhejiang University,浙江大學,1937,['Unspecified'],China,McGill University,McGill University,1941,['Master'],Other,Carnegie Institute of Technology,Carnegie Institute of Technology,1943,['Unspecified'],US
+N00791,University of Wisconsin,University of Wisconsin,1926,['Bachelor'],US,Mills College,Mills College,1940,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1941,['Other degree'],US
+N00791,Mills College,Mills College,1940,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1941,['Other degree'],US,State University of Iowa,State University of Iowa,1943,['Unspecified'],US
+N00792,Jinling University,金陵大學,1937,['Unspecified'],China,Kansas State College,Kansas State College,1941,['Master'],US,Iowa State College,Iowa State College,1943,['Doctorate'],US
+N00803,Jiaotong University,交通大學,1935,['Unspecified'],China,University of Michigan,University of Michigan,1939,['Unspecified'],US,Boston University,Boston University,1940,['Master'],US
+N00807,Southeast University,東南大學,1936,['Unspecified'],China,Central Political School,中央政治學校,1938,['Unspecified'],China,New York University,New York University,1943,['Unspecified'],US
+N00813,Jinan University,暨南大學,1935,['Unspecified'],China,University of Paris,University of Paris,1941,['Doctorate'],Other,Harvard University,Harvard University,1942,['Unspecified'],US
+N00816,Lingnan University,嶺南大學,1935,['Unspecified'],China,New York University,New York University,1936,['Master'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N00818,Hwa Nan College,華南學院,1930,['Unspecified'],China,Oberlin College,Oberlin College,1938,['Master'],US,Radcliffe College,Radcliffe College,1942,['Doctorate'],US
+N00832,Shanghai University,滬江大學,1938,['Unspecified'],China,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1942,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00840,Fujian Union University,福建協和大學,1928,['Unspecified'],China,Oberlin College,Oberlin College,1930,['Master'],US,University of Pennsylvania,University of Pennsylvania,1934,['Doctorate'],US
+N00857,Yenching University,燕京大學,1932,['Unspecified'],China,Tsinghua University,清華大學,1935,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Unspecified'],Other
+N00857,Tsinghua University,清華大學,1935,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Unspecified'],Other,Columbia University,Columbia University,1943,['Unspecified'],US
+N00862,Fudan University,復旦大學,1931,['Unspecified'],China,University of Michigan,University of Michigan,1933,['Master'],US,University of Chicago,University of Chicago,1937,['Doctorate'],US
+N00870,Jinan University,暨南大學,1938,['Unspecified'],China,University of Michigan,University of Michigan,1941,['Master'],US,Cornell University,Cornell University,1943,['Unspecified'],US
+N00886,Zhijiang University,之江大學,1924,['Unspecified'],China,University of Michigan,University of Michigan,1930,['Doctorate'],US,University of Chicago,University of Chicago,1942,['Doctorate'],US
+N00890,Shanghai Sanyu University,三育大學,1925,['Unspecified'],China,Emmanuel Missionary College,Emmanuel Missionary College,1929,['Bachelor'],US,Michigan State College,Michigan State College,1933,['Master'],US
+N00897,Jinling University,金陵大學,1930,['Unspecified'],China,University of Minnesota,University of Minnesota,1936,['Master'],US,University of California,University of California,1943,['Unspecified'],US
+N00898,St. John's University,聖約翰大學,1940,['Unspecified'],China,Indiana University,Indiana University,1942,['Bachelor'],US,University of Pennsylvania,University of Pennsylvania,1943,['Unspecified'],US
+N00900,University of Hawaii,University of Hawaii,1931,['Bachelor'],US,Yenching University,燕京大學,1934,['Unspecified'],China,Harvard University,Harvard University,1943,['Unspecified'],US
+N00904,Yenching University,燕京大學,1937,['Unspecified'],China,Haverford College,Haverford College,1940,['Unspecified'],US,Columbia University,Columbia University,1941,['Unspecified'],US
+N00905,Fujian Union University,福建協和大學,1922,['Unspecified'],China,Columbia University,Columbia University,1929,['Master'],US,University of Southern California,University of Southern California,1939,['Doctorate'],US
+N00909,Shanghai University,滬江大學,1936,['Unspecified'],China,Carnegie Institute of Technology,Carnegie Institute of Technology,1940,['Bachelor'],US,Syracuse University,Syracuse University,1942,['Unspecified'],US
+N00915,Yenching University,燕京大學,1936,['Unspecified'],China,University of Michigan,University of Michigan,1937,['Master'],US,Marquette University,Marquette University,1942,['Unspecified'],US
+N00916,Zhongshan University,中山大學,1935,['Unspecified'],China,University of London,University of London,1940,['Doctorate'],Other,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N00921,Fujian Union University,福建協和大學,1936,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1941,['Unspecified'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N00922,Jinan University,暨南大學,1937,['Unspecified'],China,University of Michigan,University of Michigan,1941,['Master'],US,New York University,New York University,1943,['Unspecified'],US
+N00925,Jinan University,暨南大學,1940,['Unspecified'],China,University of Michigan,University of Michigan,1941,['Unspecified'],US,University of Washington,University of Washington,1942,['Unspecified'],US
+N00928,Yenching University,燕京大學,1928,['Unspecified'],China,Peking Union Medical College,協和醫學院,1933,['Unspecified'],China,University of Michigan,University of Michigan,1943,['Master'],US
+N00931,Beijing University,北京大學,1924,['Unspecified'],China,Columbia University,Columbia University,1936,['Unspecified'],US,Canisus College,Canisus College,1942,['Unspecified'],US
+N00932,Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,1934,['Unspecified'],China,Stanford University,Stanford University,1940,['Master'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N00942,Shanghai University,滬江大學,1939,['Unspecified'],China,Clark University,Clark University,1941,['Bachelor'],US,University of Michigan,University of Michigan,1942,['Master'],US
+N00942,Clark University,Clark University,1941,['Bachelor'],US,University of Michigan,University of Michigan,1942,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00945,China College University Department,中國公學大學部,1931,['Unspecified'],China,Antioch College,Antioch College,1942,['Unspecified'],US,University of Minnesota,University of Minnesota,1943,['Unspecified'],US
+N00958,Arkansas State College,Arkansas State College,1938,['Bachelor'],US,University of Cincinnati,University of Cincinnati,1941,['Unspecified'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N00960,Shanghai University,滬江大學,1935,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1940,['Master'],US,Columbia University,Columbia University,1941,['Unspecified'],US
+N00960,University of Pennsylvania,University of Pennsylvania,1940,['Master'],US,Columbia University,Columbia University,1941,['Unspecified'],US,Clarence White School of Photography,Clarence White School of Photography,1942,['Unspecified'],US
+N00973,Yenching University,燕京大學,1932,['Unspecified'],China,Peking Union Medical College,協和醫學院,1935,['Unspecified'],China,University of Michigan,University of Michigan,1938,['Master'],US
+N00973,Peking Union Medical College,協和醫學院,1935,['Unspecified'],China,University of Michigan,University of Michigan,1938,['Master'],US,Columbia University,Columbia University,1941,['Unspecified'],US
+N00986,Shandong University,山東大學,1937,['Unspecified'],China,Briar Cliff College,Briar Cliff College,1941,['Bachelor'],US,Alverno College of Music,Alverno College of Music,1943,['Bachelor'],US
+N00986,Shandong University,山東大學,1937,['Unspecified'],China,Briar Cliff College,Briar Cliff College,1941,['Bachelor'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N00987,Tsinghua University,清華大學,1935,['Unspecified'],China,State University of Iowa,State University of Iowa,1939,['Master'],US,Cornell University,Cornell University,1942,['Doctorate'],US
+N00997,Huazhong University,華中大學,1938,['Unspecified'],China,Yenching University,燕京大學,1940,['Unspecified'],China,Brown University,Brown University,1943,['Unspecified'],US
+N01010,Jiaotong University,交通大學,1941,['Unspecified'],China,Purdue University,Purdue University,1942,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N01012,Central University,中央大學,1928,['Unspecified'],China,University of Michigan,University of Michigan,1934,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N01029,Lingnan University,嶺南大學,1939,['Unspecified'],China,Columbia University,Columbia University,1942,['Unspecified'],US,Miami University,Miami University,1943,['Unspecified'],US
+N01037,Nankai University,南開大學,1937,['Unspecified'],China,Pennsylvania College for Woman,Pennsylvania College for Woman,1940,['Bachelor'],US,Oberlin College,Oberlin College,1942,['Master'],US
+N01045,Yenching University,燕京大學,1927,['Unspecified'],China,Peking Union Medical College,協和醫學院,1932,['Unspecified'],China,Harvard University,Harvard University,1942,['Master'],US
+N01047,Xiamen University,廈門大學,1931,['Unspecified'],China,Lingnan University,嶺南大學,1934,['Unspecified'],China,University of Michigan,University of Michigan,1942,['Master'],US
+N01055,Central University,中央大學,1933,['Unspecified'],China,University of Minnesota,University of Minnesota,1939,['Master'],US,Oregon State College,Oregon State College,1943,['Doctorate'],US
+N01058,Central University,中央大學,1933,['Unspecified'],China,University of Minnesota,University of Minnesota,1939,['Master'],US,Oregon State College,Oregon State College,1943,['Unspecified'],US
+N01062,Shanghai University,滬江大學,1929,['Unspecified'],China,University of Richmond,University of Richmond,1941,['Unspecified'],US,University of Pennsylvania,University of Pennsylvania,1943,['Master'],US
+N01067,Tsinghua University,清華大學,1930,['Unspecified'],China,Yenching University,燕京大學,1934,['Unspecified'],China,Harvard University,Harvard University,1942,['Doctorate'],US
+N01069,Zhongshan University,中山大學,1931,['Unspecified'],China,Yenching University,燕京大學,1933,['Unspecified'],China,University of Pittsburgh,University of Pittsburgh,1943,['Unspecified'],US
+N01071,University of Hawaii,University of Hawaii,1930,['Bachelor'],US,University of Michigan,University of Michigan,1935,['Doctorate'],US,Wayne University,Wayne University,1943,['Unspecified'],US
+N01072,Lingnan University,嶺南大學,1940,['Unspecified'],China,University of Hawaii,University of Hawaii,1941,['Bachelor'],US,Cornell University,Cornell University,1943,['Unspecified'],US
+N01074,Nankai University,南開大學,1931,['Unspecified'],China,Columbia University,Columbia University,1940,['Master'],US,New School For Social Research,New School For Social Research,1942,['Unspecified'],US
+N01078,Southeast University,東南大學,1940,['Unspecified'],China,Millsaps College,Millsaps College,1942,['Bachelor'],US,Indiana University,Indiana University,1943,['Doctorate'],US
+N01080,Tsinghua University,清華大學,1933,['Unspecified'],China,Colorado School of Mines,Colorado School of Mines,1941,['Unspecified'],US,California Institute of Technology,California Institute of Technology,1943,['Unspecified'],US
+N01080,Tsinghua University,清華大學,1933,['Unspecified'],China,McGill University,McGill University,1941,['Master'],Other,California Institute of Technology,California Institute of Technology,1943,['Unspecified'],US
+N01081,Yenching University,燕京大學,1933,['Unspecified'],China,Tsinghua University,清華大學,1935,['Unspecified'],China,University of London,University of London,1938,['Doctorate'],Other
+N01086,Yenching University,燕京大學,1937,['Unspecified'],China,University of Michigan,University of Michigan,1941,['Master'],US,University of Minnesota,University of Minnesota,1943,['Unspecified'],US
+N01088,Fujian Union University,福建協和大學,1930,['Unspecified'],China,Harvard University,Harvard University,1940,['Unspecified'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N01090,Yenching University,燕京大學,1930,['Unspecified'],China,Peking Union Medical College,協和醫學院,1934,['Unspecified'],China,Johns Hopkins University,Johns Hopkins University,1942,['Master'],US
+N01091,St. John's University,聖約翰大學,1928,['Unspecified'],China,Yenching University,燕京大學,1931,['Unspecified'],China,Harvard University,Harvard University,1943,['Doctorate'],US
+N01092,Beiyang University,北洋大學,1933,['Unspecified'],China,University of London,University of London,1937,['Master'],Other,Technical College of Hanover,Technical College of Hanover,1939,['Unspecified'],Other
+N01094,Central University,中央大學,1926,['Unspecified'],China,Cambridge University,Cambridge University,1939,['Master'],Other,University of Michigan,University of Michigan,1941,['Unspecified'],US
+N01098,Tri-State College,Tri-State College,1929,['Unspecified'],US,New York University,New York University,1935,['Unspecified'],US,Safair Flying School,Safair Flying School,1937,['Unspecified'],US
+N01102,Southeast University,東南大學,1910,['Unspecified'],China,George Washington University,George Washington University,1919,['Master'],US,Southern College,Southern College,1930,['Doctorate'],US
+N01106,Xiamen University,廈門大學,1925,['Unspecified'],China,Rostock University,Rostock University,1928,['Doctorate'],Other,Johns Hopkins University,Johns Hopkins University,1942,['Master'],US
+N01118,Fujian Union University,福建協和大學,1927,['Unspecified'],China,Drew University,Drew University,1940,['Master'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N01123,Jiaotong University,交通大學,1939,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1942,['Master'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N01129,Qilu University,齊魯大學,1929,['Unspecified'],China,Yenching University,燕京大學,1932,['Unspecified'],China,Cornell University,Cornell University,1942,['Doctorate'],US
+N01135,St. John's University,聖約翰大學,1936,['Unspecified'],China,University of Michigan,University of Michigan,1938,['Unspecified'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N01136,Central University,中央大學,1934,['Unspecified'],China,University of Michigan,University of Michigan,1938,['Master'],US,University of Iowa,University of Iowa,1942,['Doctorate'],US
+N01137,Shanghai University,滬江大學,1937,['Unspecified'],China,Park College,Park College,1938,['Unspecified'],US,University of Missouri,University of Missouri,1939,['Unspecified'],US
+N01147,Yenching University,燕京大學,1936,['Unspecified'],China,Michigan State College,Michigan State College,1940,['Master'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N01152,Guanghua University,光華大學,1939,['Unspecified'],China,George Washington University,George Washington University,1941,['Bachelor'],US,University of Wisconsin,University of Wisconsin,1942,['Master'],US
+N01168,Ginling College,金陵女子文理學院,1930,['Unspecified'],China,Mount Holyoke College,Mount Holyoke College,1933,['Master'],US,University of Michigan,University of Michigan,1937,['Unspecified'],US
+N01169,Yenching University,燕京大學,1939,['Unspecified'],China,University of Michigan,University of Michigan,1942,['Unspecified'],US,Michigan State College,Michigan State College,1943,['Unspecified'],US
+N01172,Tsinghua University,清華大學,1937,['Unspecified'],China,Yenching University,燕京大學,1940,['Unspecified'],China,University of California,University of California,1943,['Doctorate'],US
+N01174,Lingnan University,嶺南大學,1939,['Unspecified'],China,Ohio Wesleyan University,Ohio Wesleyan University,1941,['Bachelor'],US,Ohio State University,Ohio State University,1942,['Master'],US
+N01175,Lingnan University,嶺南大學,1940,['Unspecified'],China,University of Michigan,University of Michigan,1941,['Unspecified'],US,Taliesin Fellowship,Taliesin Fellowship,1942,['Unspecified'],US
+N01175,University of Michigan,University of Michigan,1941,['Unspecified'],US,Taliesin Fellowship,Taliesin Fellowship,1942,['Unspecified'],US,Illinois Institute of Technology,Illinois Institute of Technology,1943,['Unspecified'],US
+N01182,Guanghua University,光華大學,1926,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1937,['Unspecified'],US,New York University,New York University,1939,['Master'],US
+N01184,Southwest Associated University,西南聯合大學,1939,['Unspecified'],China,Park College,Park College,1942,['Bachelor'],US,Wellesley College,Wellesley College,1943,['Unspecified'],US
+N01190,University of Hong Kong,University of Hong Kong,1941,['Unspecified'],Other,Pomona College,Pomona College,1942,['Bachelor'],US,University of Washington,University of Washington,1943,['Unspecified'],US
+N01191,Guanghua University,光華大學,1941,['Unspecified'],China,Indiana University,Indiana University,1942,['Master'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N01194,Jiaotong University,交通大學,1939,['Unspecified'],China,Purdue University,Purdue University,1940,['Master'],US,Illinois Institute of Technology,Illinois Institute of Technology,1942,['Unspecified'],US
+N01196,Detroit Institute of Technology,Detroit Institute of Technology,1937,['Bachelor'],US,University of Michigan,University of Michigan,1938,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N01197,Tsinghua University,清華大學,1937,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Master'],Other,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N01201,Westmont College,Westmont College,1941,['Unspecified'],US,Pasadena College,Pasadena College,1942,['Unspecified'],US,University of Southern California,University of Southern California,1943,['Unspecified'],US
+N01204,Jiaotong University,交通大學,1941,['Unspecified'],China,Purdue University,Purdue University,1942,['Master'],US,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N01220,Yenching University,燕京大學,1939,['Unspecified'],China,University of Chicago,University of Chicago,1941,['Master'],US,Harvard University,Harvard University,1943,['Master'],US
+N01221,Southeast University,東南大學,1925,['Unspecified'],China,University of Chicago,University of Chicago,1942,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N01225,Stanford University,Stanford University,1937,['Bachelor'],US,University of Arizona,University of Arizona,1942,['Master'],US,University of Illinois,University of Illinois,1943,['Unspecified'],US
+N01267,Yenching University,燕京大學,1938,['Unspecified'],China,University of Kansas,University of Kansas,1941,['Bachelor'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N01271,Lingnan University,嶺南大學,1937,['Unspecified'],China,Lowell Textile Institute,Lowell Textile Institute,1942,['Unspecified'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N01281,Lingnan University,嶺南大學,1930,['Unspecified'],China,Illinois Institute of Technology,Illinois Institute of Technology,1934,['Bachelor'],US,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N01285,Guangdong National University,廣東國民大學,1936,['Unspecified'],China,Boston University,Boston University,1940,['Master'],US,Catholic University of America,Catholic University of America,1943,['Unspecified'],US
+N01288,Beijing University,北京大學,1931,['Unspecified'],China,University of Kansas,University of Kansas,1941,['Unspecified'],US,University of Minnesota,University of Minnesota,1943,['Unspecified'],US
+N01289,Guangdong Provincial Technical College,廣東省立工業專門學校,1934,['Unspecified'],China,Polytechnic Engineering College,Polytechnic Engineering College,1942,['Bachelor'],US,University of Michigan,University of Michigan,1943,['Unspecified'],US
+N01293,West China University,華西大學,1932,['Unspecified'],China,Yenching University,燕京大學,1938,['Unspecified'],China,Cornell University,Cornell University,1943,['Unspecified'],US
+N01297,Fujian Union University,福建協和大學,1934,['Unspecified'],China,University of Southern California,University of Southern California,1940,['Master'],US,University of Minnesota,University of Minnesota,1943,['Unspecified'],US
+N01300,Ginling College,金陵女子文理學院,1936,['Unspecified'],China,University of London,University of London,1939,['Unspecified'],Other,Radcliffe College,Radcliffe College,1943,['Unspecified'],US
+N01300,Ginling College,金陵女子文理學院,1936,['Unspecified'],China,University of London,University of London,1939,['Unspecified'],Other,Smith College,Smith College,1943,['Bachelor'],US
+N01306,Fujian Union University,福建協和大學,1929,['Unspecified'],China,Yenching University,燕京大學,1935,['Unspecified'],China,Michigan State College,Michigan State College,1943,['Unspecified'],US
+N01307,Fujian Union University,福建協和大學,1931,['Unspecified'],China,Yenching University,燕京大學,1937,['Unspecified'],China,University of Pennsylvania,University of Pennsylvania,1942,['Master'],US
+N01322,Propaganda Fide,Propaganda Fide,1934,['Doctorate'],Other,Columbia University,Columbia University,1942,['Master'],US,Fordham University,Fordham University,1943,['Unspecified'],US
+N01347,Jinling University,金陵大學,1929,['Unspecified'],China,Ohio Wesleyan University,Ohio Wesleyan University,1931,['Bachelor'],US,Johns Hopkins University,Johns Hopkins University,1941,['Doctorate'],US
+N01348,Lingnan University,嶺南大學,1937,['Unspecified'],China,Pomona College,Pomona College,1938,['Unspecified'],US,University of Southern California,University of Southern California,1943,['Unspecified'],US
+N01350,Beijing University,北京大學,1935,['Unspecified'],China,University of Maryland,University of Maryland,1942,['Unspecified'],US,University of Illinois,University of Illinois,1943,['Unspecified'],US
+N01355,Southwest Associated University,西南聯合大學,1940,['Unspecified'],China,College of St. Teresa,College of St. Teresa,1942,['Bachelor'],US,Radcliffe College,Radcliffe College,1943,['Unspecified'],US
+N01359,University of British Columbia,University of British Columbia,1937,['Bachelor'],Other,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1942,['Unspecified'],US,Purdue University,Purdue University,1943,['Master'],US
+N01361,Guanghua University,光華大學,1932,['Unspecified'],China,Yenching University,燕京大學,1934,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Doctorate'],Other
+N01378,Yenching University,燕京大學,1935,['Unspecified'],China,University of Kansas,University of Kansas,1941,['Master'],US,Columbia University,Columbia University,1943,['Unspecified'],US
+N01388,Xiamen University,廈門大學,1934,['Unspecified'],China,University of London,University of London,1939,['Doctorate'],Other,California Institute of Technology,California Institute of Technology,1943,['Unspecified'],US
+N01393,University of Brussels,University of Brussels,1940,['Unspecified'],Other,University of Geneva,University of Geneva,1941,['Unspecified'],Other,Columbia University,Columbia University,1943,['Master'],US
+N01403,Datong University,大同大學,1939,['Unspecified'],China,University of Michigan,University of Michigan,1941,['Bachelor'],US,California Institute of Technology,California Institute of Technology,1942,['Master'],US
+N01414,University of Illinois,University of Illinois,1939,['Bachelor'],US,University of Pennsylvania,University of Pennsylvania,1941,['Master'],US,University of Chicago,University of Chicago,1942,['Unspecified'],US
+N01414,University of Pennsylvania,University of Pennsylvania,1941,['Master'],US,University of Chicago,University of Chicago,1942,['Unspecified'],US,State University of Iowa,State University of Iowa,1943,['Unspecified'],US
+N01440,University of Hong Kong,University of Hong Kong,1938,['Unspecified'],Other,Harvard University,Harvard University,1940,['Master'],US,University of Illinois,University of Illinois,1941,['Unspecified'],US
+N01441,Jiaotong University,交通大學,1935,['Unspecified'],China,Air Force Technical College,空軍技術專門學校,1938,['Unspecified'],China,University of Toronto,University of Toronto,1941,['Master'],Other
+N01441,Air Force Technical College,空軍技術專門學校,1938,['Unspecified'],China,University of Toronto,University of Toronto,1941,['Master'],Other,California Institute of Technology,California Institute of Technology,1943,['Unspecified'],US
+N01461,Ohio Wesleyan University,Ohio Wesleyan University,1940,['Bachelor'],US,University of Chicago,University of Chicago,1942,['Master'],US,University of California,University of California,1943,['Unspecified'],US
+N01464,Jiaotong University,交通大學,1936,['Unspecified'],China,University of London,University of London,1939,['Other degree'],Other,Cornell University,Cornell University,1943,['Unspecified'],US
+N01465,St. John's University,聖約翰大學,1937,['Unspecified'],China,Stanford University,Stanford University,1940,['Bachelor'],US,University of Michigan,University of Michigan,1941,['Master'],US
+N01465,Stanford University,Stanford University,1940,['Bachelor'],US,University of Michigan,University of Michigan,1941,['Master'],US,Columbia University,Columbia University,1942,['Unspecified'],US
+N01466,Jiaotong University,交通大學,1938,['Unspecified'],China,Purdue University,Purdue University,1940,['Bachelor'],US,University of Michigan,University of Michigan,1942,['Master'],US
+N01492,Central University,中央大學,1934,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Master'],Other,Harvard University,Harvard University,1943,['Unspecified'],US
+N01495,Jiaotong University,交通大學,1941,['Unspecified'],China,University of Illinois,University of Illinois,1942,['Bachelor'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N01496,Yenching University,燕京大學,1932,['Unspecified'],China,Zhongshan University,中山大學,1936,['Unspecified'],China,Arizona State Teachers' College,Arizona State Teachers' College,1942,['Unspecified'],US
+N01498,Yenching University,燕京大學,1933,['Unspecified'],China,Peking Union Medical College,協和醫學院,1938,['Unspecified'],China,Harvard University,Harvard University,1943,['Unspecified'],US
+N01517,Zhongshan University,中山大學,1935,['Unspecified'],China,University of Toronto,University of Toronto,1942,['Unspecified'],Other,Clark University,Clark University,1943,['Unspecified'],US
+N01529,Jinling University,金陵大學,1931,['Unspecified'],China,Tsinghua University,清華大學,1934,['Unspecified'],China,University of Chicago,University of Chicago,1943,['Unspecified'],US
+N01539,Jiaotong University,交通大學,1935,['Unspecified'],China,University of London,University of London,1939,['Other degree'],Other,Massachusetts Institute of Technology,Massachusetts Institute of Technology,1943,['Unspecified'],US
+N01545,St. John's University,聖約翰大學,1940,['Unspecified'],China,University of Illinois,University of Illinois,1941,['Unspecified'],US,Harvard University,Harvard University,1943,['Unspecified'],US
+N01575,Stanford University,Stanford University,1916,['Unspecified'],US,Columbia University,Columbia University,1917,['Master'],US,Clark University,Clark University,1919,['Doctorate'],US
+N01581,Syracuse University,Syracuse University,1920,['Unspecified'],US,Duke University,Duke University,1928,['Unspecified'],US,Cambridge University,Cambridge University,1930,['Unspecified'],Other
