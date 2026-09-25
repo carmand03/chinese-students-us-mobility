@@ -7,13 +7,13 @@ This project maps and explores the educational mobility of Chinese students in t
 
 The following interactive visualizations and supporting data are derived from `educ_geoloc.csv`. 
 
-- [01_bipartite.html](https://carmand03.github.io/chinese-students-us-mobility/output/01_bipartite.html) — Student ↔ university bipartite network.
+- [01_bipartite.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/01_bipartite.html) — Student ↔ university bipartite network.
   - Filters by student name/ID, university, year range, Level, broad Field, and detailed discipline.
   - Level supports multiple selection.
   - Node size is proportional to visible degree.
   - Physics controls: Stop, Slow, Normal, Fast.
 
-- [02_university_projection.html](https://carmand03.github.io/chinese-students-us-mobility/output/02_university_projection.html) — University ↔ university projected network.
+- [02_university_projection.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/02_university_projection.html) — University ↔ university projected network.
   - An edge connects two universities when they share at least one distinct student.
   - Edge weight = number of distinct shared students.
   - Minimum shared-student and minimum visible-degree filters remove isolated/weakly connected nodes.
@@ -24,7 +24,7 @@ The following interactive visualizations and supporting data are derived from `e
   - Communities can be filtered by community size rather than by community ID.
   - Physics controls: Stop, Slow, Normal, Fast.
 
-- [03_spatial_network.html](https://carmand03.github.io/chinese-students-us-mobility/output/03_spatial_network.html) — Geolocated university projection on an OpenStreetMap basemap.
+- [03_spatial_network.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/03_spatial_network.html) — Geolocated university projection on an OpenStreetMap basemap.
   - World / United States scope.
   - Minimum shared-student and minimum visible-degree filters.
   - University labels use the raw `University` name.
@@ -32,21 +32,21 @@ The following interactive visualizations and supporting data are derived from `e
   - Community colors can be switched on or off.
   - University search and map recentering.
 
-- [04_sankey_china_to_us.html](https://carmand03.github.io/chinese-students-us-mobility/output/04_sankey_china_to_us.html) — Student flows from China-based institutions to U.S.-based institutions.
+- [04_sankey_china_to_us.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/04_sankey_china_to_us.html) — Student flows from China-based institutions to U.S.-based institutions.
   - Independent source/start and target/end Level filters.
   - Year-range filter.
   - Flow width = number of distinct students.
 
-- [05_sankey_us_to_us.html](https://carmand03.github.io/chinese-students-us-mobility/output/05_sankey_us_to_us.html) — Student flows among U.S. universities.
+- [05_sankey_us_to_us.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/05_sankey_us_to_us.html) — Student flows among U.S. universities.
   - Independent source/start and target/end Level filters.
   - Year-range filter.
   - Flow width = number of distinct students.
 
-- [06_sankey_other_countries.html](https://carmand03.github.io/chinese-students-us-mobility/output/06_sankey_other_countries.html) — Student flows involving institutions outside China and the United States.
+- [06_sankey_other_countries.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/06_sankey_other_countries.html) — Student flows involving institutions outside China and the United States.
   - Includes Other ↔ Other, China ↔ Other, and U.S. ↔ Other transitions.
   - Independent source/start and target/end Level filters.
 
-- [07_sankey_multistage_all_countries.html](https://carmand03.github.io/chinese-students-us-mobility/output/06_sankey_other_countries.html) — Three-stage student pathways across all countries.
+- [07_sankey_multistage_all_countries.html](https://carmand03.github.io/chinese-students-us-mobility/output/student_university_networks/06_sankey_other_countries.html) — Three-stage student pathways across all countries.
   - Uses three consecutive observed education stages.
   - Includes institutions in China, the United States, and other countries.
   - Stage 1, Stage 2, and Stage 3 Level filters are independent.
