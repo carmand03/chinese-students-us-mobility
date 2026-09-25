@@ -3,9 +3,13 @@
 
 This project maps and explores the educational mobility of Chinese students in the United States during the Second World War. It draws on data extracted from the *Directory of Chinese University Graduates & Students in America* [旅美中國同人録], compiled by the China Institute in America and published in 1944 by the Committee on Wartime Planning for Chinese Students in the United States. By reconstructing students’ educational trajectories and linking the institutions they attended in China, the United States, and other countries, the project uses interactive networks and spatial visualizations to examine patterns of transnational mobility, institutional connections, and academic training among Chinese students during the wartime period.
 
-## Files
+## From Birth to Education 
 
-This repository contains interactive visualizations and supporting data derived from `educ_geoloc.csv`. 
+
+
+## Educational Mobility and Networks
+
+The following interactive visualizations and supporting data are derived from `educ_geoloc.csv`. 
 
 - [01_bipartite.html](https://carmand03.github.io/chinese-students-us-mobility/output/01_bipartite.html) — Student ↔ university bipartite network.
   - Filters by student name/ID, university, year range, Level, broad Field, and detailed discipline.
