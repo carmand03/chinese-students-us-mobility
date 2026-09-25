@@ -180,8 +180,8 @@ N00212,Asbury College,Asbury College,State University of Iowa,State University o
 N00213,Madison College,Madison College,Michigan State College,Michigan State College,1940,1941,['Bachelor'],['Master'],US,US
 N00213,Michigan State College,Michigan State College,Cornell University,Cornell University,1941,1943,['Master'],['Unspecified'],US,US
 N00217,Jinan University,暨南大學,Tri-State College,Tri-State College,1940,1943,['Unspecified'],['Bachelor'],China,US
-N00218,Shanghai University,滬江大學,Women's Christian Medical College,Women's Christian Medical College,1930,1935,['Unspecified'],['Doctorate'],China,Other
-N00218,Women's Christian Medical College,Women's Christian Medical College,University of Pennsylvania,University of Pennsylvania,1935,1940,['Doctorate'],['Unspecified'],Other,US
+N00218,Shanghai University,滬江大學,Women's Christian Medical College,Women's Christian Medical College,1930,1935,['Unspecified'],['Doctorate'],China,China
+N00218,Women's Christian Medical College,Women's Christian Medical College,University of Pennsylvania,University of Pennsylvania,1935,1940,['Doctorate'],['Unspecified'],China,US
 N00219,St. John's University,聖約翰大學,State University of Iowa,State University of Iowa,1938,1942,['Unspecified'],['Master'],China,US
 N00221,Mercer University,Mercer University,George Washington University,George Washington University,1942,1943,['Unspecified'],['Unspecified'],US,US
 N00222,Lingnan University,嶺南大學,Haverford College,Haverford College,1932,1941,['Unspecified'],['Master'],China,US
