@@ -1,0 +1,1147 @@
+id,from,to,weight,edge_betweenness
+p0,Aachen Technical University,Jinling University,1,0.001028247592942626
+p1,Aachen Technical University,Yenching University,1,0.0028714090044614877
+p2,Air Force Technical College,California Institute of Technology,1,0.001304845445649019
+p3,Air Force Technical College,Jiaotong University,1,0.0013836885432506301
+p4,Air Force Technical College,University of Toronto,1,0.0012111226085044613
+p5,Albion College,Jinan University,1,0.0003481311136046628
+p6,Albion College,Olivet College,1,0.000981893969222343
+p7,Albion College,University of Michigan,1,0.003327489340461621
+p8,Albion College,Southeast University,1,0.0012612486707745574
+p9,Alfred University,Beijing University,1,0.003899656597404109
+p10,Alverno College of Music,Briar Cliff College,1,1.1640765962400325e-05
+p11,Alverno College of Music,Columbia University,1,0.0037885923323325095
+p12,Alverno College of Music,Shandong University,1,9.942349910919842e-05
+p13,American Conservatory of Music,Guanghua University,1,0.002859830995280288
+p14,American Conservatory of Music,Northeastern University,1,0.0010398256021238235
+p15,American National University,École Libre des Sciences Politiques,1,0.003899656597404109
+p16,American National University,New York University,1,0.0022603654318413334
+p17,American National University,Yenching University,1,0.004075580999715126
+p18,American National University,Jinling University,1,0.0014815036590796976
+p19,Anhui University,Stanford University,1,0.003899656597404109
+p20,Antioch College,Lingnan University,1,0.002477835231787335
+p21,Antioch College,China College University Department,1,0.00010971662602195115
+p22,Antioch College,University of Minnesota,1,0.0014893725504860323
+p23,Arizona State Teachers' College,Jiaotong University,1,0.0007207510056938168
+p24,Arizona State Teachers' College,North American Institute of Aviation,1,0.0006357888333883339
+p25,Arizona State Teachers' College,Yenching University,1,0.0030889424013485936
+p26,Arizona State Teachers' College,Zhongshan University,1,0.0007570253530547917
+p27,Arkansas State College,University of Chicago,1,0.0036067055275859766
+p28,Arkansas State College,University of Cincinnati,1,0.00029295106981812915
+p29,Armour Institute of Technology,University of Cincinnati,1,0.003899656597404109
+p30,Armstron College,University of Texas,1,0.003899656597404109
+p31,Armstrong Junior College,Ohio Wesleyan University,1,0.003899656597404109
+p32,Army University,Central Army Military Academy,1,0.003899656597404109
+p33,Art Institute of Chicago,Southeast University,1,0.00266177331697104
+p34,Art Institute of Chicago,Kansas State College,1,0.0005541414376656942
+p35,Art Institute of Chicago,Lingnan University,1,0.004669249334032831
+p36,Art Institute of Chicago,Shanghai Xinhua University of Art,1,0.003899656597404109
+p37,Asbury College,State University of Iowa,1,0.0077760316628834175
+p38,Asbury College,Rochester Institute of Technology,1,0.003899656597404109
+p39,Atlantic Union College,Fordham University,1,0.003899656597404109
+p40,Aurora University,International University,1,0.0030740484673608464
+p41,Aurora University,Loyola University,2,0.00034254683899779214
+p42,Aurora University,Catholic University of America,1,0.000776557395881957
+p43,Aurora University,Harvard University,1,0.0067095966720314955
+p44,Baldwin Wallace College,New York University,1,0.003899656597404109
+p45,Barnard College,Master Institute of United Arts,1,1.1640765962400325e-05
+p46,Beijing University,California Institute of Technology,3,0.0011556296351972846
+p47,Beijing University,Stanford University,2,0.0007407277744737003
+p48,Beijing University,Columbia University,10,0.0020328665173236127
+p49,Beijing University,Nankai University,1,0.0008022593570694073
+p50,Beijing University,University of Michigan,2,0.0017389822411931534
+p51,Beijing University,Purdue University,2,0.00106426071829168
+p52,Beijing University,Hartford Seminary Foundation,1,0.0007500530707457352
+p53,Beijing University,University of Chicago,2,0.0011137210119316176
+p54,Beijing University,University of Missouri,1,0.0002774840313070829
+p55,Beijing University,Oregon State College,1,0.0005512901222728363
+p56,Beijing University,Guilford College,1,0.0023405515675244174
+p57,Beijing University,Oberlin College,2,0.00040162673990559554
+p58,Beijing University,New School For Social Research,1,0.00030879130522909004
+p59,Beijing University,Massachusetts Institute of Technology,2,0.0007387541172013827
+p60,Beijing University,University of Toronto,1,0.00025030480245149655
+p61,Beijing University,Canisus College,1,0.001028772259916117
+p62,Beijing University,Harvard University,1,0.0011675476201823132
+p63,Beijing University,Yenching University,1,0.0018257731761489268
+p64,Beijing University,University of Kansas,1,0.0003232333403491586
+p65,Beijing University,University of Minnesota,1,0.000636106757342101
+p66,Beijing University,University of Illinois,1,0.0007124182360877281
+p67,Beijing University,University of Maryland,1,0.0010843262910977581
+p68,Beijing University,University of California,1,0.0006604634563530828
+p69,Beiyang University,Columbia University,1,0.0021241817526575393
+p70,Beiyang University,Technical College of Hanover,1,0.0011281456920098443
+p71,Beiyang University,University of London,1,0.00038532318782511416
+p72,Beiyang University,Cornell University,1,0.0007565326563318029
+p73,Beiyang University,State University of Iowa,1,0.0005982648927479769
+p74,Beiyang University,University of Pennsylvania,1,0.0007663171467562118
+p75,Beiyang University,Massachusetts Institute of Technology,1,0.0007454242032415525
+p76,Beiyang University,Colorado School of Mines,1,0.0004236832354822637
+p77,Beloit College,University of Chicago,1,0.003899656597404109
+p78,Bennett College,Radcliffe College,1,0.003899656597404109
+p79,Bethel College,Cumberland Theological Seminary,1,1.1640765962400325e-05
+p80,Birmingham University,Jiaotong University,1,0.0036088281670210946
+p81,Birmingham University,University of Oklahoma,1,0.0002908284303830096
+p82,Birmingham-Southern College,Virginia Polytechnic Institute,1,0.003899656597404109
+p83,Blackstone College,Bryn Mawr College,1,0.0009994111250290953
+p84,Blackstone College,Mount Holyoke College,1,0.0029899896076330265
+p85,Boston University,Jiaotong University,1,0.0005830188801637792
+p86,Boston University,University of Michigan,1,0.0016500823089403182
+p87,Boston University,Harvard University,1,0.0011718899852053229
+p88,Boston University,Hwa Nan College,1,0.0006858804299112246
+p89,Boston University,Catholic University of America,1,0.0009607124421556163
+p90,Boston University,Guangdong National University,1,0.0005874929229189253
+p91,Boston University,Lingnan University,1,0.0009692674598738743
+p92,Boston University,St. John's University,1,0.0009155950155691396
+p93,Briar Cliff College,Columbia University,1,0.0037885923323325095
+p94,Briar Cliff College,Shandong University,1,9.942349910919842e-05
+p95,Brown University,Jiaotong University,1,0.0006947314127170577
+p96,Brown University,Massachusetts Institute of Technology,2,0.0012729119721814476
+p97,Brown University,Rensselaer Polytechnic Institute,1,0.0001560737178596877
+p98,Brown University,Yenching University,2,0.002159946541778572
+p99,Brown University,Huazhong University,1,0.0001386948010405091
+p100,Bryn Mawr College,China Public School,1,0.0017987860715706562
+p101,Bryn Mawr College,Goucher College,1,0.0002659621648823195
+p102,Bryn Mawr College,Lingnan University,1,0.003257038001241892
+p103,Bryn Mawr College,St. John's University,1,0.0028638391454179793
+p104,Bryn Mawr College,Smith College,1,0.00040910728157907367
+p105,California Institute of Technology,Stanford University,1,0.0014470374604023414
+p106,California Institute of Technology,University of California,1,0.002014195246413815
+p107,California Institute of Technology,Zhongshan University,1,0.0009203978090004763
+p108,California Institute of Technology,Mapúa Institute of Technology,1,0.003860952535370705
+p109,California Institute of Technology,University of the Philippines,1,0.002912440197421145
+p110,California Institute of Technology,Zhijiang University,1,0.001468982408807428
+p111,California Institute of Technology,Tsinghua University,3,0.0010840271992079151
+p112,California Institute of Technology,University of Toronto,2,0.0004913104934361214
+p113,California Institute of Technology,Institute for Advanced Study,1,0.0013616772018152474
+p114,California Institute of Technology,Jiaotong University,4,0.0011160722297362464
+p115,California Institute of Technology,Massachusetts Institute of Technology,1,0.0013905397837867418
+p116,California Institute of Technology,Rensselaer Polytechnic Institute,1,0.0008030500326124103
+p117,California Institute of Technology,Yenching University,1,0.0039481731677763615
+p118,California Institute of Technology,University of Michigan,2,0.004118251264606627
+p119,California Institute of Technology,Northeast University,1,0.003899656597404109
+p120,California Institute of Technology,Shanghai University,2,0.003295019196808214
+p121,California Institute of Technology,Colorado School of Mines,1,0.0007784183225453443
+p122,California Institute of Technology,McGill University,1,0.001029014990886964
+p123,California Institute of Technology,University of Hong Kong,1,0.0014275722761699827
+p124,California Institute of Technology,Holy Cross College,1,0.003899656597404109
+p125,California Institute of Technology,University of London,1,0.0007533621353969255
+p126,California Institute of Technology,Xiamen University,1,0.0008120944510470618
+p127,California Institute of Technology,Datong University,1,0.0014893348091993732
+p128,Cambridge University,Central Army Military Academy,1,0.003172531657585441
+p129,Cambridge University,Yenching University,3,0.0016851249657515459
+p130,Cambridge University,Central University,3,0.00033091508549411145
+p131,Cambridge University,University of London,1,0.00042986421256929264
+p132,Cambridge University,Harvard University,2,0.000861089126383646
+p133,Cambridge University,Jiaotong University,1,0.0007868659952628727
+p134,Cambridge University,University of Michigan,1,0.0014941476456629059
+p135,Cambridge University,Columbia University,1,0.0016884505909811572
+p136,Cambridge University,Ginling College,1,0.0006414757740130071
+p137,Cambridge University,Duke University,1,0.000609658933189773
+p138,Cambridge University,Syracuse University,1,0.0004696312221542619
+p139,Canisus College,Columbia University,1,0.0028708843374879948
+p140,Carleton College,Yenching University,1,0.0013857873182897106
+p141,Carleton College,University of Chicago,3,0.0010218969680344605
+p142,Carleton College,University of Michigan,1,0.0014919723110799472
+p143,Carnegie Institute of Technology,McGill University,1,0.0005459150557206088
+p144,Carnegie Institute of Technology,Zhejiang University,2,0.0008935537141836987
+p145,Carnegie Institute of Technology,Shanghai University,1,0.00547374997743878
+p146,Carnegie Institute of Technology,Syracuse University,1,0.0012358528867373313
+p147,Carnegie Institute of Technology,Macalester College,1,0.003899656597404109
+p148,Case School of Applied Science,Mount Union College,1,1.1640765962400325e-05
+p149,Catholic University of America,College of St. Elisabeth,1,0.00044806785666712116
+p150,Catholic University of America,Yenching University,1,0.008320883356498105
+p151,Catholic University of America,Mount Mary College,1,0.0038996565974041084
+p152,Catholic University of America,Loyola University,1,0.0015644690095820504
+p153,Catholic University of America,Western Maryland College,1,0.0038996565974041084
+p154,Catholic University of America,Fu-jen University,2,0.0015079730502764797
+p155,Catholic University of America,Purdue University,1,0.00274823402061056
+p156,Catholic University of America,Guangdong National University,1,0.0005000313227566821
+p157,Central Army Military Academy,Field Artillery School,1,0.0037839078888550256
+p158,Central Army Military Academy,Royal Military College,1,0.0029796581731765565
+p159,Central Army Military Academy,Nankai University,1,0.0035654481829498342
+p160,Central Army Military Academy,Shanghai University,1,0.007692747245743496
+p161,Central Institute for Deaf,University of Hong Kong,1,0.003899656597404109
+p162,Central Political School,University of Washington,1,0.00150924493616683
+p163,Central Political School,Louisiana State University,1,0.0003385812863299932
+p164,Central Political School,New York University,1,0.002325332255176179
+p165,Central Political School,Southeast University,1,0.0018857503363390162
+p166,Central Political School,Zhonghua University,1,0.003899656597404109
+p167,Central Political School,University of Minnesota,1,0.0021855756146806644
+p168,Central University,State University of Iowa,1,0.0010365314060489011
+p169,Central University,Harvard University,4,0.0005943377341972298
+p170,Central University,University of Toronto,3,0.00023660610350743832
+p171,Central University,University of California,2,0.0005910034079780604
+p172,Central University,Wellesley College,1,0.00045967512680842524
+p173,Central University,University of Edinburgh,1,0.0005851200859065059
+p174,Central University,Columbia University,3,0.001691241816570297
+p175,Central University,University of Minnesota,3,0.0005298785880092584
+p176,Central University,Edinburgh University,1,0.0019188520004125964
+p177,Central University,University of Michigan,5,0.0012622841141862933
+p178,Central University,Cornell University,1,0.0005012079166987019
+p179,Central University,Massachusetts Institute of Technology,2,0.0005467411719663282
+p180,Central University,Oregon State College,2,0.00042078049330970373
+p181,Central University,University of Iowa,1,0.0007025758556690469
+p182,Central University,Ohio State University,1,0.0005359038114600331
+p183,Central University,University of Wisconsin,1,0.0004263204205087113
+p184,Central University,Jiaotong University,1,0.0006961501238055931
+p185,Chemical Institute of Lyon,Sino-French University,1,0.0005942614084708946
+p186,Chemical Institute of Lyon,University of Lyon,1,0.000727830658007217
+p187,Chemical Institute of Lyon,University of Paris,1,0.0025775645309260046
+p188,Chicago Aeronautical University,Illinois Institute of Technology,1,0.0038880158314417088
+p189,Chicago Aeronautical University,University of Kentucky,1,1.1640765962400325e-05
+p190,"Children Hospital, Massachusetts",Williams Hospital,1,1.1640765962400325e-05
+p191,China Academy,University of California,1,0.0026733776089459746
+p192,China Academy,University of London,1,0.0012262789884581412
+p193,China College University Department,University of Hawaii,1,0.001494370941686316
+p194,China College University Department,University of Minnesota,1,0.002321104805187968
+p195,China Public School,Goucher College,1,0.002100870525833454
+p196,China University,Haverford College,1,0.003899656597404109
+p197,Chongqing University,Harvard University,1,0.003899656597404109
+p198,Chrysler Institute of Engineering,Jiaotong University,1,0.001906237513115564
+p199,Chrysler Institute of Engineering,Purdue University,1,0.001993419084288545
+p200,Claremont College,Lingnan University,1,0.0008464507892105299
+p201,Claremont College,University of California,1,0.0008252523771654493
+p202,Claremont College,Yenching University,1,0.001427939171390467
+p203,Claremont College,Shanghai University,1,0.000828464770055797
+p204,Clarence White School of Photography,Columbia University,1,0.0019163110585015252
+p205,Clarence White School of Photography,Shanghai University,1,0.00103019562598984
+p206,Clarence White School of Photography,University of Pennsylvania,1,0.0009531499129127449
+p207,Clark University,New York University,1,0.000502168315447927
+p208,Clark University,Peiping College of Finance and Commerce,1,0.0009398652878283986
+p209,Clark University,Columbia University,2,0.0012784945297304603
+p210,Clark University,Shanghai University,1,0.0008106294010664861
+p211,Clark University,University of Michigan,1,0.001249273186711831
+p212,Clark University,University of Wisconsin,1,0.0004944884782762033
+p213,Clark University,University of Toronto,1,0.00023216214266318907
+p214,Clark University,Zhongshan University,1,0.0003160298053032409
+p215,Clark University,Stanford University,1,0.0005321134101301537
+p216,College of Medical Evangelists,Pacific Union College,1,1.1640765962400325e-05
+p217,College of St. Elisabeth,Yenching University,1,0.0038907671533365304
+p218,College of St. Elisabeth,Fordham University,2,0.0008816359802039781
+p219,College of St. Teresa,Qilu University,1,0.0020237641589913925
+p220,College of St. Teresa,Yunnan University,1,0.003899656597404109
+p221,College of St. Teresa,Radcliffe College,1,0.003913544372265105
+p222,College of St. Teresa,Southwest Associated University,1,0.001931066692545009
+p223,College of the Pacific,Jinan University,1,0.0031929839448248975
+p224,College of the Pacific,North Dakota State College,1,0.0007066726525792133
+p225,Colorado College,Harvard University,1,0.0022291924431677426
+p226,Colorado College,St. John's University,2,0.001670464154236368
+p227,Colorado School of Mines,Massachusetts Institute of Technology,1,0.001638808503097182
+p228,Colorado School of Mines,St. John's University,1,0.0018607534804651407
+p229,Colorado School of Mines,University of Santo Tomas,2,0.003899656597404109
+p230,Colorado School of Mines,McGill University,1,0.000410780636685795
+p231,Colorado School of Mines,Tsinghua University,1,0.0011942163544415168
+p232,Colorado School of Mines,University of the Philippines,1,0.0010026389300915675
+p233,Colorado School of Mines,Yenching University,1,0.00324596181894516
+p234,Columbia University,Jinling University,2,0.0022335888538445696
+p235,Columbia University,University of Edinburgh,1,0.002503946922787544
+p236,Columbia University,Denison University,1,0.0025833411835144405
+p237,Columbia University,New York University,4,0.004090324145943379
+p238,Columbia University,Southeast University,3,0.004062390573062285
+p239,Columbia University,Yenching University,20,0.006098700946746403
+p240,Columbia University,Harvard University,3,0.003972580150662932
+p241,Columbia University,Tsinghua University,6,0.003024314912242283
+p242,Columbia University,Shanghai University,9,0.004599158910640678
+p243,Columbia University,Nankai University,2,0.0025904176539454757
+p244,Columbia University,Missouri School of Mines & Metals,1,0.0019700941010249574
+p245,Columbia University,Oberlin College,2,0.0017093840405561992
+p246,Columbia University,Lingnan University,8,0.003260012432545567
+p247,Columbia University,Nihon University,1,0.003899656597404109
+p248,Columbia University,Stanford University,4,0.003998959537314218
+p249,Columbia University,Northwestern University,1,0.002576087836848649
+p250,Columbia University,LaSalle College,1,0.003899656597404109
+p251,Columbia University,University of Missouri,3,0.0011238270914383202
+p252,Columbia University,Juilliard School of Music,1,0.00970014236361254
+p253,Columbia University,University of British Columbia,1,0.0015188105828505187
+p254,Columbia University,University of Michigan,9,0.0073742910288325594
+p255,Columbia University,St. John's University,4,0.004881013353074288
+p256,Columbia University,University of Wisconsin,5,0.002271192674964896
+p257,Columbia University,Kansas State College,1,0.002377709676445826
+p258,Columbia University,University of California,1,0.0026813427176311045
+p259,Columbia University,Fujian Union University,2,0.001481866742295825
+p260,Columbia University,University of Rochester,1,0.0012949019821827717
+p261,Columbia University,Yale University,1,0.0016089897782520111
+p262,Columbia University,Syracuse University,1,0.0030038042683596037
+p263,Columbia University,West China University,1,0.0010602787865461756
+p264,Columbia University,Fu-jen University,2,0.002221962404644559
+p265,Columbia University,University of Washington,3,0.0033537712659102584
+p266,Columbia University,University of Chicago,2,0.003494332129756969
+p267,Columbia University,Massachusetts Institute of Technology,2,0.002638908235892794
+p268,Columbia University,Mills College,1,0.0009259553772937587
+p269,Columbia University,New School For Social Research,2,0.0010496757932069625
+p270,Columbia University,Cornell University,1,0.00179613845629222
+p271,Columbia University,Haverford College,2,0.0021974701384911885
+p272,Columbia University,Qilu University,1,0.0031326167434689656
+p273,Columbia University,Guangdong College of Law,1,0.0017533389787624117
+p274,Columbia University,Zhongshan University,4,0.00258205919484289
+p275,Columbia University,Radcliffe College,1,0.003066669289300512
+p276,Columbia University,Rosary College,1,0.0031694718025335523
+p277,Columbia University,Georgetown University,1,0.0009468435176185896
+p278,Columbia University,Nankai School,1,0.002476611994616709
+p279,Columbia University,University of Southern California,3,0.0026847477871779395
+p280,Columbia University,Pomona College,1,0.0027097227143180924
+p281,Columbia University,University of Toronto,1,0.0013875089578603416
+p282,Columbia University,Fudan University,2,0.0019646246013144066
+p283,Columbia University,Indiana University,1,0.0017688307454858277
+p284,Columbia University,George Washington University,1,0.0038769618710907143
+p285,Columbia University,Toronto University,1,0.0016942765256600678
+p286,Columbia University,University of Pennsylvania,1,0.0027719400640190844
+p287,Columbia University,Peking Union Medical College,1,0.0013496648639147626
+p288,Columbia University,Shandong University,1,0.0023148905417542365
+p289,Columbia University,Medical College of Virginia,1,0.0039039335419639226
+p290,Columbia University,Miami University,1,0.0024444871350310688
+p291,Columbia University,Zhijiang University,1,0.004778681786379755
+p292,Columbia University,University of Dubuque,1,0.001180018309148642
+p293,Columbia University,Niagara University,1,0.003899656597404109
+p294,Columbia University,Detroit Institute of Technology,1,0.0019101584904915212
+p295,Columbia University,University of Hong Kong,1,0.002612189230204677
+p296,Columbia University,Tri-State College,1,0.002666252172743174
+p297,Columbia University,George Peabody College,2,0.0027172550055179806
+p298,Columbia University,Lowell Textile Institute,1,0.001461150527505328
+p299,Columbia University,Oxford University,1,0.0024946539867106536
+p300,Columbia University,Pratt Institute,1,0.003899656597404109
+p301,Columbia University,Southwest Associated University,1,0.002963189964576594
+p302,Columbia University,Fordham University,1,0.01108614995400697
+p303,Columbia University,Propaganda Fide,1,0.003840482703761907
+p304,Columbia University,University of Kansas,1,0.0012446753864021921
+p305,Columbia University,University of Brussels,1,0.0038880158314417088
+p306,Columbia University,University of Geneva,1,0.0038880158314417088
+p307,Columbia University,Northeastern University,1,0.0049866636790867275
+p308,Columbia University,Wuhan University,1,0.0017060069648689087
+p309,Columbia University,Hongkong University,1,0.003899656597404109
+p310,Cooper Union Institute of Technology,University of Michigan,1,0.003899656597404109
+p311,Cornell University,Tientsin Institute of Commerce,2,0.002076504972283035
+p312,Cornell University,Jinling University,3,0.0009665656360717901
+p313,Cornell University,Madison College,2,0.0013299978959120692
+p314,Cornell University,Michigan State College,2,0.0019889111843938035
+p315,Cornell University,Ginling College,1,0.00100394535212668
+p316,Cornell University,University of Rochester,1,0.0006052928264550365
+p317,Cornell University,Harvard University,2,0.00102486261159404
+p318,Cornell University,Tsinghua University,5,0.000749835824179252
+p319,Cornell University,Lingnan University,2,0.0009021644815018658
+p320,Cornell University,Penn State College,1,0.0007662776793578364
+p321,Cornell University,Massachusetts Institute of Technology,4,0.0005362565740694359
+p322,Cornell University,University of Hong Kong,1,0.0009340692135266364
+p323,Cornell University,University of Colorado,1,0.000853899219760835
+p324,Cornell University,Jiaotong University,5,0.001344011397936288
+p325,Cornell University,University of Pennsylvania,1,0.0006160039932121181
+p326,Cornell University,Fudan University,1,0.0007046188740058143
+p327,Cornell University,Southwest Associated University,1,0.0013879001341427436
+p328,Cornell University,Haverford College,1,0.001156097751909161
+p329,Cornell University,Shanghai University,1,0.001513795773229379
+p330,Cornell University,Lenoir-Rhyne College,1,0.002135320770870317
+p331,Cornell University,New York University,1,0.0008254168981497128
+p332,Cornell University,Princeton University,1,0.0005635244233356493
+p333,Cornell University,University of Chicago,1,0.0008826259146110996
+p334,Cornell University,St. John's University,5,0.0011704011989159804
+p335,Cornell University,Jinan University,1,0.0020145200971225636
+p336,Cornell University,University of Michigan,2,0.001376223063406782
+p337,Cornell University,Nankai University,2,0.000929474725193837
+p338,Cornell University,State University of Iowa,2,0.0016616641532768105
+p339,Cornell University,Yenching University,3,0.0012018898478258833
+p340,Cornell University,University of Hawaii,1,0.00047359619035996315
+p341,Cornell University,Radcliffe College,1,0.0012223050369803512
+p342,Cornell University,Qilu University,1,0.0015648655587451404
+p343,Cornell University,Southeast University,1,0.0012772057579091723
+p344,Cornell University,West China University,1,0.0005058123817445432
+p345,Cornell University,University of London,1,0.0005265339884270017
+p346,Cornell University,Louisiana State University,1,0.0015876580588347767
+p347,Cornell University,University of Tennessee,1,0.0010846509318219008
+p348,Creighton University,University of California,1,0.003899656597404109
+p349,Curtiss-Wright Technical Institute,St. John's University,1,0.0016027538598085017
+p350,Curtiss-Wright Technical Institute,University of Hong Kong,1,0.0009076391455678935
+p351,Curtiss-Wright Technical Institute,University of Southern California,1,0.0015432956195808164
+p352,Dartmouth College,Detroit College of Law,1,5.820382981200162e-05
+p353,Dartmouth College,Southeast University,1,0.0048600287630619484
+p354,Dartmouth College,Royal Military College,1,0.0011312718702421493
+p355,Datong University,Worcester Polytechnic Institute,1,0.003899656597404109
+p356,Datong University,University of Michigan,3,0.005835069307729251
+p357,Datong University,St. John's Hospital,1,0.003899656597404109
+p358,Datong University,University of Illinois,1,0.002575096414291821
+p359,Datong University,University of Washington,1,0.0019318914900009591
+p360,Daxia University,Ohio State University,1,0.0006905298019247481
+p361,Daxia University,George Washington University,1,0.00159420505305772
+p362,Daxia University,Purdue University,1,0.0017149353233152666
+p363,De La Salle College,Harvard University,1,0.003899656597404109
+p364,DePaul University,New York University,1,0.003899656597404109
+p365,Denison University,New York University,1,0.001316315413889675
+p366,Detroit College of Law,Southeast University,1,0.0038414527675921075
+p367,Detroit Institute of Technology,University of Michigan,1,0.001989498106912588
+p368,Dickinson College,Fujian Union University,1,0.002850889862929728
+p369,Dickinson College,Penn State College,1,0.0010487667344743867
+p370,Dominican College,University of California,1,0.0014664126040983608
+p371,Dominican College,University of Michigan,1,0.0024332439933057535
+p372,Drake University,Peking Union Medical College,1,0.0005137676881206595
+p373,Drake University,Yenching University,1,0.0026035959230720175
+p374,Drake University,Zhongshan University,1,0.000796151040928574
+p375,Drew University,Virginia Polytechnic Institute,2,0.0010706784541551079
+p376,Drew University,Zhijiang University,1,0.0005149185140798588
+p377,Drew University,Seton Hill College,1,0.00025637688724819863
+p378,Drew University,Yenching University,2,0.0023813656233969034
+p379,Drew University,Ginling College,1,0.000318589546775462
+p380,Drew University,Fujian Union University,1,0.0005180662894390407
+p381,Drew University,University of Chicago,1,0.0015894467734506048
+p382,Drew University,Hwa Nan College,1,0.0005303994133938239
+p383,Drexel Institute of Technology,University of Pennsylvania,1,0.003899656597404109
+p384,Duke University,Qilu University,1,0.00041012619367170435
+p385,Duke University,University of Chicago,1,0.001887565570093599
+p386,Duke University,Fu-jen University,1,0.0004695670100335092
+p387,Duke University,George Washington University,1,0.000749709882211075
+p388,Duke University,Syracuse University,1,0.0004148357043549149
+p389,Duquesne University,University of Pittsburgh,1,0.003899656597404109
+p390,Ecole des Hautes Etudes Industrielles et Commerciales,Harvard University,1,0.003899656597404109
+p391,Edinburgh University,University of Paris,1,0.0003159400241915252
+p392,Edinburgh University,Harvard University,1,0.005597057544951427
+p393,Edinburgh University,Glasgow University,1,0.003899656597404109
+p394,Elmira College,Johns Hopkins University,1,0.003899656597404109
+p395,Emmanuel College,Zhongshan University,1,0.003899656597404109
+p396,Emmanuel Missionary College,Michigan State College,1,0.0038880158314417088
+p397,Emmanuel Missionary College,Shanghai Sanyu University,1,1.1640765962400325e-05
+p398,Field Artillery School,Royal Military College,1,0.00011574870854908253
+p399,Fletcher School of Law & Diplomacy,University of Michigan,1,0.003899656597404109
+p400,Florida Southern College,Jiaotong University,1,0.0005554511419866803
+p401,Florida Southern College,University of Michigan,2,0.0022086752879984894
+p402,Florida Southern College,Shanghai University,1,0.0011887680365758467
+p403,Foochow College,Forest Park University,1,1.1640765962400325e-05
+p404,Foochow College,University of Illinois,1,0.0038880158314417088
+p405,Fordham University,Polytechnic Institute of Brooklyn,1,0.003899656597404109
+p406,Fordham University,Propaganda Fide,1,5.917389364220165e-05
+p407,Forest Park University,University of Illinois,1,0.0038880158314417088
+p408,Fu-jen University,Syracuse University,1,0.0005538260859992261
+p409,Fu-jen University,University of Notre Dame,1,0.0005968094082195632
+p410,Fu-jen University,University of Washington,1,0.0006743815488863061
+p411,Fu-jen University,Iowa State College,1,0.0006456070010437178
+p412,Fu-jen University,Princeton University,1,0.0003153497917302377
+p413,Fu-jen University,Tri-State College,1,0.00042217090258210815
+p414,Fu-jen University,University of Michigan,2,0.0020319374896916346
+p415,Fu-jen University,Michigan State College,1,0.0007001833849383367
+p416,Fudan University,New York University,2,0.0009282067267765043
+p417,Fudan University,University of Michigan,3,0.0019089904890747583
+p418,Fudan University,University College,1,0.003899656597404109
+p419,Fudan University,University of Illinois,1,0.0007573215846457344
+p420,Fudan University,Indiana University,1,0.00035336201442526304
+p421,Fudan University,George Washington University,1,0.0007573794301003232
+p422,Fudan University,Georgetown University,1,0.00023543745840855855
+p423,Fudan University,State University of Iowa,2,0.0007457606113095922
+p424,Fudan University,University of Chicago,1,0.0010113113391490678
+p425,Fudan University,University of Wisconsin,1,0.0004323930743959024
+p426,Fudan University,University of Paris,1,0.0011585559060152675
+p427,Fudan University,University of Minnesota,1,0.0006237173442305311
+p428,Fujian Union University,Oregon State College,1,0.00041955874489850133
+p429,Fujian Union University,Penn State College,1,0.0002667602276323143
+p430,Fujian Union University,University of Southern California,3,0.0004448925360853931
+p431,Fujian Union University,St. John's University,1,0.0006645552916195444
+p432,Fujian Union University,University of Minnesota,2,0.00039649765148265894
+p433,Fujian Union University,Oberlin College,2,0.0002784634440588052
+p434,Fujian Union University,University of Chicago,2,0.0007248298912430111
+p435,Fujian Union University,Yale University,1,0.000300471557044148
+p436,Fujian Union University,University of Pennsylvania,4,0.000519846217258752
+p437,Fujian Union University,University of Michigan,1,0.0011674599533188917
+p438,Fujian Union University,Harvard University,1,0.0008004243526162244
+p439,Fujian Union University,Massachusetts Institute of Technology,1,0.0005178995058299168
+p440,Fujian Union University,Michigan State College,1,0.00076129001192196
+p441,Fujian Union University,Yenching University,2,0.0009574733990807562
+p442,George Peabody College,Shanghai University,3,0.0012595836246121139
+p443,George Peabody College,Southwestern Seminary,1,0.00027113439602018493
+p444,George Peabody College,University of Colorado,1,0.00044861586480959733
+p445,George Peabody College,Scarritt College,1,0.0004242061348884489
+p446,George Washington University,Hartford Seminary Foundation,1,0.0005274636045431552
+p447,George Washington University,Lingnan University,1,0.0017036126384832452
+p448,George Washington University,Park College,1,0.0016247748173246468
+p449,George Washington University,Mercer University,1,0.0077760316628834175
+p450,George Washington University,St. John's University,1,0.0017942595101691802
+p451,George Washington University,Purdue University,1,0.0015092662089805343
+p452,George Washington University,Johns Hopkins University,1,0.0009272700018759106
+p453,George Washington University,Shanghai University,1,0.001870891015638823
+p454,George Washington University,Southeast University,2,0.0013673130077393881
+p455,George Washington University,Southern College,1,0.0015942392861578551
+p456,George Washington University,Guanghua University,1,0.0006763222586767225
+p457,George Washington University,University of Wisconsin,1,0.0009312166222817677
+p458,George Washington University,Yenching University,1,0.0034497964489950935
+p459,George Williams College,New York University,1,0.0013599859469838257
+p460,George Williams College,Yenching University,1,0.002539670650420288
+p461,Georgetown University,University of Michigan,1,0.000951864763802501
+p462,Georgetown University,Yenching University,1,0.0008870032487235548
+p463,Georgetown University,Tsinghua University,1,0.00035488934839062423
+p464,Georgetown University,Lingnan University,1,0.0005311455389433489
+p465,Georgetown University,University of Washington,1,0.0003901531625299989
+p466,Georgetown University,Nankai School,1,0.00038535442216122684
+p467,Georgetown University,University of Southern California,1,0.0002907012481141083
+p468,Georgetown University,State University of Iowa,1,0.0004945953961198666
+p469,Ginling College,University of Michigan,3,0.0020665330397652577
+p470,Ginling College,Yenching University,1,0.002126928160730482
+p471,Ginling College,University of California,1,0.0009937938449462573
+p472,Ginling College,University of Chicago,2,0.0013223368829466493
+p473,Ginling College,University of Rochester,1,0.000316893561628735
+p474,Ginling College,New School For Social Research,1,0.00032675052639107114
+p475,Ginling College,Smith College,2,0.00041988014267800783
+p476,Ginling College,Merrill-Palmer School,1,0.0033157390197311267
+p477,Ginling College,Wayne University,1,0.0005518049672540485
+p478,Ginling College,Oregon State College,1,0.00045968572785719833
+p479,Ginling College,University of Wisconsin,1,0.000778157621485864
+p480,Ginling College,Virginia Polytechnic Institute,1,0.0034002159421250046
+p481,Ginling College,Mount Holyoke College,1,0.00048668307144030253
+p482,Ginling College,Radcliffe College,1,0.0008841893932674422
+p483,Ginling College,University of London,1,0.0005785672563527766
+p484,Ginling College,University of Minnesota,2,0.0007725282462930547
+p485,Ginling College,Northwestern University,1,0.0007251748499374589
+p486,Gonzaga University,Shanghai University,1,0.0019791048369060932
+p487,Gonzaga University,University of Pennsylvania,1,0.001920551760498015
+p488,Goucher College,University of Chicago,1,0.0034629624037846593
+p489,Goucher College,New York University,1,0.002517610718294758
+p490,Granville College,South Pacific College,1,1.1640765962400325e-05
+p491,Guangdong College of Law,University of Michigan,1,0.0017092442961135108
+p492,Guangdong College of Law,Zhongshan University,1,0.00043707332252818554
+p493,Guangdong National University,University of California,1,0.0030464259517375743
+p494,Guangdong Provincial Technical College,Polytechnic Engineering College,1,1.1640765962400325e-05
+p495,Guangdong Provincial Technical College,University of Michigan,1,0.0038880158314417088
+p496,Guanghua Medical College,Massachusetts Institute of Technology,1,0.003899656597404109
+p497,Guanghua University,Northeastern University,1,0.0006917141632429635
+p498,Guanghua University,New York University,4,0.000887188326407087
+p499,Guanghua University,Harvard University,2,0.0007894311240018402
+p500,Guanghua University,University of Pennsylvania,2,0.0007092406819386958
+p501,Guanghua University,University of Michigan,1,0.002054735125232009
+p502,Guanghua University,University of Wisconsin,2,0.0005411842571899964
+p503,Guanghua University,Indiana University,1,0.0003227427754125144
+p504,Guanghua University,University of Toronto,1,0.00032920825019349504
+p505,Guanghua University,Yenching University,1,0.0018442355956851796
+p506,Guangxi University,Oregon State College,1,0.0009705960470128744
+p507,Guangxi University,University of Wisconsin,1,0.0029290605503912363
+p508,Guangzhou University,New York University,1,0.003899656597404109
+p509,Guilford College,Oberlin College,1,0.0015591050298796936
+p510,Harbin Polytechnic Institute,Purdue University,1,0.003899656597404109
+p511,Hartford Seminary Foundation,University of Chicago,1,0.001443151929330227
+p512,Hartford Seminary Foundation,Lingnan University,2,0.00112591092755499
+p513,Hartford Seminary Foundation,Haverford College,1,0.0002965498893853123
+p514,Harvard University,Jiaotong University,9,0.0018630758191356136
+p515,Harvard University,University of Pennsylvania,4,0.000960155012894498
+p516,Harvard University,Lingnan University,4,0.0020891837909783077
+p517,Harvard University,Tsinghua University,10,0.0014291879951844272
+p518,Harvard University,Yenching University,14,0.0035365498406036045
+p519,Harvard University,Jinling University,3,0.001625236690356279
+p520,Harvard University,Syracuse University,1,0.0018157304456866146
+p521,Harvard University,Southeast University,2,0.0022683983617635245
+p522,Harvard University,University of Chicago,2,0.0024012148840157144
+p523,Harvard University,University of Hong Kong,4,0.001525169152345771
+p524,Harvard University,University of Toronto,2,0.0006316672590486549
+p525,Harvard University,University of Missouri,1,0.0006525084894921488
+p526,Harvard University,Massachusetts Institute of Technology,3,0.0014315576424048745
+p527,Harvard University,Manhattan College,1,0.003899656597404109
+p528,Harvard University,St. John's University,6,0.0021725659968534036
+p529,Harvard University,New York University,4,0.002078271536754476
+p530,Harvard University,University of Hawaii,2,0.0008057504404121986
+p531,Harvard University,Nankai University,3,0.0014557964576631245
+p532,Harvard University,University of Michigan,6,0.003464579905177295
+p533,Harvard University,University of London,2,0.0011277808739221875
+p534,Harvard University,Shanghai University,3,0.002917338771578079
+p535,Harvard University,West China University,1,0.000618348606707841
+p536,Harvard University,Lowell Textile Institute,1,0.0008977738154596359
+p537,Harvard University,Wuhan University,1,0.0011155079412087966
+p538,Harvard University,Jinan University,1,0.0021588356350243153
+p539,Harvard University,University of Paris,1,0.003149542945538824
+p540,Harvard University,Stanford University,1,0.0019240144282880519
+p541,Harvard University,Yungli Chemical Industries Limited,1,0.0025330126627692434
+p542,Harvard University,University of California,2,0.0014205005961289102
+p543,Harvard University,Peking Union Medical College,2,0.0007880472769077097
+p544,Harvard University,Shanghai Medical College,1,0.001049286659892589
+p545,Harvard University,Yale University,1,0.0008996620000681221
+p546,Harvard University,Indiana University,1,0.0009895412872486322
+p547,Harvard University,University of Illinois,3,0.001859799771817538
+p548,Harvard University,Northeastern University,1,0.0031472096804417153
+p549,Harvard University,University of Wisconsin,1,0.0012400822028675006
+p550,Haverford College,Lingnan University,1,0.0012540108356065226
+p551,Haverford College,Shanghai University,1,0.0012395539527499404
+p552,Haverford College,Yenching University,1,0.0020701274772022466
+p553,Hebei Institute of Technology,University of Minnesota,1,0.003899656597404109
+p554,Hebei University,University of Illinois,1,0.003899656597404109
+p555,Hochschule für Musik,Tianjin University,1,1.1640765962400325e-05
+p556,Huazhong University,Yenching University,1,0.0037609617963636002
+p557,Hunan University,University of Washington,1,0.003899656597404109
+p558,Hwa Nan College,Northwestern University,1,0.0010076848291301543
+p559,Hwa Nan College,University of Michigan,1,0.004712209402389966
+p560,Hwa Nan College,Morningside Conservatory of Music,1,0.0037799028512752898
+p561,Hwa Nan College,Westminster Choir College,1,0.0024905007936117246
+p562,Hwa Nan College,Oberlin College,1,0.0008676051098622541
+p563,Hwa Nan College,Radcliffe College,1,0.0012801477218658244
+p564,Hwa Nan College,University of Southern California,1,0.0017505914714964804
+p565,Illinois Institute of Technology,University of Kentucky,1,0.0038880158314417088
+p566,Illinois Institute of Technology,Lingnan University,2,0.002302112982949564
+p567,Illinois Institute of Technology,Taliesin Fellowship,1,0.0001446453884167226
+p568,Illinois Institute of Technology,University of Michigan,1,0.00413109526162492
+p569,Illinois Institute of Technology,Jiaotong University,1,0.0011194878203180693
+p570,Illinois Institute of Technology,Purdue University,1,0.001147889201079264
+p571,Illinois Institute of Technology,University of Chicago,1,0.003157298248967464
+p572,Indiana University,Radcliffe College,1,0.000570922022501591
+p573,Indiana University,Southeast University,4,0.00046100450405963517
+p574,Indiana University,Zhizhi College,1,0.0005989749831111605
+p575,Indiana University,St. John's University,1,0.0009029196112137605
+p576,Indiana University,University of Pennsylvania,1,0.000657393146422316
+p577,Indiana University,Millsaps College,1,0.001023532961829317
+p578,Institute for Advanced Study,Tsinghua University,1,0.002537979395588864
+p579,International University,Loyola University,1,0.0008256081300432621
+p580,Iowa State College,Lingnan University,1,0.0016217849838501951
+p581,Iowa State College,University of California,1,0.0016566144851126738
+p582,Iowa State College,Jinling University,3,0.0008983128848953013
+p583,Iowa State College,University of Chicago,1,0.001969407693671231
+p584,Iowa State College,University of Wisconsin,1,0.0008700334462471767
+p585,Iowa State College,Kansas State College,1,0.00024192696490721682
+p586,Iowa State College,University of British Columbia,1,0.00039095119376033526
+p587,Iowa State College,University of Costa Rica,1,0.003899656597404109
+p588,Iowa State College,Normal University,2,0.0003139248785513487
+p589,Iowa State College,Oregon State College,2,0.00020886811974821486
+p590,Jiaotong University,University of Pennsylvania,6,0.0014057619043327664
+p591,Jiaotong University,Massachusetts Institute of Technology,20,0.0009744023313333093
+p592,Jiaotong University,University of London,5,0.0006018368533928714
+p593,Jiaotong University,Rensselaer Polytechnic Institute,2,0.0009119180867290785
+p594,Jiaotong University,New York University,4,0.002074567472228081
+p595,Jiaotong University,University of Toronto,2,0.00037781939214536565
+p596,Jiaotong University,University of Michigan,10,0.002587178849402314
+p597,Jiaotong University,Purdue University,13,0.0010257697393437164
+p598,Jiaotong University,University of Illinois,7,0.0011418982279288673
+p599,Jiaotong University,New School For Social Research,1,0.0005846788727134322
+p600,Jiaotong University,North American Institute of Aviation,1,0.0032638677640157727
+p601,Jiaotong University,University of Southern California,2,0.0015065539101368688
+p602,Jiaotong University,Stanford University,1,0.0011616802547400782
+p603,Jiaotong University,University of Oklahoma,1,0.0011118264163186664
+p604,Jinan University,New York University,2,0.0017248788473844007
+p605,Jinan University,University of Michigan,6,0.0036359715685722106
+p606,Jinan University,Tri-State College,2,0.0006190255738470469
+p607,Jinan University,Olivet College,1,0.0029177626281817674
+p608,Jinan University,North Dakota State College,1,0.0006087875450532181
+p609,Jinan University,University of Southern California,1,0.0017778889152403835
+p610,Jinan University,University of Paris,1,0.0009468929759981013
+p611,Jinan University,University of Washington,1,0.0011439554155620755
+p612,Jinan University,Yale University,1,0.0008445566403358893
+p613,Jinan University,Loyola University,1,0.0031307534719727864
+p614,Jinling University,University of Edinburgh,1,0.0008223941101473148
+p615,Jinling University,Yenching University,1,0.0020860009037484677
+p616,Jinling University,Syracuse University,1,0.0009505354968763209
+p617,Jinling University,University of California,9,0.000897313965122289
+p618,Jinling University,University of Southern California,1,0.0008987491174426823
+p619,Jinling University,Juilliard School of Music,1,0.0032949216592729797
+p620,Jinling University,University of Chicago,3,0.001286972169817759
+p621,Jinling University,Northwestern University,1,0.0007417042195861197
+p622,Jinling University,University of Illinois,1,0.0011872953511869323
+p623,Jinling University,University of Minnesota,6,0.0008362693318113485
+p624,Jinling University,McGill University,1,0.001323389785864625
+p625,Jinling University,Oregon State College,2,0.0005985267825719413
+p626,Jinling University,University de Nancy,1,0.0038996565974041097
+p627,Jinling University,Kansas State College,1,0.000748924708864167
+p628,Jinling University,University of Michigan,1,0.0026784087547369333
+p629,Jinling University,Johns Hopkins University,1,0.0012000864890353408
+p630,Jinling University,Ohio Wesleyan University,1,0.0008688852081980243
+p631,Jinling University,University of Maryland,1,0.0010583122927189151
+p632,Jinling University,Tsinghua University,1,0.0008471783853733005
+p633,Johns Hopkins University,Peking Union Medical College,2,0.000492184768320938
+p634,Johns Hopkins University,Southeast University,1,0.0014649640619591219
+p635,Johns Hopkins University,University of Maryland,1,0.00054389551877695
+p636,Johns Hopkins University,Yenching University,1,0.003849804364865756
+p637,Johns Hopkins University,Rostock University,1,0.0019535596719086356
+p638,Johns Hopkins University,Xiamen University,1,0.00044257069472503205
+p639,Johns Hopkins University,Ohio Wesleyan University,1,0.0005636120978933369
+p640,Johns Hopkins University,Shanghai University,1,0.0022029215659796564
+p641,Juilliard School of Music,Westminster Choir College,1,0.0015954282125634936
+p642,Juilliard School of Music,Trinity College of Music,1,0.003899656597404109
+p643,Juilliard School of Music,National Guangdong Specialized School,1,0.003899656597404109
+p644,Kansas State College,Lingnan University,2,0.0011096578477892763
+p645,Lehigh University,Stanford University,1,0.0028684811059568518
+p646,Lehigh University,Qilu University,1,0.0011505596308695727
+p647,Lenoir-Rhyne College,New York University,1,0.0017643358265337925
+p648,Lingnan University,Radcliffe College,1,0.001876842051209651
+p649,Lingnan University,University of California,5,0.0009312551981489689
+p650,Lingnan University,Stanford University,5,0.001741161034308107
+p651,Lingnan University,Pomona College,2,0.0012249411630198311
+p652,Lingnan University,University of Denver,1,0.0033040609458673733
+p653,Lingnan University,University of Pennsylvania,1,0.0013397543417265052
+p654,Lingnan University,Massachusetts Institute of Technology,3,0.0012760390115484073
+p655,Lingnan University,Mills College,2,0.00044441069964146234
+p656,Lingnan University,Penn State College,2,0.0009396950883354701
+p657,Lingnan University,Northwestern University,2,0.001169431412437614
+p658,Lingnan University,Rockford College,1,0.0012729070380257234
+p659,Lingnan University,University of Washington,2,0.0015496248400580037
+p660,Lingnan University,University of Illinois,1,0.00158371626181652
+p661,Lingnan University,University of Michigan,6,0.002619269425347734
+p662,Lingnan University,University of Chicago,5,0.0012531567319933716
+p663,Lingnan University,Smith College,1,0.0009502515443110195
+p664,Lingnan University,New York University,3,0.001834655956564763
+p665,Lingnan University,University of Hawaii,2,0.00048192144243739803
+p666,Lingnan University,University of Southern California,4,0.001187506049879922
+p667,Lingnan University,Yenching University,1,0.0025788925349233467
+p668,Lingnan University,Purdue University,1,0.001913559400018932
+p669,Lingnan University,University of Minnesota,2,0.0008204988808112086
+p670,Lingnan University,Miami University,1,0.0014551694623730431
+p671,Lingnan University,Xiamen University,1,0.001359703936282078
+p672,Lingnan University,Oregon State College,2,0.0010629195954568397
+p673,Lingnan University,Ohio State University,1,0.0011576297006385492
+p674,Lingnan University,Ohio Wesleyan University,1,0.0016479188013345989
+p675,Lingnan University,Taliesin Fellowship,1,0.001353573894496323
+p676,Lingnan University,Lowell Textile Institute,1,0.0008729304134316298
+p677,Lingnan University,Washington University,1,0.0014731178572815144
+p678,Lingnan University,St. John's University,1,0.0015430499574391086
+p679,Louisiana State University,Nankai University,1,0.0007028990751961487
+p680,Louisiana State University,University of Pennsylvania,1,0.0013532588990139366
+p681,Louisiana State University,Madison College,1,0.00024313272319443605
+p682,Louisiana State University,University of Tennessee,1,0.0002404926554646755
+p683,Lousiana State University,University of Michigan,1,0.003769473498389161
+p684,Lousiana State University,Madison College,1,0.00013018309901494815
+p685,Lowell Textile Institute,University of Pennsylvania,1,0.0006678018410075188
+p686,Madison College,University of Cincinnati,1,0.00042029517560723795
+p687,Madison College,Michigan State College,2,0.00028894088534443964
+p688,Madison College,University of Michigan,1,0.0024074456214921137
+p689,Madison College,University of Tennessee,1,0.00019332595703130996
+p690,Madison General Hospital,Qilu University,1,0.003899656597404109
+p691,Manchester University,North Carolina State College,1,0.003899656597404109
+p692,Manchester University,State University of Iowa,1,0.0026209365166331325
+p693,Manchester University,Tsinghua University,1,0.00515509514625029
+p694,Mapúa Institute of Technology,University of the Philippines,1,3.8704062033404246e-05
+p695,Marquette University,University of Michigan,1,0.003999430212579485
+p696,Marquette University,Yenching University,1,0.003776601450303932
+p697,Marquette University,Mary Manse College,1,0.0038996565974041097
+p698,Mary Hardin-Baylor College,University of Texas,1,0.003899656597404109
+p699,Maryville College,St. Louis College of Pharmacy,1,1.1640765962400325e-05
+p700,Maryville College,State University of Iowa,1,0.0038880158314417088
+p701,Massachusetts College of Pharmacy,Nankai University,1,0.003899656597404109
+p702,Massachusetts Institute of Technology,University of London,3,0.00044024073873334517
+p703,Massachusetts Institute of Technology,University of Colorado,2,0.0007540595285824258
+p704,Massachusetts Institute of Technology,Rensselaer Polytechnic Institute,2,0.002069357441071332
+p705,Massachusetts Institute of Technology,Yenching University,2,0.001693335061994316
+p706,Massachusetts Institute of Technology,Tsinghua University,21,0.0005755015986544744
+p707,Massachusetts Institute of Technology,University of Toronto,1,0.0003912746416305475
+p708,Massachusetts Institute of Technology,University of Hong Kong,5,0.0008220604472422557
+p709,Massachusetts Institute of Technology,St. John's University,6,0.00133770024131531
+p710,Massachusetts Institute of Technology,University of Rochester,1,0.0006787579103388722
+p711,Massachusetts Institute of Technology,University of California,3,0.0007168824809290557
+p712,Massachusetts Institute of Technology,Tri-State College,1,0.0016032200238656306
+p713,Massachusetts Institute of Technology,Penn State College,1,0.0007451157385577191
+p714,Massachusetts Institute of Technology,University of Hawaii,1,0.0005066100933539945
+p715,Massachusetts Institute of Technology,Mills College,2,0.00037147965144998404
+p716,Massachusetts Institute of Technology,Radcliffe College,1,0.0015585179500986516
+p717,Massachusetts Institute of Technology,Zhejiang University,3,0.0011147991784444743
+p718,Massachusetts Institute of Technology,Purdue University,5,0.0014369488405934197
+p719,Massachusetts Institute of Technology,University of Illinois,1,0.0009163513403754979
+p720,Massachusetts Institute of Technology,West China University,1,0.0006126106376971068
+p721,Massachusetts Institute of Technology,State University of Iowa,1,0.002005365318391561
+p722,Massachusetts Institute of Technology,University of Wisconsin,1,0.0009695587011986517
+p723,Massachusetts Institute of Technology,Shanghai University,1,0.002078981794301194
+p724,Massachusetts Institute of Technology,Zhongshan University,1,0.0006273396702981348
+p725,Massachusetts Institute of Technology,University of Washington,1,0.0015064878277317873
+p726,Massachusetts Institute of Technology,University of Michigan,1,0.001817361216855227
+p727,Massachusetts Institute of Technology,Southwest Associated University,1,0.0016328517631496338
+p728,Massachusetts Institute of Technology,University of Minnesota,1,0.0008482610496897506
+p729,Massachusetts Institute of Technology,University of Cincinnati,1,0.0023468474453744465
+p730,Massachusetts Institute of Technology,Zhijiang University,1,0.0017146921524087819
+p731,Massachusetts Institute of Technology,University of British Columbia,1,0.0007412447292582502
+p732,Massachusetts Institute of Technology,Wuhan University,2,0.001078141691326403
+p733,Massachusetts Institute of Technology,University of Oklahoma,1,0.0027377657924268976
+p734,McGill University,Zhejiang University,1,0.00022888580365707973
+p735,McGill University,Tsinghua University,1,0.0014461741399596007
+p736,Medical College of Virginia,University of Richmond,1,0.00030133617265777634
+p737,Mercer University,University of San Francisco,1,0.003899656597404109
+p738,Merrill-Palmer School,Wayne University,1,0.0005839175776729815
+p739,Michigan State College,Ohio State University,1,0.0004499576128812033
+p740,Michigan State College,Oberlin College,1,0.0008443045759200725
+p741,Michigan State College,Shanghai Sanyu University,1,0.0038880158314417088
+p742,Michigan State College,University of Michigan,2,0.0036060353173746748
+p743,Michigan State College,Yenching University,3,0.003654688072729103
+p744,Mills College,University of Michigan,1,0.0008929525345511078
+p745,Mills College,Yenching University,3,0.0007293666380064473
+p746,Mills College,University of California,1,0.0003889476134027899
+p747,Mills College,State University of Iowa,1,0.0004063264043923353
+p748,Mills College,University of Wisconsin,1,0.00021362243843745356
+p749,Millsaps College,Southeast University,1,0.0028761236355747954
+p750,Missouri School of Mines & Metals,Yenching University,1,0.001929562496379151
+p751,Montana School of Mines,University of Washington,1,0.003899656597404109
+p752,Montana State College,University of Colorado,1,0.001755385985516145
+p753,Montana State College,Zhijiang University,1,0.002144270611887964
+p754,Morningside Conservatory of Music,Westminster Choir College,1,0.00011975374612882103
+p755,Mount Holyoke College,Southeast University,1,0.0009012044239844168
+p756,Mount Holyoke College,Shanghai University,2,0.0011940153506162553
+p757,Mount Holyoke College,University of North Carolina,1,0.0007240063937468716
+p758,Mount Holyoke College,Yenching University,2,0.0023090667237671936
+p759,Mount Holyoke College,Yale University,1,0.0005221550439698852
+p760,Mount Holyoke College,University of Michigan,1,0.0023789370597142277
+p761,Multnomah University,Tri-State College,1,0.003899656597404109
+p762,Nankai School,University of Southern California,1,0.0010376901806261741
+p763,Nankai University,University of Washington,1,0.0007939788940975255
+p764,Nankai University,University of Pennsylvania,1,0.0008269858525589749
+p765,Nankai University,University of Michigan,1,0.002270142386796611
+p766,Nankai University,Tsinghua University,1,0.0011705834650269434
+p767,Nankai University,Oberlin College,1,0.00036777824892566163
+p768,Nankai University,Pennsylvania College for Woman,1,0.001968414801211119
+p769,Nankai University,New School For Social Research,1,0.0003341531470188675
+p770,Nankai University,Yale University,1,0.00040282868916198837
+p771,Nankai University,Ohio State University,1,0.000598781335873844
+p772,Nankai University,New York University,1,0.0012855459370998078
+p773,Nankai University,University of Southern California,1,0.0010096684957711826
+p774,National College of Music,St. John's University,1,0.003899656597404109
+p775,National Defense Planning Commission,Shanghai University,1,0.003899656597404109
+p776,Neurological Institute,St. John's University,1,0.003899656597404109
+p777,New School For Social Research,Smith College,1,0.000292890657101018
+p778,New School For Social Research,New York University,1,0.0004309322069284494
+p779,New School For Social Research,Oberlin College,1,0.00026194174240039834
+p780,New School For Social Research,University of Chicago,1,0.0006123207329502865
+p781,New School For Social Research,Yenching University,1,0.0009677220848666312
+p782,New School For Social Research,Southeast University,1,0.0004919906397290428
+p783,New York University,Southeast University,4,0.0017951416477551333
+p784,New York University,Yenching University,8,0.0035536555780505343
+p785,New York University,University of Michigan,3,0.003333439177888246
+p786,New York University,Zhongshan University,6,0.0011502289523359444
+p787,New York University,University of Hong Kong,2,0.001241732053219467
+p788,New York University,Tientsin Institute of Commerce,1,0.0016650508577780243
+p789,New York University,University of Detroit,1,0.001077790096472687
+p790,New York University,St. John's University,4,0.002125622955347832
+p791,New York University,University of Chicago,3,0.002210622522597782
+p792,New York University,University of California,1,0.001551340129722094
+p793,New York University,University of Hawaii,1,0.0006504674731103471
+p794,New York University,Peiping College of Finance and Commerce,1,0.0029597913095757147
+p795,New York University,University of Washington,1,0.0011574429850724306
+p796,New York University,Safair Flying School,1,0.003061497538744905
+p797,New York University,Tri-State College,1,0.0010427186715244931
+p798,New York University,University of Pennsylvania,1,0.0012830465977137376
+p799,New York University,Smith College,1,0.0009156043454660205
+p800,New York University,Shanghai University,1,0.0026982299191524064
+p801,Normal University,Oxford University,1,0.0003015680051552712
+p802,Normal University,Princeton University,1,0.00031898446545158696
+p803,Normal University,University of Southern California,1,0.0009580157415530805
+p804,Normal University,Oregon State College,2,0.00028944976534128243
+p805,Normal University,University of Michigan,1,0.002417830172789216
+p806,North Dakota State College,University of California,1,0.002565715189412085
+p807,North Dakota State College,University of Minnesota,1,0.0015087499701442598
+p808,Northeastern University,Wentworth Institute,1,0.003899656597404109
+p809,Northern Baptist Theological Seminary,Northwestern University,1,0.003899656597404109
+p810,Northwestern University,Shanghai University,1,0.0012833212145353548
+p811,Northwestern University,Tulane University,1,0.0019130766445106286
+p812,Northwestern University,University of Chicago,1,0.0010538775913270565
+p813,Northwestern University,University of Illinois,1,0.001145127660572209
+p814,Northwestern University,Peking Union Medical College,1,0.00038477106094980353
+p815,Northwestern University,Southeast University,1,0.0010617849608461937
+p816,Northwestern University,Rockford College,1,0.0005485423838433692
+p817,Northwestern University,Stanford University,1,0.0011827429197177313
+p818,Oberlin College,University of Michigan,1,0.001426276924039362
+p819,Oberlin College,Shanghai University,1,0.0012148544884881217
+p820,Oberlin College,University of California,1,0.000810775695731331
+p821,Oberlin College,University of Wisconsin,1,0.0006694786044843789
+p822,Oberlin College,University of Chicago,1,0.0010354020270490329
+p823,Oberlin College,Yale University,1,0.0003029999231382584
+p824,Oberlin College,Radcliffe College,1,0.000786117948866502
+p825,Oberlin College,Simmons College,1,0.0006197375795466804
+p826,Oberlin College,University of Pennsylvania,1,0.000734426585474077
+p827,Oberlin College,Pennsylvania College for Woman,1,0.0019312417961929896
+p828,Oberlin Conservatory of Music,Yale University,1,0.003899656597404109
+p829,Ohio State University,University of Michigan,1,0.0018721380449946631
+p830,Ohio State University,Zhijiang University,1,0.0005818900001962238
+p831,Ohio State University,Ohio Wesleyan University,1,0.0004326762719024402
+p832,Ohio Wesleyan University,University of Southern California,1,0.0012472258716881319
+p833,Ohio Wesleyan University,University of California,1,0.0016915347557473427
+p834,Ohio Wesleyan University,University of Chicago,1,0.0019417400519344446
+p835,Oregon State College,University of Wisconsin,2,0.0004184369670038383
+p836,Oregon State College,University of California,1,0.0008942648305309255
+p837,Oregon State College,University of Minnesota,2,0.0005286946456230292
+p838,Oregon State College,Shandong University,1,0.0003059363019543278
+p839,Oxford University,University of Colorado,1,0.0004418295549624457
+p840,Oxford University,University of London,1,0.0007883310885911076
+p841,Oxford University,Princeton University,1,0.00034401745858214785
+p842,Pacific School of Religion,Yenching University,1,0.003899656597404109
+p843,Park College,University of Nebraska,1,0.003899656597404109
+p844,Park College,Shanghai University,1,0.003577004865842177
+p845,Park College,University of Missouri,1,0.001207801985862046
+p846,Park College,Southwest Associated University,1,0.0009357128312612254
+p847,Park College,Wellesley College,1,0.0008533428321745001
+p848,Pasadena College,University of Southern California,1,0.003888015831441708
+p849,Pasadena College,Westmont College,1,1.1640765962400325e-05
+p850,Peiping Minguo University,Tokyo University of Commerce,1,1.1640765962400325e-05
+p851,Peking Union Medical College,University of Minnesota,1,0.0004460752187637687
+p852,Peking Union Medical College,Yenching University,7,0.0008868233097735434
+p853,Peking Union Medical College,Southeast University,2,0.0004965390465711636
+p854,Peking Union Medical College,Western Reserve University,1,0.0006404585578032725
+p855,Peking Union Medical College,University of Michigan,2,0.001253902802070958
+p856,Penn State College,University of Hong Kong,1,0.00041188466994888614
+p857,Penn State College,Yenching University,1,0.0013919070622253806
+p858,Penn State College,Tsinghua University,1,0.000590450882633823
+p859,Peter Bent Brigham Hospital,Shanghai Medical College,1,0.00027848347061395264
+p860,Peter Bent Brigham Hospital,Yenching University,1,0.003621173126790155
+p861,Polytechnic Engineering College,University of Michigan,1,0.0038880158314417088
+p862,Pomona College,University of Denver,1,0.000595595651536734
+p863,Pomona College,Schauffler College,1,0.003899656597404109
+p864,Pomona College,University of Hawaii,1,0.0005557491971448045
+p865,Pomona College,University of Hong Kong,1,0.0006360071485803069
+p866,Pomona College,University of Washington,1,0.0007135782397589796
+p867,Pomona College,University of Southern California,1,0.001075182804062522
+p868,Pomona College,University of Chicago,1,0.0016985996137648762
+p869,Princeton Seminary,Zhijiang University,1,0.0038996565974041084
+p870,Princeton University,University of Washington,1,0.00040969648747242313
+p871,Princeton University,Yenching University,3,0.0011774464796896473
+p872,Princeton University,Tsinghua University,1,0.0004873448406406324
+p873,Princeton University,University of Toronto,1,0.000234112742642651
+p874,Princeton University,University of Chicago,1,0.00079482798382936
+p875,Princeton University,University of California,1,0.0005409582841538132
+p876,Princeton University,Yale University,1,0.00033852202395567366
+p877,Pughy College,University of Hong Kong,1,0.003899656597404109
+p878,Purdue University,University of Minnesota,1,0.0010622364614379367
+p879,Purdue University,St. John's University,6,0.0017856534208233663
+p880,Purdue University,Shanghai University,2,0.0026802697622996976
+p881,Purdue University,University of Michigan,5,0.0034137226301329945
+p882,Purdue University,Zhongshan University,1,0.001033332866866987
+p883,Purdue University,University of Hawaii,1,0.0005400779153432095
+p884,Purdue University,University of London,2,0.0007711578245683801
+p885,Purdue University,University of Tulsa,1,0.003899656597404109
+p886,Purdue University,Sino-French University,1,0.003916132714411833
+p887,Purdue University,University of Illinois,1,0.001267337670043431
+p888,Purdue University,University of British Columbia,1,0.0005359324979523274
+p889,Purdue University,University of Colorado,1,0.0006771253025015463
+p890,Purdue University,University of Hong Kong,1,0.0011920787270973717
+p891,Purdue University,Tsinghua University,1,0.0014878655064637526
+p892,Qilu University,University of Chicago,1,0.002193749211302955
+p893,Qilu University,Yenching University,2,0.003317329435785942
+p894,Qilu University,Tri-State College,1,0.0005572477336995231
+p895,Radcliffe College,University of Hong Kong,1,0.0009211390398775072
+p896,Radcliffe College,Wellesley College,1,0.0004812810219896397
+p897,Radcliffe College,Southeast University,1,0.0015510279013009952
+p898,Radcliffe College,Rosary College,1,0.000730184794870558
+p899,Radcliffe College,University of Connecticut,1,0.003899656597404109
+p900,Radcliffe College,Smith College,1,0.00047150975106801404
+p901,Radcliffe College,University of London,1,0.0008263269202245912
+p902,Radcliffe College,Southwest Associated University,1,0.00048614400165918
+p903,Radcliffe College,Yenching University,1,0.0031227841499473405
+p904,Radcliffe College,St. John's University,1,0.0015953964362209192
+p905,Rockford College,Yenching University,1,0.0021545278788943473
+p906,Rostock University,Xiamen University,1,0.0019460969254954733
+p907,Rutgers University,Yenching University,1,0.003899656597404109
+p908,Safair Flying School,Tri-State College,1,0.0008381590586592067
+p909,San Francisco State College,Stanford University,1,0.003899656597404109
+p910,Santa Barbara State College,Stanford University,2,0.003899656597404109
+p911,Scarritt College,Yenching University,1,0.0036453388889374654
+p912,Seton Hill College,Yenching University,1,0.003643279710155909
+p913,Shandong University,University of California,1,0.0014962916469737945
+p914,Shanghai Medical College,Yenching University,1,0.0014458975911692163
+p915,Shanghai Medical College,University of Michigan,1,0.0016596742850314582
+p916,Shanghai University,University of Pennsylvania,8,0.0012395910316941002
+p917,Shanghai University,Tulane University,1,0.0060612312278884445
+p918,Shanghai University,University of Chicago,4,0.002436285294680191
+p919,Shanghai University,University of Dubuque,1,0.0006276678425118734
+p920,Shanghai University,University of Washington,1,0.0019346245295984222
+p921,Shanghai University,University of California,2,0.0019207939661089934
+p922,Shanghai University,University of Minnesota,1,0.001571123318898329
+p923,Shanghai University,Women's Christian Medical College,1,0.0019791048369060937
+p924,Shanghai University,University of North Carolina,1,0.003175650203657237
+p925,Shanghai University,University of Michigan,7,0.004324493803504318
+p926,Shanghai University,Southwestern Seminary,1,0.0028151867602687636
+p927,Shanghai University,University of Colorado,1,0.0010371615517213077
+p928,Shanghai University,University of Southern California,3,0.0018518006874807737
+p929,Shanghai University,Yale University,1,0.0009457528994030598
+p930,Shanghai University,Syracuse University,1,0.0014381317664179443
+p931,Shanghai University,University of Richmond,1,0.001983262341747433
+p932,Shanghai University,Yenching University,1,0.004366819048688533
+p933,Shanghai University,University of Missouri,1,0.0005262209023330307
+p934,Simmons College,University of Southern California,1,0.0009808985080272659
+p935,Simmons College,Yenching University,1,0.0023579677102842033
+p936,Sino-French University,University of Lyon,1,0.00024493361549695903
+p937,Sino-French University,University of Paris,1,0.0006365124735515535
+p938,Smith College,University of California,1,0.00091652609333951
+p939,Smith College,University of London,1,0.000501141256042009
+p940,Southeast University,University of California,1,0.0019575538823394336
+p941,Southeast University,University of Chicago,2,0.0022238231450578973
+p942,Southeast University,Springfield College,1,0.0022206709391952052
+p943,Southeast University,State University of Iowa,1,0.0019371393357358257
+p944,Southeast University,Yale University,1,0.0007375985762885456
+p945,Southeast University,University of Michigan,1,0.004083676948591089
+p946,Southeast University,University of Pennsylvania,1,0.0012713932320734323
+p947,Southeast University,Southern College,1,0.0023054173112462537
+p948,Southwest Associated University,Vassar College,1,0.003899656597404109
+p949,Southwest Associated University,University of California,1,0.0015624690986117912
+p950,Southwest Associated University,Wellesley College,1,0.00034460431642494564
+p951,Southwest Associated University,University of Chicago,1,0.0020086622114675735
+p952,Southwestern Seminary,University of Colorado,1,0.0008133354411151602
+p953,Spartan College of Aeronautics and Technology,Witwatersrand College,1,1.1640765962400325e-05
+p954,Springfield College,State University of Iowa,1,0.001678985658208904
+p955,St. John's University,Stanford University,3,0.0014815269182632557
+p956,St. John's University,University of Chicago,3,0.0022379774448139374
+p957,St. John's University,University of Michigan,10,0.0040517393754408515
+p958,St. John's University,University of Pennsylvania,4,0.0014764475695995412
+p959,St. John's University,State University of Iowa,1,0.0018257465563129489
+p960,St. John's University,University of Wisconsin,4,0.0009856301665996682
+p961,St. John's University,St. Louis University,1,0.003899656597404109
+p962,St. John's University,University of Minnesota,2,0.001120050436514473
+p963,St. John's University,University of California,3,0.0014228032151198152
+p964,St. John's University,University of Illinois,3,0.0015196444035235125
+p965,St. John's University,Wheaton College,1,0.0010994242239572988
+p966,St. John's University,Yenching University,1,0.003184548204226281
+p967,St. John's University,University of London,1,0.0008596955898642377
+p968,St. John's University,University of Virginia,1,0.003899656597404109
+p969,St. John's University,University of Berlin,1,0.0077760316628834175
+p970,St. John's University,University of Pittsburgh,1,0.0021473861822667584
+p971,St. Louis College of Pharmacy,State University of Iowa,1,0.0038880158314417088
+p972,Stanford University,Zhongshan University,2,0.000651946201047
+p973,Stanford University,Washington & Jefferson College,1,0.003899656597404109
+p974,Stanford University,Tsinghua University,1,0.0008644100459099657
+p975,Stanford University,University of Southern California,1,0.0011667453974832536
+p976,Stanford University,University of California,1,0.0013850472057229293
+p977,Stanford University,Yungli Chemical Industries Limited,1,0.0013666439346348648
+p978,Stanford University,State University of Iowa,1,0.0014112008158684095
+p979,Stanford University,Yenching University,3,0.0030885490669170595
+p980,Stanford University,University of Hawaii,1,0.0004787226498744399
+p981,Stanford University,University of Arizona,1,0.0005250768090711143
+p982,Stanford University,University of Illinois,1,0.00101002182778716
+p983,Stanford University,University of Michigan,2,0.0030853265442324393
+p984,State University of Iowa,University of Chicago,3,0.002622837699267391
+p985,State University of Iowa,University of Southern California,1,0.0017008298714024659
+p986,State University of Iowa,Wheaton College,2,0.00045839462532063673
+p987,State University of Iowa,Yenching University,1,0.004203285740425517
+p988,State University of Iowa,Tsinghua University,4,0.0010747344917028602
+p989,State University of Iowa,University of Wisconsin,1,0.0009401560893557915
+p990,State University of Iowa,University of Illinois,1,0.001490960329209319
+p991,State University of Iowa,University of Pennsylvania,1,0.001666490229372864
+p992,Sweet Briar College,Zhijiang University,1,0.0038996565974041084
+p993,Syracuse University,University of Notre Dame,1,0.0005579034558738511
+p994,Syracuse University,West China Union University,1,0.003899656597404109
+p995,Syracuse University,West China University,1,0.0002174981347166269
+p996,Syracuse University,University of Pennsylvania,1,0.0012734812667842014
+p997,Taliesin Fellowship,University of Michigan,1,0.002401437314491064
+p998,Taxation College,University of Chicago,1,0.0027544348361549435
+p999,Taxation College,University of Wisconsin,1,0.0011452217612491673
+p1000,Technical College of Hanover,University of London,1,0.0027715109053942652
+p1001,Texas Technical College,University of Michigan,1,0.0035601804997546535
+p1002,Texas Technical College,Wellesley College,1,0.0003394760976494561
+p1003,Tianjin Industrial and Commercial College,University of Michigan,2,0.003899656597404109
+p1004,Tientsin Institute of Commerce,University of Detroit,1,0.00019991741191855645
+p1005,Tokyo Imperial University,Tsinghua University,1,0.003899656597404109
+p1006,Toronto University,Tsinghua University,1,0.0006833961807260621
+p1007,Toronto University,Yenching University,1,0.0015219838910179781
+p1008,Tri-State College,University of Michigan,1,0.0025971829621896318
+p1009,Tsinghua University,University of Michigan,9,0.002309783017228141
+p1010,Tsinghua University,University of Illinois,5,0.0008027100872253776
+p1011,Tsinghua University,Yale University,2,0.0006456575766182117
+p1012,Tsinghua University,University of Missouri,2,0.0004114454872794652
+p1013,Tsinghua University,University of Wisconsin,2,0.0006787157758817801
+p1014,Tsinghua University,University of London,2,0.0005230847729959957
+p1015,Tsinghua University,Yenching University,5,0.0017022775490935353
+p1016,Tsinghua University,University of Toronto,4,0.00029694349296871054
+p1017,Tsinghua University,University of California,2,0.0008125366863264744
+p1018,Tsinghua University,Zhejiang University,1,0.000815424596716034
+p1019,Tsinghua University,University of Minnesota,4,0.0007942493970020667
+p1020,Tsinghua University,University of Chicago,4,0.001455959630322014
+p1021,Tsinghua University,University of Pennsylvania,1,0.0009072495367049222
+p1022,Tufts College,University of Wisconsin,1,0.003899656597404109
+p1023,Tulane University,University of Chicago,1,0.0074846293256685655
+p1024,Tulane University,University of Texas,1,0.011629125196437926
+p1025,University de Liege,University of Michigan,1,0.003899656597404109
+p1026,University of Arizona,University of California,1,0.0010098368861459605
+p1027,University of Arizona,University of Michigan,1,0.0017115535734401799
+p1028,University of Arizona,University of Illinois,1,0.0006779528846102342
+p1029,University of Berlin,University of Perugia,1,0.003899656597404109
+p1030,University of British Columbia,University of Michigan,1,0.001384295000499197
+p1031,University of Brussels,University of Geneva,1,1.1640765962400325e-05
+p1032,University of California,University of Michigan,5,0.0017719495190427637
+p1033,University of California,University of London,1,0.0005903211306160121
+p1034,University of California,Yenching University,8,0.001933942364093666
+p1035,University of California,University of Minnesota,3,0.0006233014437698021
+p1036,University of California,University of Hawaii,1,0.000440164478459054
+p1037,University of California,Zhongshan University,3,0.0008146958423057729
+p1038,University of California,University of Missouri,1,0.00048628509591701097
+p1039,University of California,University of Washington,3,0.0011914748940213124
+p1040,University of California,University of Chicago,2,0.0012150398734876253
+p1041,University of California,University of Hong Kong,1,0.001000143760824386
+p1042,University of California,Zhejiang University,1,0.0012501003068326392
+p1043,University of California,University of Colorado,1,0.0008917705847319758
+p1044,University of Chicago,University of Southern California,1,0.0012267873222445967
+p1045,University of Chicago,Wheaton College,1,0.0014363522596098275
+p1046,University of Chicago,Yenching University,10,0.003201127740106045
+p1047,University of Chicago,University of Dubuque,1,0.0008218774620956241
+p1048,University of Chicago,University of Hong Kong,1,0.0015335592647353641
+p1049,University of Chicago,University of Wisconsin,1,0.0010549511955303273
+p1050,University of Chicago,University of Notre Dame,1,0.0028399277356556977
+p1051,University of Chicago,University of Michigan,6,0.0031808447670656466
+p1052,University of Chicago,Yale University,1,0.0008697128202636745
+p1053,University of Chicago,University of Minnesota,1,0.0011316372665741775
+p1054,University of Chicago,Zhijiang University,1,0.002280971395522628
+p1055,University of Chicago,University of Cincinnati,1,0.002817446163007131
+p1056,University of Chicago,University of Toronto,1,0.0008385626103075357
+p1057,University of Chicago,University of Kansas,1,0.0007969268242406169
+p1058,University of Chicago,University of Illinois,3,0.001466773291098193
+p1059,University of Chicago,University of Pennsylvania,1,0.0014171877926843527
+p1060,University of Cincinnati,University of Illinois,1,0.0014501948787208163
+p1061,University of Cincinnati,Zhongshan University,1,0.0012323246836881334
+p1062,University of Colorado,University of London,1,0.0003835117641642333
+p1063,University of Colorado,University of Illinois,1,0.0007734223839456622
+p1064,University of Colorado,Zhijiang University,1,0.0004661696784416184
+p1065,University of Colorado,University of Michigan,1,0.001642119061864036
+p1066,University of Detroit,University of Michigan,1,0.002318552464384616
+p1067,University of Detroit,Zhongshan University,1,0.000638133271965056
+p1068,University of Dubuque,University of Michigan,1,0.0012700929836479712
+p1069,University of Hawaii,Zhongshan University,1,0.0002801804928864887
+p1070,University of Hawaii,University of Michigan,4,0.0009676763095522864
+p1071,University of Hawaii,Yenching University,1,0.0010440571737531529
+p1072,University of Hawaii,Wayne University,1,0.0006165317274625666
+p1073,University of Hong Kong,University of Washington,1,0.0007674979209949057
+p1074,University of Hong Kong,Wellesley College,1,0.0005652007310893334
+p1075,University of Hong Kong,University of Illinois,1,0.0010471637305905098
+p1076,University of Illinois,University of Missouri,1,0.0005819625552306534
+p1077,University of Illinois,University of Wisconsin,1,0.0009101607626428724
+p1078,University of Illinois,University of Tennessee,1,0.0008671124277971223
+p1079,University of Illinois,Yenching University,1,0.0026259254769428805
+p1080,University of Illinois,Zhongshan University,2,0.0007515475749771863
+p1081,University of Illinois,University of Michigan,3,0.0023159850569822653
+p1082,University of Illinois,Zhijiang University,2,0.0014617492610343736
+p1083,University of Illinois,Zhejiang Provincial Technical College,1,0.001119874253816673
+p1084,University of Illinois,University of Maryland,1,0.001427947446825498
+p1085,University of Illinois,University of Pennsylvania,1,0.0013183484882582804
+p1086,University of Iowa,University of Michigan,1,0.003197080741735061
+p1087,University of Kansas,Yenching University,2,0.0011808884670198548
+p1088,University of Kansas,University of Minnesota,1,0.00041128543872878117
+p1089,University of London,Yenching University,2,0.001445565533784404
+p1090,University of London,University of Michigan,1,0.0014358740895927635
+p1091,University of London,Zhongshan University,1,0.00043587722078371974
+p1092,University of London,Xiamen University,1,0.000552848640237067
+p1093,University of Lyon,University of Paris,2,0.00023989825804244608
+p1094,University of Lyon,University of Pennsylvania,1,0.004380425300034543
+p1095,University of Michigan,Yenching University,15,0.004699217048093491
+p1096,University of Michigan,Zhijiang University,4,0.003317772619107721
+p1097,University of Michigan,Zhongshan University,3,0.0015857886791134296
+p1098,University of Michigan,Wellesley College,1,0.001887970294765611
+p1099,University of Michigan,University of Pennsylvania,2,0.0022754368361011246
+p1100,University of Michigan,University of Southern California,1,0.0020276913067982408
+p1101,University of Michigan,Zhejiang Provincial Technical College,1,0.0027797823435874356
+p1102,University of Michigan,Zhizhi College,1,0.003364151020184856
+p1103,University of Michigan,University of Washington,1,0.002495196486942614
+p1104,University of Michigan,Xiamen University,1,0.0022680540123842267
+p1105,University of Michigan,Wayne University,1,0.003302432637801836
+p1106,University of Michigan,University of Minnesota,2,0.0018390485047999057
+p1107,University of Michigan,Yale University,1,0.00134080366773712
+p1108,University of Minnesota,Yenching University,5,0.0017788865098637217
+p1109,University of Minnesota,University of Pennsylvania,1,0.0008268774332618371
+p1110,University of Minnesota,Zhejiang University,1,0.0007157525978293665
+p1111,University of Minnesota,University of Southern California,1,0.0008142434371868302
+p1112,University of Missouri,University of Wisconsin,1,0.00026755594232152517
+p1113,University of Missouri,Yenching University,4,0.000982545370649983
+p1114,University of Oklahoma,Zhejiang University,1,0.0003560349099451994
+p1115,University of Paris,University of Pennsylvania,1,0.0021351016074497267
+p1116,University of Pennsylvania,Women's Christian Medical College,1,0.0019205517604980154
+p1117,University of Pennsylvania,Yenching University,2,0.002496458905846556
+p1118,University of Pennsylvania,University of Southern California,1,0.000959949649227163
+p1119,University of Pennsylvania,University of Richmond,1,0.0018888357791720597
+p1120,University of Pennsylvania,Xiamen University,1,0.001087588496220993
+p1121,University of Pittsburgh,Zhejiang University,1,0.00046958920121656475
+p1122,University of Pittsburgh,Yenching University,1,0.0041345244903502765
+p1123,University of Pittsburgh,Zhongshan University,1,0.0012477494786311267
+p1124,University of Rochester,Yenching University,1,0.0011082217061525329
+p1125,University of Southern California,Wheaton College,1,0.0009489144999914553
+p1126,University of Southern California,Zhongshan University,1,0.0008519831689164881
+p1127,University of Southern California,Zhejiang University,1,0.0010103409822604702
+p1128,University of Southern California,Yenching University,4,0.002343508513230458
+p1129,University of Southern California,Yale University,1,0.0005193957138702977
+p1130,University of Southern California,Zhijiang University,2,0.001314579339457045
+p1131,University of Southern California,Westmont College,1,0.003888015831441708
+p1132,University of Tennessee,Yenching University,1,0.002003320491172298
+p1133,University of Toronto,Yenching University,1,0.0009597980624804278
+p1134,University of Toronto,Zhongshan University,1,0.0002532806550814121
+p1135,University of Washington,Yenching University,2,0.0029802670310276913
+p1136,University of Washington,Wusong Merchant Shipping School,2,0.003899656597404109
+p1137,University of Wisconsin,Yale University,1,0.0005650499089808365
+p1138,University of Wisconsin,Yenching University,3,0.0019978250662027524
+p1139,Virginia Polytechnic Institute,Zhijiang University,1,0.003345643294537308
+p1140,Washington University,Yenching University,1,0.0024265387401225954
+p1141,Wellesley College,Yenching University,1,0.0017629760711284203
+p1142,West China University,Yenching University,2,0.0010754493329040698
+p1143,Western Reserve University,Yenching University,1,0.0032591980396008352
+p1144,Yale University,Zhijiang University,1,0.0007064732283957349
+p1145,Yenching University,Zhongshan University,2,0.0013940549729545206
