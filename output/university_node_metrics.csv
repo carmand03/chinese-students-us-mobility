@@ -1,416 +1,415 @@
 id,label,clean_label,students,degree,degree_centrality,weighted_degree,betweenness,closeness,pagerank,community,community_size,country,city,state
-Aachen Technical University,亞享工科大學,Aachen Technical University,1,2,0.004830917874396135,2,0.0,0.2800360322593524,0.0007763506369716168,6,27,Germany,Aachen,North Rhine-Westphalia
-Air Force Technical College,空軍技術專門學校,Air Force Technical College,1,3,0.007246376811594202,3,0.0,0.25965026745886316,0.000946966154056386,1,58,China,Chengdu,Sichuan
-Albion College,Albion College,Albion College,3,4,0.00966183574879227,4,0.0010144421260454184,0.2883775310926097,0.0014110859997045681,2,55,United States,Albion,Michigan
-Alfred University,Alfred University,Alfred University,1,1,0.0024154589371980675,1,0.0,0.24509482751089795,0.0005950842502873174,3,51,United States,Alfred,New York
-Alverno College of Music,Alverno College of Music,Alverno College of Music,1,3,0.007246376811594202,3,0.0,0.276607019619442,0.001233427872132018,3,51,United States,Milwaukee,Wisconsin
-American Conservatory of Music,American Conservatory of Music,American Conservatory of Music,1,2,0.004830917874396135,2,0.0,0.23633380926508557,0.0009547403086244317,7,25,United States,Chicago,Illinois
-American National University,NationaI University,American National University,4,4,0.00966183574879227,4,0.003927653495900732,0.2914783647602722,0.0016066815399745531,7,25,United States,Roanoke,Virginia
-Anhui University,安徽大學,Anhui University,1,1,0.0024154589371980675,1,0.0,0.24576144988853413,0.0006156422440184368,4,38,China,Anqing,Anhui
-Antioch College,Antioch College,Antioch College,2,3,0.007246376811594202,3,8.906312532669637e-05,0.2678605525959023,0.0010724668536629318,4,38,United States,Yellow Springs,Ohio
-Arizona State Teachers' College,Arizona State Teachers' College,Arizona State Teachers' College,2,4,0.00966183574879227,4,0.0006545801009367981,0.2826641076403057,0.0013018139966789427,7,25,United States,Tempe,Arizona
-Arkansas State College,Arkansas State College,Arkansas State College,1,2,0.004830917874396135,2,0.0,0.26654363739139936,0.0008733323227640727,2,55,United States,Jonesboro,Arkansas
-Armour Institute of Technology,Armour Institute of Technology,Armour Institute of Technology,1,1,0.0024154589371980675,1,0.0,0.21260774841337504,0.0006947451150821162,2,55,United States,Chicago,Illinois
-Armstron College,Armstron College,Armstron College,1,1,0.0024154589371980675,1,0.0,0.16743352639101491,0.0012529383932585202,4,38,United Kingdom,Newcastle upon Tyne,
-Armstrong Junior College,Armstrong Junior College,Armstrong Junior College,1,1,0.0024154589371980675,1,0.0,0.21808115786569038,0.0006633429284936481,6,27,United States,Savannah,Georgia
-Army Mechanization School,陸軍機械化學校,Army Mechanization School,3,0,0.0,0,0.0,0.0,0.0004130524576625741,20,1,China,Kunming,Yunnan
-Army Signal Corps School,陸軍通信兵學校,Army Signal Corps School,1,0,0.0,0,0.0,0.0,0.0004130524576625741,21,1,China,Nanjing,Jiangsu
-Army University,陸軍大學,Army University,1,1,0.0024154589371980675,1,0.0,0.1999077280435495,0.0008039486064094662,5,31,China,Nanjing,Jiangsu
-Art Institute of Chicago,Art Institute of Chicago,Art Institute of Chicago,3,4,0.00966183574879227,4,0.003961674451329141,0.2678605525959023,0.0017038802038564333,4,38,United States,Chicago,Illinois
-Asbury College,Asbury College,Asbury College,2,2,0.004830917874396135,2,0.003906843995274357,0.23654003422954026,0.0015239551021159895,5,31,United States,Wilmore,Kentucky
-Atlantic Union College,Atlantic Union College,Atlantic Union College,1,1,0.0024154589371980675,1,0.0,0.2075611632672689,0.0008934022248160639,8,24,United States,South Lancaster,Massachusetts
-Aurora University,震旦大學,Aurora University,3,4,0.00966183574879227,5,0.0035185030295402063,0.26654363739139936,0.0021271844372762676,8,24,China,Shanghai,Shanghai
-Baldwin Wallace College,Baldwin Wallace College,Baldwin Wallace College,2,1,0.0024154589371980675,1,0.0,0.254291631545078,0.0006021355342916885,7,25,United States,Berea,Ohio
-Barnard College,Barnard College,Barnard College,4,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,11,2,United States,New York City,New York
-Baylor University,Baylor University,Baylor University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,22,1,United States,Waco,Texas
-Beijing University,北京大學,Beijing University,33,24,0.05797101449275362,41,0.010905528840293041,0.3511332632474782,0.008781262765981616,3,51,China,Beijing,Beijing
-Beiyang University,北洋大學,Beiyang University,9,8,0.01932367149758454,8,0.0015214403273656183,0.301529342855454,0.0020883964311297796,1,58,China,Tianjin,Tianjin
-Beloit College,Beloit College,Beloit College,1,1,0.0024154589371980675,1,0.0,0.2642055353090187,0.0005916396653445307,2,55,United States,Beloit,Wisconsin
-Bennett College,Bennett College,Bennett College,1,1,0.0024154589371980675,1,0.0,0.2361279435775724,0.0006464701390235124,9,21,United States,Greensboro,North Carolina
-Bethel College,Bethel College,Bethel College,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,12,2,United States,North Newton,Kansas
-Birmingham University,Birmingham University,Birmingham University,1,2,0.004830917874396135,2,0.0,0.2371608742143947,0.000854454929069872,1,58,United Kingdom,Birmingham,
-Birmingham-Southern College,Birmingham-Southern College,Birmingham-Southern College,1,1,0.0024154589371980675,1,0.0,0.19022798542249345,0.0007427907697026769,2,55,United States,Birmingham,Alabama
-Blackstone College,Blackstone College,Blackstone College,2,2,0.004830917874396135,2,4.50893657773279e-05,0.23109537871019026,0.0009466459611587707,9,21,United States,Blackstone,Virginia
-Boston University,Boston University,Boston University,7,8,0.01932367149758454,8,0.0018209169269293572,0.3101543240584132,0.0022049913269472535,8,24,United States,Boston,Massachusetts
-Briar Cliff College,Briar Cliff College,Briar Cliff College,1,3,0.007246376811594202,3,0.0,0.276607019619442,0.001233427872132018,3,51,United States,Sioux City,Iowa
-Brown University,Brown University,Brown University,4,5,0.012077294685990338,7,0.0002626165459949916,0.2868517240497917,0.001807470268922958,1,58,United States,Providence,Rhode Island
-Bryn Mawr College,Bryn Mawr College,Bryn Mawr College,5,6,0.014492753623188404,6,0.002861031700740329,0.26919054540918885,0.002159507965560432,9,21,United States,Bryn Mawr,Pennsylvania
-California Institute of Technology,California Institute of Technology,California Institute of Technology,25,25,0.06038647342995169,35,0.021544858086730748,0.3363211901080064,0.008315914708150513,1,58,United States,Pasadena,California
-Cambridge University,Cambridge University,Cambridge University,12,11,0.026570048309178744,16,0.00415507375766613,0.3277809906010316,0.0035843670886119773,6,27,United Kingdom,Cambridge,
-Canisus College,Canisus College,Canisus College,1,2,0.004830917874396135,2,0.0,0.2823696658615137,0.000783695534303782,3,51,United States,Buffalo,New York
-Carleton College,Carleton College,Carleton College,5,3,0.007246376811594202,5,0.0,0.30492112398993604,0.0013059216743573718,2,55,United States,Northfield,Minnesota
-Carnegie Institute of Technology,Carnegie Institute of Technology,Carnegie Institute of Technology,4,5,0.012077294685990338,6,0.004094267225355171,0.2624151783417746,0.002116611192562193,1,58,United States,Pittsburgh,Pennsylvania
-Carroll College,Carroll College,Carroll College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,23,1,United States,Helena,Montana
-Case School of Applied Science,Case School of Applied Science,Case School of Applied Science,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,13,2,United States,Cleveland,Ohio
-Catholic University of America,Catholic University of America,Catholic University of America,8,10,0.024154589371980676,11,0.010413477961877193,0.2914783647602722,0.004142565706125803,8,24,United States,Washington,District of Columbia
-Central Army Military Academy,中央陸軍軍官學校,Central Army Military Academy,16,6,0.014492753623188404,6,0.010648464475240673,0.26523960785425943,0.002756504944151371,5,31,China,Nanjing,Jiangsu
-Central Institute for Deaf,Central Institute for Deaf,Central Institute for Deaf,1,1,0.0024154589371980675,1,0.0,0.23654003422954026,0.0006094852505200013,1,58,United States,St. Louis,Missouri
-Central Political School,中央政治學校,Central Political School,7,6,0.014492753623188404,6,0.004142204646377075,0.27831096429882257,0.002040229297836916,5,31,China,Nanjing,Jiangsu
-Central University,中央大學,Central University,35,18,0.043478260869565216,36,0.004605429171949449,0.3301764667808199,0.0073644215074355375,6,27,China,Nanjing,Jiangsu
-Chemical Institute of Lyon,Chemical Institute of Lyon,Chemical Institute of Lyon,1,3,0.007246376811594202,3,0.0,0.2090014489028937,0.0013276182908849813,10,6,France,Lyon,
-Chengdu Sino-French University,成都中法大學,Chengdu Sino-French University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,24,1,China,Chengdu,Sichuan
-Chicago Aeronautical University,Chicago Aeronautical University,Chicago Aeronautical University,1,2,0.004830917874396135,2,0.0,0.22219252395660097,0.0011719791001413053,4,38,United States,Chicago,Illinois
-Chicago Technical College,Chicago Technical College,Chicago Technical College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,25,1,United States,Chicago,Illinois
-"Children Hospital, Massachusetts","Children Hospital, Massachusetts","Children Hospital, Massachusetts",1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,14,2,United States,Boston,Massachusetts
-China Academy,中國學院,China Academy,1,2,0.004830917874396135,2,0.0,0.2647215617451691,0.0007612366370903934,6,27,China,Shanghai,Shanghai
-China College University Department,中國公學大學部,China College University Department,2,3,0.007246376811594202,3,1.2829717710933277e-05,0.2519283264191944,0.001075172801978692,4,38,China,Shanghai,Shanghai
-China Public School,中國公學,China Public School,1,2,0.004830917874396135,2,0.0,0.21634068573587642,0.0010441997359688358,9,21,China,Shanghai,Shanghai
-China University,中國大學,China University,2,1,0.0024154589371980675,1,0.0,0.22798560069558718,0.000656841954157917,3,51,China,Beijing,Beijing
-Chongqing University,重慶大學,Chongqing University,1,1,0.0024154589371980675,1,0.0,0.2621613919023725,0.0005854415471976895,1,58,China,Chongqing,Chongqing
-Chrysler Institute of Engineering,Chryster Institute,Chrysler Institute of Engineering,1,2,0.004830917874396135,2,0.0,0.2528683574879227,0.0007529869752479442,1,58,United States,Highland Park,Michigan
-Citadel Military College of South Carolina,Citadel Military College of South Carolina,Citadel Military College of South Carolina,1,0,0.0,0,0.0,0.0,0.0004130524576625741,26,1,United States,Charleston,South Carolina
-City College of New York,City College of New York,City College of New York,3,0,0.0,0,0.0,0.0,0.0004130524576625741,27,1,United States,New York,New York
-Claremont College,Claremont College,Claremont College,2,4,0.00966183574879227,4,1.4294142643492188e-05,0.3005264736441831,0.0011334336708405115,4,38,United States,Claremont,California
-Clarence White School of Photography,Clarence White School of Photography,Clarence White School of Photography,1,3,0.007246376811594202,3,0.0,0.2936889265731887,0.0009712230870239495,3,51,United States,New York,New York
-Clark University,Clark University,Clark University,5,9,0.021739130434782608,10,0.0012337296650094661,0.3223244699489336,0.002433539088773949,7,25,United States,Worcester,Massachusetts
-College of Medical Evangelists,College of Medical Evangelists,College of Medical Evangelists,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,15,2,United States,Loma Linda,California
-College of St. Elisabeth,College of St. Elisabeth,College of St. Elisabeth,3,3,0.007246376811594202,4,0.0006636052942051584,0.280615817005231,0.0018722358486926805,8,24,United States,Morristown,New Jersey
-College of St. Teresa,College of St. Teresa,College of St. Teresa,3,4,0.00966183574879227,4,0.003953239367890587,0.24311648361170685,0.0018591800450220603,9,21,United States,Winona,Minnesota
-College of the Pacific,College of the Pacific,College of the Pacific,1,2,0.004830917874396135,2,0.0,0.22760275333925536,0.0009195287646534594,6,27,United States,Stockton,California
-Colorado College,Colorado College,Colorado College,3,2,0.004830917874396135,3,0.0,0.2716181154579691,0.0009507749783195581,1,58,United States,Colorado Springs,Colorado
-Colorado School of Mines,Colorado School of Mines,Colorado School of Mines,7,9,0.021739130434782608,10,0.005303188174246848,0.29690567275690377,0.0028954393718703714,1,58,United States,Golden,Colorado
-Columbia University,Columbia University,Columbia University,131,85,0.20531400966183574,181,0.12235500738730962,0.4176808616749664,0.040168678454163,3,51,United States,New York City,New York
-Cooper Union Institute of Technology,Cooper Union Institute of Technology,Cooper Union Institute of Technology,1,1,0.0024154589371980675,1,0.0,0.27688955998677545,0.0005924754922295163,2,55,United States,New York,New York
-Cornell University,Cornell University,Cornell University,53,40,0.0966183574879227,67,0.020407812315283186,0.38018917142644204,0.01352979280342712,1,58,United States,Ithaca,New York
-Creighton University,Creighton University,Creighton University,1,1,0.0024154589371980675,1,0.0,0.25940179830340016,0.0005865886421305432,6,27,United States,Omaha,Nebraska
-Cumberland Theological Seminary,Cumberland Theological Seminary,Cumberland Theological Seminary,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,12,2,United States,Lebanon,Tennessee
-Curtiss-Wright Technical Institute,Curtiss-Wright Technical Institute,Curtiss-Wright Technical Institute,4,3,0.007246376811594202,3,7.738897268103611e-05,0.27243706454980215,0.0009802827065116307,1,58,United States,Glendale,California
-Dartmouth College,Dartmouth College,Dartmouth College,2,3,0.007246376811594202,3,0.0010801293756301138,0.24531663278466348,0.0015927718274201673,5,31,United States,Hanover,New Hampshire
-Datong University,大同大學,Datong University,7,6,0.014492753623188404,8,0.007903614015411124,0.29085287470713855,0.002747321337936038,2,55,China,Shanghai,Shanghai
-Daxia University,大夏大學,Daxia University,3,3,0.007246376811594202,3,5.024895408093639e-05,0.2586592359036767,0.0010467571739589288,5,31,China,Shanghai,Shanghai
-De La Salle College,De La Salle College,De La Salle College,1,1,0.0024154589371980675,1,0.0,0.2621613919023725,0.0005854415471976895,1,58,Philippines,Manila,
-DePaul University,DePaul University,DePaul University,1,1,0.0024154589371980675,1,0.0,0.254291631545078,0.0006021355342916885,7,25,United States,Chicago,Illinois
-Denison University,Denison University,Denison University,1,2,0.004830917874396135,2,0.0,0.2838480410754483,0.0007907468183081531,7,25,United States,Granville,Ohio
-Detroit College of Law,Detroit College of Law,Detroit College of Law,1,2,0.004830917874396135,2,0.0,0.2444318117466665,0.0010727948202343244,5,31,United States,Detroit,Michigan
-Detroit Institute of Technology,Detroit Institute of Technology,Detroit Institute of Technology,1,2,0.004830917874396135,2,0.0,0.2978844826670914,0.000781086776245981,3,51,United States,Detroit,Michigan
-Dickinson College,Dickinson College,Dickinson College,1,2,0.004830917874396135,2,0.0,0.24487342296933437,0.0007933952689185813,3,51,United States,Carlisle,Pennsylvania
-Dominican College,Dominican College,Dominican College,1,2,0.004830917874396135,2,0.0,0.2838480410754483,0.0007660116766974855,6,27,United States,Orangeburg,South Carolina
-Drake University,Drake University,Drake University,2,3,0.007246376811594202,3,6.962581970477539e-06,0.2800360322593524,0.0009671011629425483,2,55,United States,Des Moines,Iowa
-Drew University,Drew University,Drew University,7,8,0.01932367149758454,10,0.0016480347885980391,0.29625669860880127,0.002822187730396584,2,55,United States,Madison,New Jersey
-Drexel Institute of Technology,Drexel Institute of Technology,Drexel Institute of Technology,1,1,0.0024154589371980675,1,0.0,0.25476962333369657,0.0005937464696931942,3,51,United States,Philadelphia,Pennsylvania
-Duke University,Duke University,Duke University,5,6,0.014492753623188404,6,0.0003224573594460574,0.28119800749694307,0.0017380043289224668,8,24,United States,Durham,North Carolina
-Duquesne University,Duquesne University,Duquesne University,1,1,0.0024154589371980675,1,0.0,0.21095321340626705,0.0007160848657325975,7,25,United States,Pittsburgh,Pennsylvania
-Ecole des Hautes Etudes Industrielles et Commerciales,Ecole des Hautes Etudes Industrielles et Commerciales,Ecole des Hautes Etudes Industrielles et Commerciales,1,1,0.0024154589371980675,1,0.0,0.2621613919023725,0.0005854415471976895,1,58,France,Lille,
-Edinburgh University,Edinburgh University,Edinburgh University,3,4,0.00966183574879227,4,0.0039348881009268165,0.2678605525959023,0.0016864434690298427,10,6,United Kingdom,Edinburgh,
-Elmira College,Elmira College,Elmira College,1,1,0.0024154589371980675,1,0.0,0.22020705055000256,0.0006586119157466356,6,27,United States,Elmira,New York
-Embry–Riddle Aeronautical University (ERAU),Aeronautical University,Embry–Riddle Aeronautical University (ERAU),1,0,0.0,0,0.0,0.0,0.0004130524576625741,28,1,United States,Miami,Florida
-Emmanuel College,Emmanuel College,Emmanuel College,1,1,0.0024154589371980675,1,0.0,0.24074145579667242,0.0005998123903588969,7,25,United States,Boston,Massachusetts
-Emmanuel Missionary College,Emmanuel Missionary College,Emmanuel Missionary College,1,2,0.004830917874396135,2,0.0,0.22274024587268132,0.001100558411605484,2,55,United States,Berrien Springs,Michigan
-Emory University,Emory University,Emory University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,29,1,United States,Atlanta,Georgia
-Field Artillery School,Field Artillery School,Field Artillery School,1,2,0.004830917874396135,2,0.0,0.20109412405567742,0.0013194219095009733,5,31,United States,Fort Sill,Oklahoma
-Finch College,Finch College,Finch College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,30,1,United States,New York,New York
-Fletcher School of Law & Diplomacy,Fletcher School of Law & Diplomacy,Fletcher School of Law & Diplomacy,1,1,0.0024154589371980675,1,0.0,0.27688955998677545,0.0005924754922295163,2,55,United States,Medford,Massachusetts
-Florida Southern College,Florida Southern College,Florida Southern College,2,3,0.007246376811594202,4,2.6747839830648618e-05,0.2902300634122625,0.0011230588855372344,2,55,United States,Lakeland,Florida
-Foochow College,福州學院,Foochow College,1,2,0.004830917874396135,2,0.0,0.24846460057475084,0.0010364787243796153,1,58,China,Fuzhou,Fujian
-Fordham University,Fordham University,Fordham University,5,5,0.012077294685990338,6,0.008001871448525138,0.27888362060396416,0.003365815567780068,8,24,United States,New York,New York
-Forest Park University,Forest Park University,Forest Park University,1,2,0.004830917874396135,2,0.0,0.24846460057475084,0.0010364787243796153,1,58,United States,St. Louis,Missouri
-Fu-jen University,輔仁大學,Fu-jen University,11,11,0.026570048309178744,14,0.0031351649690874697,0.31086568718698754,0.003655927178326251,8,24,China,Beijing,Beijing
-Fudan University,復旦大學,Fudan University,16,14,0.033816425120772944,19,0.005818882534320175,0.3305791210086014,0.004453780462159519,5,31,China,Shanghai,Shanghai
-Fujian Union University,福建協和大學,Fujian Union University,15,17,0.041062801932367145,27,0.004608001778160792,0.3426989623603706,0.005612896527897904,3,51,China,Fuzhou,Fujian
-George Peabody College,George Peabody College,George Peabody College,7,5,0.012077294685990338,8,0.0006135259658648287,0.29054113529158965,0.002203252562266365,3,51,United States,Nashville,Tennessee
-George Washington University,George Washington University,George Washington University,13,17,0.041062801932367145,18,0.014485337215453115,0.3326072137755254,0.004845081493027971,5,31,United States,Washington,District of Columbia
-George Williams College,George Williams College,George Williams College,1,2,0.004830917874396135,2,0.0,0.2850419339926952,0.0007798200933736743,7,25,United States,Williams Bay,Wisconsin
-Georgetown University,Georgetown University,Georgetown University,5,10,0.024154589371980676,10,0.0007879631665550029,0.3269902041339604,0.0023912010182409334,5,31,United States,Washington,District of Columbia
-Georgia School of Technology,Georgia School of Technology,Georgia School of Technology,2,0,0.0,0,0.0,0.0,0.0004130524576625741,31,1,United States,Atlanta,Georgia
-Ginling College,金陵女子文理學院,Ginling College,17,20,0.04830917874396135,25,0.008837699488004652,0.3262032240999436,0.005674312084339123,9,21,China,Nanjing,Jiangsu
-Glasgow University,Glasgow University,Glasgow University,1,1,0.0024154589371980675,1,0.0,0.20139292661742433,0.0007714632502613345,10,6,United Kingdom,Glasgow,
-Gonzaga University,Gonzaga University,Gonzaga University,1,2,0.004830917874396135,2,0.0,0.2689234912966797,0.0007826118030074848,3,51,United States,Spokane,Washington
-Goucher College,Goucher College,Goucher College,3,4,0.00966183574879227,4,0.002234643976255808,0.276607019619442,0.0015304640370425535,9,21,United States,Towson,Maryland
-Granville College,Granville College,Granville College,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,17,2,United States,Granville,Ohio
-Guangdong College of Law,廣東法學院,Guangdong College of Law,1,3,0.007246376811594202,3,0.0,0.3005264736441831,0.0009678467089423038,7,25,China,Guangzhou,Guangdong
-Guangdong National University,廣東國民大學,Guangdong National University,2,3,0.007246376811594202,3,0.00011771409685685802,0.2660204899185998,0.0011416918086028507,8,24,China,Guangzhou,Guangdong
-Guangdong Provincial Technical College,廣東省立工業專門學校,Guangdong Provincial Technical College,1,2,0.004830917874396135,2,0.0,0.2771726781462711,0.0010303398906636172,2,55,China,Guangzhou,Guangdong
-Guanghua Medical College,光華醫學院,Guanghua Medical College,1,1,0.0024154589371980675,1,0.0,0.2601486364942928,0.0005743654471264938,1,58,China,Shanghai,Shanghai
-Guanghua University,光華大學,Guanghua University,12,11,0.026570048309178744,17,0.003921989632785133,0.31966377267341173,0.003962332723322115,7,25,China,Shanghai,Shanghai
-Guangxi Aviation School,廣西航空學校,Guangxi Aviation School,1,0,0.0,0,0.0,0.0,0.0004130524576625741,32,1,China,Liuzhou,Guangxi
-Guangxi University,廣西大學,Guangxi University,2,2,0.004830917874396135,2,0.0,0.24710563284143403,0.0007827282451419111,6,27,China,Wuzhou,Guangxi
-Guangzhou University,廣州大學,Guangzhou University,1,1,0.0024154589371980675,1,0.0,0.254291631545078,0.0006021355342916885,7,25,China,Guangzhou,Guangdong
-Guilford College,Guilford College,Guilford College,1,2,0.004830917874396135,2,0.0,0.2523974666918558,0.0007920167139030543,3,51,United States,Greensboro,North Carolina
-Hamline University,Hamline University,Hamline University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,33,1,United States,Saint Paul,Minnesota
-Harbin Polytechnic Institute,Harbin Polytechnic Institute,Harbin Polytechnic Institute,1,1,0.0024154589371980675,1,0.0,0.23925408581381566,0.0005906919498214593,1,58,China,Harbin,Heilongjiang
-Hartford Seminary Foundation,Hartford Seminary Foundation,Hartford Seminary Foundation,3,5,0.012077294685990338,6,0.00012232593465430106,0.28564265461227945,0.0016068497382769533,4,38,United States,Hartford,Connecticut
-Harvard University,Harvard University,Harvard University,95,50,0.12077294685990338,127,0.04856397527124267,0.3872498274672188,0.025759404272190905,1,58,United States,Cambridge,Massachusetts
-Hastings College,Hastings College,Hastings College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,34,1,United States,Hastings,Nebraska
-Haverford College,Haverford College,Haverford College,5,7,0.016908212560386472,8,0.004126793182588276,0.31704664237082236,0.002294687572000843,3,51,United States,Haverford,Pennsylvania
-Heald's College,Heald's College,Heald's College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,35,1,United States,San Francisco,California
-Heald’s Engineering College,Heald’s Engineering College,Heald’s Engineering College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,36,1,United States,San Francisco,California
-Hebei Institute of Technology,河北工學院,Hebei Institute of Technology,2,1,0.0024154589371980675,1,0.0,0.2442116029072551,0.0005875820934644983,6,27,China,Tianjin,Tianjin
-Hebei Provincial Institute of Technology,河北省立工業學院,Hebei Provincial Institute of Technology,1,0,0.0,0,0.0,0.0,0.0004130524576625741,37,1,China,Tianjin,Tianjin
-Hebei University,河北大學,Hebei University,1,1,0.0024154589371980675,1,0.0,0.24823706888924282,0.000596017739728163,1,58,China,Tianjin,Tianjin
-Henan University,河南大學,Henan University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,38,1,China,Kaifeng,Henan
-Hochschule für Musik,Hochschule für Musik,Hochschule für Musik,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,18,2,Germany,Berlin,
-Holy Cross College,Holy Cross College,Holy Cross College,1,1,0.0024154589371980675,1,0.0,0.23778498177811683,0.0006149621752818079,1,58,United States,Notre Dame,Indiana
-Hongkong University,Hongkong University,Hongkong University,1,1,0.0024154589371980675,1,0.0,0.27576284763688014,0.0006016637416790386,3,51,Hong Kong,Hong Kong,
-Houghton College,Houghton College,Houghton College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,39,1,United States,Houghton,New York
-Huazhong University,華中大學,Huazhong University,1,2,0.004830917874396135,2,0.0,0.2760436652006651,0.0008101697219219496,2,55,China,Wuhan,Hubei
-Hunan University,湖南大學,Hunan University,1,1,0.0024154589371980675,1,0.0,0.24268118104481035,0.0006259049575875408,4,38,China,Changsha,Hunan
-Hunter College,Hunter College,Hunter College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,40,1,United States,New York City,New York
-Hwa Nan College,華南學院,Hwa Nan College,7,9,0.021739130434782608,9,0.006634606721060589,0.29755749640730317,0.0028646372661057405,8,24,China,Fuzhou,Fujian
-Illinois Institute of Technology,Illinois Institute of Technology,Illinois Institute of Technology,4,8,0.01932367149758454,9,0.007977899693785297,0.3056086575276811,0.002760770235419062,4,38,United States,Chicago,Illinois
-Indiana Technical College,Indiana Technical College,Indiana Technical College,2,0,0.0,0,0.0,0.0,0.0004130524576625741,41,1,United States,Fort Wayne,Indiana
-Indiana University,Indiana University,Indiana University,8,10,0.024154589371980676,13,0.0018838625829745166,0.3073411329104911,0.003299456251893823,5,31,United States,Indianapolis,Indiana
-Institut Meurice Chimie,Institut Meurice Chimie,Institut Meurice Chimie,1,0,0.0,0,0.0,0.0,0.0004130524576625741,42,1,Belgium,Brussels,
-Institute for Advanced Study,Institute for Advanced Study,Institute for Advanced Study,1,2,0.004830917874396135,2,0.0,0.2601486364942928,0.0007771538885535613,1,58,United States,Princeton,New Jersey
-International University,International University,International University,1,2,0.004830917874396135,2,0.0,0.2029003587028841,0.0011423616099311314,8,24,Belgium,Brussels,
-Iowa State College,Iowa State College,Iowa State College,13,11,0.026570048309178744,15,0.004430065539336289,0.29755749640730317,0.003703784638069825,6,27,United States,Ames,Iowa
-Jiaotong University,交通大學,Jiaotong University,94,27,0.06521739130434782,103,0.0156798020749548,0.3326072137755254,0.019669801561277168,1,58,China,Shanghai,Shanghai
-Jiaozuo Institute of Technology,河南焦作工學院,Jiaozuo Institute of Technology,1,0,0.0,0,0.0,0.0,0.0004130524576625741,43,1,China,Jiaozuo,Henan
-Jinan University,暨南大學,Jinan University,13,14,0.033816425120772944,21,0.01063389155781827,0.31086568718698754,0.005331987445935161,2,55,China,Shanghai,Shanghai
-Jinling University,金陵大學,Jinling University,37,25,0.06038647342995169,48,0.015353655545483985,0.34932329797300665,0.010484587401143062,6,27,China,Nanjing,Jiangsu
-Johns Hopkins University,Johns Hopkins University,Johns Hopkins University,9,11,0.026570048309178744,12,0.006853463356738966,0.3022016490825565,0.003466661118364066,6,27,United States,Baltimore,Maryland
-Juilliard School of Music,Juilliard School of Music,Juilliard School of Music,4,5,0.012077294685990338,5,0.009289844752583591,0.28474252019648444,0.0027502328447969225,8,24,United States,New York City,New York
-Kansas State College,Kansas State College,Kansas State College,4,5,0.012077294685990338,6,0.0005690946439240313,0.2917921197277214,0.0017198515885358027,4,38,United States,Manhattan,Kansas
-LaSalle College,LaSalle College,LaSalle College,1,1,0.0024154589371980675,1,0.0,0.27576284763688014,0.0006016637416790386,3,51,United States,Philadelphia,Pennsylvania
-Lafayette College,Lafayette College,Lafayette College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,44,1,United States,Easton,Pennsylvania
-Lehigh University,Lehigh University,Lehigh University,2,2,0.004830917874396135,2,5.9981135424043514e-05,0.25099525854356775,0.0008839868336510141,4,38,United States,Bethlehem,Pennsylvania
-Lenoir-Rhyne College,Lenoir-Rhyne College,Lenoir-Rhyne College,1,2,0.004830917874396135,2,0.0,0.26680598349119405,0.0007737634537689563,7,25,United States,Hickory,North Carolina
-Linfield College,Linfield College,Linfield College,2,0,0.0,0,0.0,0.0,0.0004130524576625741,45,1,United States,McMinnville,Oregon
-Lingnan University,嶺南大學,Lingnan University,60,46,0.1111111111111111,92,0.03438538537566072,0.3775416145223582,0.019517094554752833,4,38,China,Guangzhou,Guangdong
-Los Angeles City College,Los Angeles City College,Los Angeles City College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,46,1,United States,East Hollywood,California
-Louisiana State University,Louisiana State University,Louisiana State University,3,6,0.014492753623188404,6,0.00028455439680555593,0.2738130093202557,0.0017361895993297529,5,31,United States,Baton Rouge,Louisiana
-Lousiana State University,Lousiana State University,Lousiana State University,3,2,0.004830917874396135,2,0.0,0.27831096429882257,0.0008283163287691056,2,55,United States,Baton Rouge,Louisiana
-Lowell Textile Institute,Lowell Textile Institute,Lowell Textile Institute,3,4,0.00966183574879227,4,0.0,0.298540615888825,0.0011350419795584659,4,38,United States,Lowell,Massachusetts
-Loyola University,Loyola University,Loyola University,3,4,0.00966183574879227,5,0.0009866151986375174,0.23571728628439403,0.002159601661969385,8,24,United States,Chicago,Illinois
-Macalester College,Macalester College,Macalester College,2,1,0.0024154589371980675,1,0.0,0.19829910696931466,0.0007128574722529617,1,58,United States,Saint Paul,Minnesota
-Madison College,Madison College,Madison College,7,7,0.016908212560386472,9,0.0005595289049393043,0.28930083161905357,0.0024974736639885036,2,55,United States,Madison,Wisconsin
-Madison General Hospital,Madison General Hospital,Madison General Hospital,1,1,0.0024154589371980675,1,0.0,0.2255198662454685,0.0006813970472951513,2,55,United States,Madison,Wisconsin
-Manchester University,Manchester University,Manchester University,2,3,0.007246376811594202,3,0.003906843995274357,0.25989921306524755,0.0014946934654209714,5,31,United States,North Manchester,Indiana
-Manhattan College,Manhattan College,Manhattan College,2,1,0.0024154589371980675,1,0.0,0.2621613919023725,0.0005854415471976895,1,58,United States,Riverdale,New York
-Mapúa Institute of Technology,Mapúa Institute of Technology,Mapúa Institute of Technology,1,2,0.004830917874396135,2,0.0,0.23799374822392727,0.0009764174474562839,1,58,Philippines,Manila,
-Marquette University,Marquette University,Marquette University,5,3,0.007246376811594202,3,0.003906843995274357,0.2959332742653419,0.0014769444570654103,2,55,United States,Milwaukee,Wisconsin
-Mary Hardin-Baylor College,Mary Hardin-Baylor College,Mary Hardin-Baylor College,1,1,0.0024154589371980675,1,0.0,0.16743352639101491,0.0012529383932585202,4,38,United States,Belton,Texas
-Mary Manse College,Mary Manse College,Mary Manse College,1,1,0.0024154589371980675,1,0.0,0.21685990338164254,0.0008315242784719159,2,55,United States,Toledo,Ohio
-Maryville College,Maryville College,Maryville College,1,2,0.004830917874396135,2,0.0,0.23633380926508557,0.001080819775664602,5,31,United States,Maryville,Tennessee
-Massachusetts College of Pharmacy,Massachusetts College of Pharmacy,Massachusetts College of Pharmacy,2,1,0.0024154589371980675,1,0.0,0.23510397157593507,0.0006164290980990785,3,51,United States,Boston,Massachusetts
-Massachusetts Institute of Technology,Massachusetts Institute of Technology,Massachusetts Institute of Technology,119,45,0.10869565217391304,119,0.026205273348916907,0.3828741232020525,0.022588511373155838,1,58,United States,Cambridge,Massachusetts
-Master Institute of United Arts,Master Institute of United Arts,Master Institute of United Arts,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,11,2,United States,New York City,New York
-McGill University,McGill University,McGill University,3,6,0.014492753623188404,6,0.0005448778249137811,0.27243706454980215,0.0017225950932389543,1,58,Canada,Montreal,
-Medical College of Virginia,Medical College of Virginia,Medical College of Virginia,2,2,0.004830917874396135,2,0.000153546541943463,0.27632505527732226,0.0009360845903967178,3,51,United States,Richmond,Virginia
-Mercer University,Mercer University,Mercer University,2,2,0.004830917874396135,2,0.003906843995274357,0.23633380926508557,0.0015561859738168317,5,31,United States,Macon,Georgia
-Merrill-Palmer School,Merrill-Palmer School,Merrill-Palmer School,1,2,0.004830917874396135,2,0.0,0.23308244129583247,0.0008924433917623148,9,21,United States,Detroit,Michigan
-Miami University,Miami University,Miami University,1,2,0.004830917874396135,2,0.0,0.2874601052248708,0.0007819588779927305,4,38,United States,Oxford,Ohio
-Michigan State College,Michigan State College,Michigan State College,10,10,0.024154589371980676,15,0.008124497259150007,0.30664579098082934,0.0038781773189084765,2,55,United States,East Lansing,Michigan
-Middlesex University,Middlesex University,Middlesex University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,47,1,United States,Cambridge,Massachusetts
-Mills College,Mills College,Mills College,12,8,0.01932367149758454,12,0.0002378486383838499,0.32542002308169643,0.0025622987778254756,2,55,United States,Oakland,California
-Millsaps College,Millsaps College,Millsaps College,1,2,0.004830917874396135,2,0.0,0.24755696733064214,0.0008368267130909378,5,31,United States,Jackson,Mississippi
-Missouri School of Mines & Metals,Missouri School of Mines & Metals,Missouri School of Mines & Metals,2,2,0.004830917874396135,2,0.0,0.29625669860880127,0.0007793483007610244,3,51,United States,Rolla,Missouri
-Monmouth College,Monmouth College,Monmouth College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,48,1,United States,West Long Branch,New Jersey
-Montana School of Mines,Montana School of Mines,Montana School of Mines,2,1,0.0024154589371980675,1,0.0,0.24268118104481035,0.0006259049575875408,4,38,United States,Butte,Montana
-Montana State College,Montana State College,Montana State College,1,2,0.004830917874396135,2,0.0,0.24052784314734088,0.0008373762200133191,2,55,United States,Bozeman,Montana
-Moody Bible Institute,Moody Bible Institute,Moody Bible Institute,3,0,0.0,0,0.0,0.0,0.0004130524576625741,49,1,United States,Chicago,Illinois
-Morningside College,Morningside College,Morningside College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,50,1,United States,Sioux City,Iowa
-Morningside Conservatory of Music,Morningside Conservatory of Music,Morningside Conservatory of Music,1,2,0.004830917874396135,2,0.0,0.21843261823291957,0.001148636169243986,8,24,United States,Sioux City,Iowa
-Mount Holyoke College,Mount Holyoke College,Mount Holyoke College,9,8,0.01932367149758454,10,0.003821617974756957,0.3119388713775065,0.0026784481348097375,3,51,United States,South Hadley,Massachusetts
-Mount Mary College,Mount Mary College,Mount Mary College,2,1,0.0024154589371980675,1,0.0,0.21445797407203573,0.0007338517553037152,8,24,United States,Milwaukee,Wisconsin
-Mount Union College,Mount Union College,Mount Union College,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,13,2,United States,Alliance,Ohio
-Multnomah University,Multnomah University,Multnomah University,1,1,0.0024154589371980675,1,0.0,0.2283697381862284,0.0006666930119956232,2,55,United States,Portland,Oregon
-Nankai School,南開學校,Nankai School,1,3,0.007246376811594202,3,0.0,0.28414557570969934,0.0009930359321532977,5,31,China,Tianjin,Tianjin
-Nankai University,南開大學,Nankai University,21,18,0.043478260869565216,22,0.010588607787902595,0.3309827585189904,0.005263668410364649,3,51,China,Tianjin,Tianjin
-Nanking Higher Normal School,南京高等師範學校,Nanking Higher Normal School,1,0,0.0,0,0.0,0.0,0.0004130524576625741,51,1,China,Nanjing,Jiangsu
-National College of Education,National College of Education,National College of Education,1,0,0.0,0,0.0,0.0,0.0004130524576625741,52,1,United States,Evanston,Illinois
-National College of Music,國主音樂專科學校,National College of Music,1,1,0.0024154589371980675,1,0.0,0.25500929372253356,0.0005957191732235084,1,58,China,Shanghai,Shanghai
-National Defense Planning Commission,國防設計委員會,National Defense Planning Commission,1,1,0.0024154589371980675,1,0.0,0.2562144416134718,0.0006019177909768648,3,51,China,Nanjing,Jiangsu
-National Guangdong Specialized School,國立廣東專門學校,National Guangdong Specialized School,1,1,0.0024154589371980675,1,0.0,0.21078917513767742,0.0008816055693064656,8,24,China,Guangzhou,Guangdong
-Naval school,海軍學校,Naval school,1,0,0.0,0,0.0,0.0,0.0004130524576625741,53,1,China,Fuzhou,Fujian
-Neurological Institute,Neurological Institute,Neurological Institute,1,1,0.0024154589371980675,1,0.0,0.25500929372253356,0.0005957191732235084,1,58,United States,New York,New York
-New England Aircraft School,New England Aircraft School,New England Aircraft School,1,0,0.0,0,0.0,0.0,0.0004130524576625741,54,1,United States,Concord,Massachusetts
-New School For Social Research,New School For Social Research,New School For Social Research,7,11,0.026570048309178744,12,0.0008853623621300523,0.3273851198394362,0.002693334613960041,3,51,United States,New York,New York
-New York University,New York University,New York University,72,38,0.09178743961352656,77,0.03490764861625567,0.3703208732610016,0.01713062429344402,7,25,United States,New York City,New York
-Niagara University,Niagara University,Niagara University,1,1,0.0024154589371980675,1,0.0,0.27576284763688014,0.0006016637416790386,3,51,United States,Lewiston,New York
-Nihon University,日本大學,Nihon University,1,1,0.0024154589371980675,1,0.0,0.27576284763688014,0.0006016637416790386,3,51,Japan,Tokyo,Tokyo
-Normal University,師範大學,Normal University,10,6,0.014492753623188404,8,0.00035175341288938957,0.2868517240497917,0.0019962196603051856,6,27,China,Beijing,Beijing
-North American Institute of Aviation,North American Institute of Aviation,North American Institute of Aviation,1,2,0.004830917874396135,2,0.0,0.24095544820182502,0.0008519349982545261,7,25,United States,Conway,South Carolina
-North Carolina State College,North Carolina State College,North Carolina State College,1,1,0.0024154589371980675,1,0.0,0.19685902630868057,0.0008366339727301822,5,31,United States,Raleigh,North Carolina
-North Dakota State College,North Dakota State College,North Dakota State College,2,4,0.00966183574879227,4,0.0007487427788264376,0.27026408696615467,0.0013677674574200899,6,27,United States,Fargo,North Dakota
-Northeast University,東北大學,Northeast University,3,1,0.0024154589371980675,1,0.0,0.23778498177811683,0.0006149621752818079,1,58,China,Shenyang,Liaoning
-Northeastern University,Northeastern University,Northeastern University,6,5,0.012077294685990338,5,0.004956593761297239,0.28654849812584904,0.002020992824431347,7,25,United States,Boston,Massachusetts
-Northern Baptist Theological Seminary,Northern Baptist Theological Seminary,Northern Baptist Theological Seminary,1,1,0.0024154589371980675,1,0.0,0.2316879309632933,0.0006387889346831219,4,38,United States,Lombard,Illinois
-Northwestern University,Northwestern University,Northwestern University,11,14,0.033816425120772944,15,0.007432482987240407,0.32425224787925017,0.003975728593852532,4,38,United States,Evanston,Illinois
-Oberlin College,Oberlin College,Oberlin College,15,18,0.043478260869565216,21,0.0059897984521220995,0.3305791210086014,0.004865665799280626,3,51,United States,Oberlin,Ohio
-Oberlin Conservatory of Music,Oberlin Conservatory of Music,Oberlin Conservatory of Music,1,1,0.0024154589371980675,1,0.0,0.23925408581381566,0.0006101584630246572,3,51,United States,Oberlin,Ohio
-Ohio State University,Ohio State University,Ohio State University,11,8,0.01932367149758454,8,0.0012157841921598706,0.29919964594597476,0.002139152989823079,2,55,United States,Columbus,Ohio
-Ohio Wesleyan University,Ohio Wesleyan University,Ohio Wesleyan University,5,8,0.01932367149758454,8,0.004217119999224938,0.2982121883685953,0.002355862955291676,6,27,United States,Delaware,Ohio
-Olivet College,Olivet College,Olivet College,1,2,0.004830917874396135,2,0.0,0.22798560069558718,0.0009287686590885409,2,55,United States,Olivet,Michigan
-Oregon State College,Oregon State College,Oregon State College,16,13,0.03140096618357488,20,0.0016224950262271457,0.2988697676152736,0.0043916855084829756,6,27,United States,Corvallis,Oregon
-Oxford University,Oxford University,Oxford University,3,5,0.012077294685990338,5,0.00023651156306049508,0.28654849812584904,0.0013785043604282905,1,58,United Kingdom,Oxford,
-Pacific School of Religion,Pacific School of Religion,Pacific School of Religion,1,1,0.0024154589371980675,1,0.0,0.27464526770724734,0.0005907370167445599,2,55,United States,Berkeley,California
-Pacific Union College,Pacific Union College,Pacific Union College,2,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,15,2,United States,Angwin,California
-Park College,Park College,Park College,5,6,0.014492753623188404,6,0.004119170088344804,0.27216353336049515,0.0021175202079577126,9,21,United States,Parkville,Missouri
-Parks Air College,Parks Air College,Parks Air College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,55,1,United States,Cahokia,Illinois
-Pasadena College,Pasadena College,Pasadena College,1,2,0.004830917874396135,2,0.0,0.2500690767777243,0.0010455088451848827,3,51,United States,Pasadena,California
-Peabody Conservatory of Music,Peabody Conservatory of Music,Peabody Conservatory of Music,1,0,0.0,0,0.0,0.0,0.0004130524576625741,56,1,United States,Baltimore,Maryland
-Peiping College of Finance and Commerce,北平財政商業專門學校,Peiping College of Finance and Commerce,1,2,0.004830917874396135,2,0.0,0.2569430134853584,0.0008089597800177793,7,25,China,Beijing,Beijing
-Peiping Minguo University,北平民國大學,Peiping Minguo University,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,16,2,China,Beijing,Beijing
-Peking Metropolitan University,京師大學,Peking Metropolitan University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,57,1,China,Beijing,Beijing
-Peking Union Medical College,協和醫學院,Peking Union Medical College,10,10,0.024154589371980676,20,0.001684406620162076,0.3277809906010316,0.0044621481533393325,2,55,China,Beijing,Beijing
-Penn State College,Penn State College,Penn State College,8,8,0.01932367149758454,9,0.001136075807011028,0.30253892770876467,0.0021567347253878184,1,58,United States,State College,Pennsylvania
-Pennsylvania College for Woman,Pennsylvania College for Woman,Pennsylvania College for Woman,1,2,0.004830917874396135,2,0.0,0.24576144988853413,0.0008133615617148154,3,51,United States,Pittsburgh,Pennsylvania
-Peter Bent Brigham Hospital,Peter Bent Brigham Hospital,Peter Bent Brigham Hospital,1,2,0.004830917874396135,2,0.0,0.2749238126035022,0.0008695218376228752,2,55,United States,Boston,Massachusetts
-Polytechnic Engineering College,Polytechnic Engineering College,Polytechnic Engineering College,1,2,0.004830917874396135,2,0.0,0.2771726781462711,0.0010303398906636172,2,55,United States,Oakland,California
-Polytechnic Institute of Brooklyn,Polytechnic Institute of Brooklyn,Polytechnic Institute of Brooklyn,2,1,0.0024154589371980675,1,0.0,0.2075611632672689,0.0008934022248160639,8,24,United States,Brooklyn,New York
-Pomona College,Pomona College,Pomona College,11,9,0.021739130434782608,10,0.004626986998616526,0.308390078756602,0.0028321247426998245,4,38,United States,Claremont,California
-Pratt Institute,Pratt Institute,Pratt Institute,2,1,0.0024154589371980675,1,0.0,0.27576284763688014,0.0006016637416790386,3,51,United States,Brooklyn,New York
-Princeton Seminary,Princeton Seminary,Princeton Seminary,1,1,0.0024154589371980675,1,0.0,0.23149007619731268,0.0006355297465479047,2,55,United States,Princeton,New Jersey
-Princeton University,Princeton University,Princeton University,9,11,0.026570048309178744,13,0.0008164991275945284,0.308390078756602,0.0028800102455578693,2,55,United States,Princeton,New Jersey
-Propaganda Fide,Propaganda Fide,Propaganda Fide,1,2,0.004830917874396135,2,0.0,0.27688955998677545,0.0010820135088325286,8,24,Italy,Rome,
-Pughy College,Pughy College,Pughy College,1,1,0.0024154589371980675,1,0.0,0.23654003422954026,0.0006094852505200013,1,58,United States,,
-Purdue University,Purdue University,Purdue University,58,24,0.05797101449275362,52,0.019502418777307007,0.3392676836383644,0.010869462134759948,1,58,United States,West Lafayette,Indiana
-Qilu University,齊魯大學,Qilu University,9,9,0.021739130434782608,10,0.007209875722290687,0.31229824795743455,0.003157183492430006,2,55,China,Jinan,Shandong
-Radcliffe College,Radcliffe College,Radcliffe College,14,20,0.04830917874396135,20,0.014693163627580105,0.3330158221462569,0.0054920323012383025,9,21,United States,Cambridge,Massachusetts
-Radio Corporation of America Institute,Radio Corporation of America Institute,Radio Corporation of America Institute,1,0,0.0,0,0.0,0.0,0.0004130524576625741,58,1,United States,New York,New York
-Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,8,4,0.00966183574879227,6,2.0469990993203964e-05,0.27216353336049515,0.001481610910240007,1,58,United States,Troy,New York
-Rice Institute,Rice Institute,Rice Institute,2,0,0.0,0,0.0,0.0,0.0004130524576625741,59,1,United States,Houston,Texas
-Rochester Institute of Technology,Rochester Mechanical of Technology,Rochester Institute of Technology,1,1,0.0024154589371980675,1,0.0,0.1831587021804413,0.0010616218742936763,5,31,United States,Henrietta,New York
-Rockford College,Rockford College,Rockford College,2,3,0.007246376811594202,3,3.83451475715774e-05,0.28807107250483865,0.0009967686300787996,4,38,United States,Rockford,Illinois
-Rosary College,Rosary College,Rosary College,1,2,0.004830917874396135,2,0.0,0.27917083339552334,0.000835081423039977,9,21,United States,River Forest,Illinois
-Rostock University,Rostock University,Rostock University,1,2,0.004830917874396135,2,0.0,0.23490024196451745,0.0008961532825861819,6,27,Germany,Rostock,
-Royal Military College,Royal Military College,Royal Military College,2,3,0.007246376811594202,3,0.00016430289847932928,0.2047393347636353,0.0018171017448083062,5,31,Canada,Kingston,
-Royal Polytechnic University of Milan,Royal Polytechnic University of Milan,Royal Polytechnic University of Milan,1,0,0.0,0,0.0,0.0,0.0004130524576625741,60,1,Italy,Milan,
-Rutgers University,Rutgers University,Rutgers University,1,1,0.0024154589371980675,1,0.0,0.27464526770724734,0.0005907370167445599,2,55,United States,New Brunswick,New Jersey
-Safair Flying School,Safair Flying School,Safair Flying School,1,2,0.004830917874396135,2,0.0,0.25669969623773975,0.0008557760886247377,7,25,United States,Long Island,New York
-San Francisco State College,San Francisco State College,San Francisco State College,2,1,0.0024154589371980675,1,0.0,0.24576144988853413,0.0006156422440184368,4,38,United States,San Francisco,California
-San Jose State College,San Jose State College,San Jose State College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,61,1,United States,San Jose,California
-Santa Barbara State College,Santa Barbara State College,Santa Barbara State College,3,1,0.0024154589371980675,2,0.0,0.24576144988853413,0.0008182320303742994,4,38,United States,Santa Barbara,California
-Sarah Lawrence College,Sarah Lawrence College,Sarah Lawrence College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,62,1,United States,Bronxville,New York
-Scarritt College,Scarritt College,Scarritt College,2,2,0.004830917874396135,2,8.535556533298982e-05,0.2760436652006651,0.0008247987891041634,3,51,United States,Neosho,Missouri
-Schauffler College,Schauffler College,Schauffler College,1,1,0.0024154589371980675,1,0.0,0.22347475616409987,0.0006537554456259352,4,38,United States,Cleveland,Ohio
-Seton Hill College,Seton Hill College,Seton Hill College,1,2,0.004830917874396135,2,0.0,0.27745637587211175,0.0008306179425953889,2,55,United States,Greensburg,Pennsylvania
-Shandong University,山東大學,Shandong University,3,5,0.012077294685990338,5,0.00020916245759214063,0.285943965429381,0.0016607463589898657,3,51,China,Qingdao,Shandong
-Shanghai Medical College,上海醫學院,Shanghai Medical College,2,4,0.00966183574879227,4,0.00026813492113896903,0.3032157485761221,0.0013120630539489584,2,55,China,Shanghai,Shanghai
-Shanghai Sanyu University,三育大學,Shanghai Sanyu University,1,2,0.004830917874396135,2,0.0,0.22274024587268132,0.001100558411605484,2,55,China,Shanghai,Shanghai
-Shanghai University,滬江大學,Shanghai University,51,41,0.09903381642512077,75,0.04665660215158502,0.37441281661195186,0.016658394295939273,3,51,China,Shanghai,Shanghai
-Shanghai Xinhua University of Art,上海新華藝術大學,Shanghai Xinhua University of Art,1,1,0.0024154589371980675,1,0.0,0.20139292661742433,0.0007751592213233009,4,38,China,Shanghai,Shanghai
-Simmons College,Simmons College,Simmons College,2,3,0.007246376811594202,3,2.961632952594059e-05,0.2844437347608113,0.0009758002207909918,3,51,United States,Boston,Massachusetts
-Sino-French University,中法大學,Sino-French University,2,4,0.00966183574879227,4,0.0007497048426498313,0.24487342296933437,0.001551702958731742,10,6,China,Beijing,Beijing
-Sino-Russian Industrial University,中俄工業大學,Sino-Russian Industrial University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,63,1,China,Harbin,Heilongjiang
-Smith College,Smith College,Smith College,5,8,0.01932367149758454,9,0.0004909934706839397,0.29210655089122106,0.0022465070192169926,9,21,United States,Northampton,Massachusetts
-South Pacific College,South Pacific College,South Pacific College,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,17,2,United States,Seattle,Washington
-Southeast University,東南大學,Southeast University,27,26,0.06280193236714976,38,0.023826305142007974,0.3475318964449399,0.009299318623666956,5,31,China,Nanjing,Jiangsu
-Southern College,Southern College,Southern College,1,2,0.004830917874396135,2,0.0,0.2569430134853584,0.000849877304089175,5,31,United States,,
-Southwest Associated University,西南聯合大學,Southwest Associated University,8,10,0.024154589371980676,10,0.006658389129228884,0.3090933628586695,0.0030280349502622398,9,21,China,Kunming,Yunnan
-Southwestern Seminary,Southwestern Seminary,Southwestern Seminary,1,3,0.007246376811594202,3,0.0,0.2601486364942928,0.0010378260368018829,3,51,United States,Fort Worth,Texas
-Southwestern University,Southwestern University,Southwestern University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,64,1,United States,Georgetown,Texas
-Spartan College of Aeronautics and Technology,Spartan College of Aeronautics and Technology,Spartan College of Aeronautics and Technology,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,19,2,United States,Tulsa,Oklahoma
-Springfield College,Springfield College,Springfield College,1,2,0.004830917874396135,2,0.0,0.2591538042323644,0.0008294342455728322,5,31,United States,Springfield,Missouri
-St. John's Hospital,St. John's Hospital,St. John's Hospital,1,1,0.0024154589371980675,1,0.0,0.21411917790446536,0.000704924062128002,2,55,China,Shanghai,Jiangsu
-St. John's University,聖約翰大學,St. John's University,71,34,0.08212560386473429,84,0.03606087001039538,0.3718448274719522,0.01805380766598595,1,58,China,Shanghai,Jiangsu
-St. Louis College of Pharmacy,St. Louis College of Pharmacy,St. Louis College of Pharmacy,1,2,0.004830917874396135,2,0.0,0.23633380926508557,0.001080819775664602,5,31,United States,St. Louis,Missouri
-St. Louis University,St. Louis University,St. Louis University,2,1,0.0024154589371980675,1,0.0,0.25500929372253356,0.0005957191732235084,1,58,United States,St. Louis,Missouri
-St. Paul's Girls' School,St. Paul's Girls' School,St. Paul's Girls' School,1,0,0.0,0,0.0,0.0,0.0004130524576625741,65,1,United Kingdom,London,
-Stanford University,Stanford University,Stanford University,36,25,0.06038647342995169,40,0.022011632724888028,0.3525030939233461,0.009535074626621398,4,38,United States,Stanford,California
-State University of Iowa,State University of Iowa,State University of Iowa,19,23,0.05555555555555555,31,0.021218564577273988,0.3330158221462569,0.007599380382601354,5,31,United States,Iowa City,Iowa
-Stevens Institute of Technology,Stevens Institute of Technology,Stevens Institute of Technology,2,0,0.0,0,0.0,0.0,0.0004130524576625741,66,1,United States,Hoboken,New Jersey
-Sweet Briar College,Sweet Briar College,Sweet Briar College,1,1,0.0024154589371980675,1,0.0,0.23149007619731268,0.0006355297465479047,2,55,United States,Sweet Briar,Virginia
-Syracuse University,Syracuse University,Syracuse University,9,12,0.02898550724637681,12,0.005994504545513042,0.31122259383128953,0.003344030161931775,8,24,United States,Syracuse,New York
-Taliesin Fellowship,Taliesin Fellowship,Taliesin Fellowship,1,3,0.007246376811594202,3,0.0,0.2883775310926097,0.001033521079890289,4,38,United States,Spring Green,Wisconsin
-Tangshan Chiao Tung University,唐山交通大學,Tangshan Chiao Tung University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,67,1,China,Tangshan,Hebei
-Taxation College,稅務專門學校,Taxation College,2,2,0.004830917874396135,2,0.0,0.2689234912966797,0.0007746901009862659,3,51,China,Shanghai,Shanghai
-Technical College of Hanover,Technical College of Hanover,Technical College of Hanover,1,2,0.004830917874396135,2,0.0,0.24733109418526744,0.0008095729306353618,1,58,Germany,Hanover,
-Technical University Berlin,德國££工£大學,Technical University Berlin,1,0,0.0,0,0.0,0.0,0.0004130524576625741,68,1,Germany,Berlin,
-Texas Technical College,Texas Technical College,Texas Technical College,1,2,0.004830917874396135,2,0.0,0.280615817005231,0.00083537462213648,9,21,United States,Lubbock,Texas
-Tianjin Industrial and Commercial College,天津工商學院,Tianjin Industrial and Commercial College,2,1,0.0024154589371980675,2,0.0,0.27688955998677545,0.0007718985267964587,2,55,China,Tianjin,Tianjin
-Tianjin University,天津大學,Tianjin University,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,18,2,China,Tianjin,Tianjin
-Tientsin Institute of Commerce,天津工商學院學,Tientsin Institute of Commerce,3,3,0.007246376811594202,4,2.1009573243141694e-05,0.2670688465291164,0.0012055607628975033,7,25,China,Tianjin,Tianjin
-Tokyo Imperial University,東京帝國大學,Tokyo Imperial University,1,1,0.0024154589371980675,1,0.0,0.2519283264191944,0.0005752441709343276,1,58,Japan,Tokyo,Tokyo
-Tokyo University of Commerce,東京商科大學,Tokyo University of Commerce,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,16,2,Japan,Tokyo,Tokyo
-Toronto University,Toronto University,Toronto University,1,3,0.007246376811594202,3,0.0,0.3001936647032704,0.000941540014032778,3,51,Canada,Toronto,
-Tri-State College,Tri-State College,Tri-State College,13,9,0.021739130434782608,10,0.005198039341562941,0.3177900108171784,0.002983763231076584,2,55,United States,Angola,Indiana
-Trinity College of Music,Trinity College of Music,Trinity College of Music,1,1,0.0024154589371980675,1,0.0,0.21078917513767742,0.0008816055693064656,8,24,United Kingdom,London,
-Tsinghua University,清華大學,Tsinghua University,91,32,0.07729468599033816,105,0.01854598992416443,0.36533002591247055,0.020039020949076676,1,58,China,Beijing,Beijing
-Tufts College,Tufts College,Tufts College,4,1,0.0024154589371980675,1,0.0,0.24116982137638182,0.0005961028933043093,3,51,United States,Medford,Massachusetts
-Tulane University,Tulane University,Tulane University,5,4,0.00966183574879227,4,0.011650349159560655,0.2838480410754483,0.0018461274112753154,4,38,United States,New Orleans,Louisiana
-University College,University College,University College,1,1,0.0024154589371980675,1,0.0,0.23490024196451745,0.0006123045109337566,5,31,United Kingdom,London,
-University de Liege,University de Liege,University de Liege,2,1,0.0024154589371980675,1,0.0,0.27688955998677545,0.0005924754922295163,2,55,Belgium,Liège,
-University de Nancy,University de Nancy,University de Nancy,1,1,0.0024154589371980675,1,0.0,0.2442116029072551,0.000598666077889631,6,27,France,Nancy,
-University of Arizona,University of Arizona,University of Arizona,3,4,0.00966183574879227,4,1.2441738115378817e-05,0.29116528380993895,0.001151566745118937,4,38,United States,Tucson,Arizona
-University of Berlin,University of Berlin,University of Berlin,2,2,0.004830917874396135,2,0.003906843995274357,0.25548998984642146,0.0014833686144421646,1,58,Germany,Berlin,
-University of Bonn,University of Bonn,University of Bonn,1,0,0.0,0,0.0,0.0,0.0004130524576625741,69,1,Germany,Bonn,
-University of British Columbia,University of British Columbia,University of British Columbia,3,5,0.012077294685990338,5,0.0003374147988745223,0.308390078756602,0.0013299164482103824,1,58,Canada,Vancouver,
-University of Brussels,University of Brussels,University of Brussels,1,2,0.004830917874396135,2,0.0,0.2760436652006651,0.0010463731671441305,3,51,Belgium,Brussels,
-University of California,University of California,University of California,116,43,0.1038647342995169,81,0.026985761067668406,0.381258620572508,0.01653844765858449,6,27,United States,Berkeley,California
-University of Chicago,University of Chicago,University of Chicago,72,51,0.12318840579710144,94,0.04749105815783578,0.39172670408533694,0.01974454041462564,2,55,United States,Chicago,Illinois
-University of Cincinnati,University of Cincinnati,University of Cincinnati,10,7,0.016908212560386472,7,0.004300756244224696,0.28807107250483865,0.002320108091540953,2,55,United States,Cincinnati,Ohio
-University of Colorado,University of Colorado,University of Colorado,12,13,0.03140096618357488,14,0.0035364176389295968,0.31483725810342994,0.0033251077535292476,1,58,United States,Boulder,Colorado
-University of Connecticut,University of Connecticut,University of Connecticut,1,1,0.0024154589371980675,1,0.0,0.2361279435775724,0.0006464701390235124,9,21,United States,Storrs,Connecticut
-University of Costa Rica,University of Costa Rica,University of Costa Rica,1,1,0.0024154589371980675,1,0.0,0.2177308266883961,0.0006229296480041707,6,27,Costa Rica,San José,
-University of Denver,University of Denver,University of Denver,1,2,0.004830917874396135,2,0.0,0.25890628388448245,0.000834050581939627,4,38,United States,Denver,Colorado
-University of Detroit,University of Detroit,University of Detroit,3,4,0.00966183574879227,4,0.00016817882402515071,0.285943965429381,0.0012244671716174483,7,25,United States,Detroit,Michigan
-University of Dubuque,University of Dubuque,University of Dubuque,6,4,0.00966183574879227,4,0.0,0.31338136326826954,0.0011485393172422282,2,55,United States,Dubuque,Iowa
-University of Edinburgh,University of Edinburgh,University of Edinburgh,2,3,0.007246376811594202,3,5.930843094989029e-06,0.28654849812584904,0.0009611391398117908,6,27,United Kingdom,Edinburgh,
-University of Geneva,University of Geneva,University of Geneva,2,2,0.004830917874396135,2,0.0,0.2760436652006651,0.0010463731671441305,3,51,Switzerland,Geneva,
-University of Hawaii,University of Hawaii,University of Hawaii,14,14,0.033816425120772944,19,0.00273127272433332,0.32857561118430684,0.004108146219604209,4,38,United States,Honolulu,Hawaii
-University of Hong Kong,University of Hong Kong,University of Hong Kong,21,18,0.043478260869565216,26,0.010774305920592057,0.33383605816139555,0.0060095302854071215,1,58,Hong Kong,Hong Kong,
-University of Houston,University of Houston,University of Houston,1,0,0.0,0,0.0,0.0,0.0004130524576625741,70,1,United States,Houston,Texas
-University of Illinois,University of Illinois,University of Illinois,40,32,0.07729468599033816,52,0.022378775170327297,0.3576185741781704,0.011195537433005782,1,58,United States,Chicago,Illinois
-University of Iowa,University of Iowa,University of Iowa,1,2,0.004830917874396135,2,0.0,0.28090661059798255,0.0007663372701352117,6,27,United States,Iowa City,Iowa
-University of Kansas,University of Kansas,University of Kansas,3,5,0.012077294685990338,6,2.8815298577052325e-05,0.31050959819822815,0.0014921814959516343,2,55,United States,Lawrence,Kansas
-University of Kentucky,University of Kentucky,University of Kentucky,1,2,0.004830917874396135,2,0.0,0.22219252395660097,0.0011719791001413053,4,38,United States,Lexington,Kentucky
-University of London,University of London,University of London,22,22,0.05314009661835749,32,0.007061721580424834,0.337157809983897,0.006576183013755317,1,58,United Kingdom,London,
-University of Lyon,University of Lyon,University of Lyon,2,4,0.00966183574879227,5,0.0008508159348468253,0.25890628388448245,0.0018426123839966491,10,6,France,Lyons,
-University of Maine,University of Maine,University of Maine,1,0,0.0,0,0.0,0.0,0.0004130524576625741,71,1,United States,Orono,Maine
-University of Maryland,University of Maryland,University of Maryland,3,4,0.00966183574879227,4,0.000107932633276307,0.27216353336049515,0.0012092226106640246,6,27,United States,College Park,Maryland
-University of Michigan,University of Michigan,University of Michigan,151,81,0.19565217391304346,196,0.10553656713998533,0.42027113058457854,0.04137750306881877,2,55,United States,Ann Arbor,Michigan
-University of Minnesota,University of Minnesota,University of Minnesota,39,27,0.06521739130434782,49,0.0133804957671616,0.34932329797300665,0.010062183028480411,6,27,United States,Minneapolis,Minnesota
-University of Missouri,University of Missouri,University of Missouri,10,10,0.024154589371980676,16,0.0013153291126964542,0.3269902041339604,0.0033968451329833946,3,51,United States,Columbia,South Carolina
-University of Nebraska,University of Nebraska,University of Nebraska,1,1,0.0024154589371980675,1,0.0,0.20381569866695726,0.000713051500413108,9,21,United States,Lincoln,Nebraska
-University of Nevada,University of Nevada,University of Nevada,1,0,0.0,0,0.0,0.0,0.0004130524576625741,72,1,United States,Reno,Nevada
-University of North Carolina,University of North Carolina,University of North Carolina,1,2,0.004830917874396135,2,0.0,0.25965026745886316,0.0008295726459990427,3,51,United States,Chapel Hill,North Carolina
-University of Notre Dame,University of Notre Dame,University of Notre Dame,4,3,0.007246376811594202,3,4.7721986650334004e-05,0.27026408696615467,0.0010504302053907363,8,24,United States,Notre Dame,Indiana
-University of Oklahoma,University of Oklahoma,University of Oklahoma,2,4,0.00966183574879227,4,0.0002998445096161155,0.27026408696615467,0.001313695826173423,1,58,United States,Norman,Oklahoma
-University of Oregon,University of Oregon,University of Oregon,3,0,0.0,0,0.0,0.0,0.0004130524576625741,73,1,United States,Eugene,Oregon
-University of Paris,University of Paris,University of Paris,7,8,0.01932367149758454,9,0.003647755607249843,0.27632505527732226,0.002872490196316377,10,6,France,Paris,
-University of Pennsylvania,University of Pennsylvania,University of Pennsylvania,42,34,0.08212560386473429,58,0.02312497007527883,0.3713354509959632,0.012331117493241657,3,51,United States,Philadelphia,Pennsylvania
-University of Perugia,University of Perugia,University of Perugia,1,1,0.0024154589371980675,1,0.0,0.19431890984018146,0.0010442181519238292,1,58,Italy,Perugia,
-University of Pittsburgh,University of Pittsburgh,University of Pittsburgh,7,5,0.012077294685990338,5,0.004018993318732276,0.2850419339926952,0.001782729398604311,7,25,United States,Pittsburgh,Pennsylvania
-University of Richmond,University of Richmond,University of Richmond,2,3,0.007246376811594202,3,0.00013755174807731423,0.2694581304443868,0.0011804686261670167,3,51,United States,Richmond,Virginia
-University of Rochester,University of Rochester,University of Rochester,5,5,0.012077294685990338,5,5.245850675767902e-05,0.306299298561642,0.0013051735240051327,9,21,United States,Rochester,New York
-University of San Francisco,University of San Francisco,University of San Francisco,1,1,0.0024154589371980675,1,0.0,0.18303502986296633,0.0010754950210392646,5,31,United States,San Francisco,California
-University of Santo Tomas,University of Santo Tomas,University of Santo Tomas,2,1,0.0024154589371980675,2,0.0,0.21738161926788546,0.0009051902250249355,1,58,Philippines,Manila,
-University of Southern California,University of Southern California,University of Southern California,41,30,0.07246376811594203,44,0.019597823950294666,0.36095190309860603,0.009739415437281284,3,51,United States,Los Angeles,California
-University of Tennessee,University of Tennessee,University of Tennessee,2,5,0.012077294685990338,5,0.0002458075476289678,0.29085287470713855,0.0014271131203447876,2,55,United States,Knoxville,Tennessee
-University of Texas,University of Texas,University of Texas,4,3,0.007246376811594202,3,0.007801990852838311,0.21095321340626705,0.002904751837094125,4,38,United States,Austin,Texas
-University of Toledo,University of Toledo,University of Toledo,1,0,0.0,0,0.0,0.0,0.0004130524576625741,74,1,United States,Toledo,Ohio
-University of Toronto,University of Toronto,University of Toronto,12,15,0.036231884057971016,23,0.002121235631077315,0.32937409383603056,0.004593059519800711,1,58,Canada,Toronto,
-University of Tulsa,University of Tulsa,University of Tulsa,1,1,0.0024154589371980675,1,0.0,0.23925408581381566,0.0005906919498214593,1,58,United States,Tulsa,Oklahoma
-University of Turin,University of Turin,University of Turin,1,0,0.0,0,0.0,0.0,0.0004130524576625741,75,1,Italy,Turin,
-University of Virginia,University of Virginia,University of Virginia,1,1,0.0024154589371980675,1,0.0,0.25500929372253356,0.0005957191732235084,1,58,United States,Charlottesville,Virginia
-University of Washington,University of Washington,University of Washington,28,20,0.04830917874396135,27,0.016229505057525313,0.3462003566118176,0.006761688044132799,4,38,United States,Seattle,Oregon
-University of Wisconsin,University of Wisconsin,University of Wisconsin,30,24,0.05797101449275362,36,0.010917862569402893,0.34313275851525715,0.00775320171416875,3,51,United States,Madison,Wisconsin
-University of the Philippines,University of the Philippines,University of the Philippines,2,3,0.007246376811594202,3,2.719435319483445e-05,0.24116982137638182,0.001275955576118952,1,58,Philippines,Manila,
-Vassar College,Vassar College,Vassar College,1,1,0.0024154589371980675,1,0.0,0.22384383090590682,0.000670422572516622,9,21,United States,Poughkeepsie,New York
-Virginia Polytechnic Institute,Virginia Polytechnic Institute,Virginia Polytechnic Institute,3,4,0.00966183574879227,5,0.003927195086790835,0.24846460057475084,0.0019395212686760836,2,55,United States,Blacksburg,Virginia
-Viterbo College,Viterbo College,Viterbo College,2,0,0.0,0,0.0,0.0,0.0004130524576625741,76,1,United States,La Crosse,Wisconsin
-Washington & Jefferson College,Washington & Jefferson College,Washington & Jefferson College,1,1,0.0024154589371980675,1,0.0,0.24576144988853413,0.0006156422440184368,4,38,United States,Washington,District of Columbia
-Washington Missionary College,Washington Missionary College,Washington Missionary College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,77,1,United States,Takoma Park,Maryland
-Washington State College,Washington State College,Washington State College,2,0,0.0,0,0.0,0.0,0.0004130524576625741,78,1,United States,Pullman,Washington
-Washington University,Washington University,Washington University,4,2,0.004830917874396135,2,0.0,0.28414557570969934,0.0007710321530582517,4,38,United States,Seattle,Missouri
-Wayne University,Wayne University,Wayne University,2,4,0.00966183574879227,4,0.0005803118399597324,0.2838480410754483,0.0013483898142223197,9,21,United States,Detroit,Michigan
-Wellesley College,Wellesley College,Wellesley College,9,8,0.01932367149758454,8,0.0014042021867674119,0.3056086575276811,0.0022862579580156567,9,21,United States,Wellesley,Massachusetts
-Wentworth Institute,Wentworth Institute,Wentworth Institute,1,1,0.0024154589371980675,1,0.0,0.21177724939613526,0.0007566349196015962,7,25,United States,Boston,Massachusetts
-West China Union University,華西協和大學,West China Union University,1,1,0.0024154589371980675,1,0.0,0.22495840599755448,0.0006499295876422472,8,24,China,Chengdu,Sichuan
-West China University,華西大學,West China University,5,6,0.014492753623188404,7,9.563151623315352e-05,0.31086568718698754,0.0016992399882989862,1,58,China,Chengdu,Sichuan
-Western Maryland College,Western Maryland College,Western Maryland College,1,1,0.0024154589371980675,1,0.0,0.21445797407203573,0.0007338517553037152,8,24,United States,Westminster,Maryland
-Western Reserve University,Western Reserve University,Western Reserve University,2,2,0.004830917874396135,2,0.0,0.276607019619442,0.0007803412302462254,2,55,United States,Cleveland,Ohio
-Westminster Choir College,Westminster Choir College,Westminster Choir College,2,3,0.007246376811594202,3,0.00015375406087587265,0.2295299570085124,0.0016410854138113537,8,24,United States,Princeton,New Jersey
-Westmont College,Westmont College,Westmont College,1,2,0.004830917874396135,2,0.0,0.2500690767777243,0.0010455088451848827,3,51,United States,Montecito,California
-Wheaton College,Wheaton College,Wheaton College,5,4,0.00966183574879227,5,2.1819660729019612e-05,0.28474252019648444,0.00137914802667338,5,31,United States,Wheaton,Illinois
-Wheelock College,Wheelock College,Wheelock College,1,0,0.0,0,0.0,0.0,0.0004130524576625741,79,1,United States,Boston,Massachusetts
-Williams Hospital,Williams Hospital,Williams Hospital,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,14,2,United States,Providence,Rhode Island
-Witwatersrand College,Witwatersrand College,Witwatersrand College,1,1,0.0024154589371980675,1,0.0,0.0024154589371980675,0.002753683051080744,19,2,South Africa,Johannesburg,
-Women's Christian Medical College,Women's Christian Medical College,Women's Christian Medical College,1,2,0.004830917874396135,2,0.0,0.2689234912966797,0.0007826118030074848,3,51,China,Shanghai,Shanghai
-Worcester Polytechnic Institute,Worcester Polytechnic Institute,Worcester Polytechnic Institute,3,1,0.0024154589371980675,1,0.0,0.21411917790446536,0.000704924062128002,2,55,United States,Worcester,Massachusetts
-Wuchang University,武昌大學,Wuchang University,1,0,0.0,0,0.0,0.0,0.0004130524576625741,80,1,China,Wuhan,Hubei
-Wuhan University,武漢大學,Wuhan University,4,3,0.007246376811594202,4,0.0,0.2933710814145597,0.0010966788101419934,1,58,China,Wuhan,Hubei
-Wusong Merchant Shipping School,吳淞商船學校,Wusong Merchant Shipping School,3,1,0.0024154589371980675,2,0.0,0.24268118104481035,0.0008387574575125074,4,38,China,Shanghai,Shanghai
-Xiamen University,廈門大學,Xiamen University,4,7,0.016908212560386472,7,0.0022957139612348014,0.30186512163368945,0.0019564159603805372,6,27,China,Xiamen,Fujian
-Yale University,Yale University,Yale University,15,17,0.041062801932367145,18,0.005803282650975342,0.3392676836383644,0.004174392062428103,3,51,United States,New Haven,Connecticut
-Yenching University,燕京大學,Yenching University,134,77,0.1859903381642512,192,0.09750951361322488,0.4151223265345378,0.04013638392679936,2,55,China,Beijing,Beijing
-Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,1,2,0.004830917874396135,2,0.0,0.26865696652829846,0.0007880313335535522,4,38,China,Leshan,Sichuan
-Yunnan University,雲南大學,Yunnan University,1,1,0.0024154589371980675,1,0.0,0.18707721133682068,0.0008081690551657776,9,21,China,Kunming,Yunnan
-Zhejiang Provincial Technical College,浙江省立工業專門學校,Zhejiang Provincial Technical College,1,2,0.004830917874396135,2,0.0,0.2832548372278507,0.0007754407742951053,2,55,China,Hangzhou,Zhejiang
-Zhejiang University,浙江大學,Zhejiang University,15,9,0.021739130434782608,12,0.0014845668860505887,0.2883775310926097,0.0030211350367631323,1,58,China,Hangzhou,Zhejiang
-Zhijiang University,之江大學,Zhijiang University,13,15,0.036231884057971016,20,0.014066013460507424,0.32386484973363583,0.005235387826421273,2,55,China,Hangzhou,Zhejiang
-Zhizhi College,持誌學院,Zhizhi College,2,2,0.004830917874396135,2,3.188838189484473e-05,0.27917083339552334,0.0008082234124162321,5,31,China,Shanghai,Shanghai
-Zhonghua University,中華大學,Zhonghua University,1,1,0.0024154589371980675,1,0.0,0.20724379145799168,0.0007020704631536654,5,31,China,Wuhan,Hubei
-Zhongshan University,中山大學,Zhongshan University,30,22,0.05314009661835749,37,0.009424017078530838,0.3422662616503196,0.00813076670938178,7,25,China,Guangzhou,Guangdong
-École Libre des Sciences Politiques,École Libre des Sciences Politiques,École Libre des Sciences Politiques,1,1,0.0024154589371980675,1,0.0,0.21445797407203573,0.0007544721938782541,7,25,France,Paris,
+Aachen Technical University,亞享工科大學,Aachen Technical University,1,2,0.004842615012106538,2,0.0,0.2796184059474932,0.0007770909733585878,7,29,Germany,Aachen,North Rhine-Westphalia
+Air Force Technical College,空軍技術專門學校,Air Force Technical College,1,3,0.007263922518159807,3,0.0,0.2594729876515643,0.0009454511710451073,1,62,China,Chengdu,Sichuan
+Albion College,Albion College,Albion College,3,4,0.009685230024213076,4,0.0010172295260341179,0.2882725508487497,0.0014134351955001742,3,42,United States,Albion,Michigan
+Alfred University,Alfred University,Alfred University,1,1,0.002421307506053269,1,0.0,0.24488792397577375,0.0005961288584615162,2,48,United States,Alfred,New York
+Alverno College of Music,Alverno College of Music,Alverno College of Music,1,3,0.007263922518159807,3,0.0,0.2761875052610209,0.0012347181602482909,2,48,United States,Milwaukee,Wisconsin
+American Conservatory of Music,American Conservatory of Music,American Conservatory of Music,1,2,0.004842615012106538,2,0.0,0.23611134628083782,0.000956308996098227,4,41,United States,Chicago,Illinois
+American National University,NationaI University,American National University,4,4,0.009685230024213076,4,0.003934965855074748,0.2910682975703432,0.0016088359649593272,4,41,United States,Roanoke,Virginia
+Anhui University,安徽大學,Anhui University,1,1,0.002421307506053269,1,0.0,0.24555580013207132,0.0006168421344300542,5,39,China,Anqing,Anhui
+Antioch College,Antioch College,Antioch College,2,3,0.007263922518159807,3,8.949547059527256e-05,0.26770206159095983,0.0010741181983626657,5,39,United States,Yellow Springs,Ohio
+Arizona State Teachers' College,Arizona State Teachers' College,Arizona State Teachers' College,2,4,0.009685230024213076,4,0.0006454290247724828,0.2822480461288176,0.0013030218247582722,4,41,United States,Tempe,Arizona
+Arkansas State College,Arkansas State College,Arkansas State College,1,2,0.004842615012106538,2,0.0,0.2663820317014581,0.000874854092530359,3,42,United States,Jonesboro,Arkansas
+Armour Institute of Technology,Armour Institute of Technology,Armour Institute of Technology,1,1,0.002421307506053269,1,0.0,0.21251878846992794,0.0006962771341412768,3,42,United States,Chicago,Illinois
+Armstron College,Armstron College,Armstron College,1,1,0.002421307506053269,1,0.0,0.1673552541172729,0.001256223251982003,5,39,United Kingdom,Newcastle upon Tyne,
+Armstrong Junior College,Armstrong Junior College,Armstrong Junior College,1,1,0.002421307506053269,1,0.0,0.2180075707387235,0.0006648134133387996,7,29,United States,Savannah,Georgia
+Army Mechanization School,陸軍機械化學校,Army Mechanization School,3,0,0.0,0,0.0,0.0,0.00041419301394496577,19,1,China,Kunming,Yunnan
+Army Signal Corps School,陸軍通信兵學校,Army Signal Corps School,1,0,0.0,0,0.0,0.0,0.00041419301394496577,20,1,China,Nanjing,Jiangsu
+Army University,陸軍大學,Army University,1,1,0.002421307506053269,1,0.0,0.19978652377609354,0.0008058645882938775,4,41,China,Nanjing,Jiangsu
+Art Institute of Chicago,Art Institute of Chicago,Art Institute of Chicago,3,4,0.009685230024213076,4,0.003969151960772227,0.26770206159095983,0.0017070296490453692,5,39,United States,Chicago,Illinois
+Asbury College,Asbury College,Asbury College,2,2,0.004842615012106538,2,0.003914055337455041,0.23631791788738274,0.0015273487067085116,9,19,United States,Wilmore,Kentucky
+Atlantic Union College,Atlantic Union College,Atlantic Union College,1,1,0.002421307506053269,1,0.0,0.207299601032447,0.0008953841176979804,8,24,United States,South Lancaster,Massachusetts
+Aurora University,震旦大學,Aurora University,3,4,0.009685230024213076,5,0.003526180005388253,0.2663820317014581,0.0021314202209212056,8,24,China,Shanghai,Shanghai
+Baldwin Wallace College,Baldwin Wallace College,Baldwin Wallace College,2,1,0.002421307506053269,1,0.0,0.25410289759668714,0.0006033319948244931,4,41,United States,Berea,Ohio
+Barnard College,Barnard College,Barnard College,4,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,10,2,United States,New York City,New York
+Baylor University,Baylor University,Baylor University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,21,1,United States,Waco,Texas
+Beijing University,北京大學,Beijing University,33,24,0.05811138014527845,41,0.01093262748580135,0.3507940001886733,0.008776642900482275,2,48,China,Beijing,Beijing
+Beiyang University,北洋大學,Beiyang University,9,8,0.01937046004842615,8,0.001524907986711967,0.3011275140973004,0.002089731706111342,1,62,China,Tianjin,Tianjin
+Beloit College,Beloit College,Beloit College,1,1,0.002421307506053269,1,0.0,0.2640384947656681,0.0005927699723340481,3,42,United States,Beloit,Wisconsin
+Bennett College,Bennett College,Bennett College,1,1,0.002421307506053269,1,0.0,0.23590513549805978,0.0006478442590531503,6,31,United States,Greensboro,North Carolina
+Bethel College,Bethel College,Bethel College,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,11,2,United States,North Newton,Kansas
+Birmingham University,Birmingham University,Birmingham University,1,2,0.004842615012106538,2,0.0,0.23714783155862904,0.0008559429544683168,1,62,United Kingdom,Birmingham,
+Birmingham-Southern College,Birmingham-Southern College,Birmingham-Southern College,1,1,0.002421307506053269,1,0.0,0.1900854188214486,0.0007445003928511281,6,31,United States,Birmingham,Alabama
+Blackstone College,Blackstone College,Blackstone College,2,2,0.004842615012106538,2,4.5308246193722696e-05,0.23086442747459696,0.0009484999674103285,6,31,United States,Blackstone,Virginia
+Boston University,Boston University,Boston University,7,8,0.01937046004842615,8,0.0018297563294872666,0.31011639511513023,0.002207683318778263,8,24,United States,Boston,Massachusetts
+Briar Cliff College,Briar Cliff College,Briar Cliff College,1,3,0.007263922518159807,3,0.0,0.2761875052610209,0.0012347181602482909,2,48,United States,Sioux City,Iowa
+Brown University,Brown University,Brown University,4,5,0.012106537530266345,7,0.0002613576674039898,0.2864383670681638,0.0018078001893236395,1,62,United States,Providence,Rhode Island
+Bryn Mawr College,Bryn Mawr College,Bryn Mawr College,5,6,0.014527845036319613,6,0.0028696962397276268,0.26903523918852434,0.002163319487739407,6,31,United States,Bryn Mawr,Pennsylvania
+California Institute of Technology,California Institute of Technology,California Institute of Technology,25,25,0.06053268765133172,35,0.02158889281435463,0.3359594280413911,0.00831231179917823,1,62,United States,Pasadena,California
+Cambridge University,Cambridge University,Cambridge University,12,11,0.026634382566585957,16,0.0041568453004291765,0.3274077335094284,0.0035844090210666226,7,29,United Kingdom,Cambridge,
+Canisus College,Canisus College,Canisus College,1,2,0.004842615012106538,2,0.0,0.28195342395123013,0.0007842672469325184,2,48,United States,Buffalo,New York
+Carleton College,Carleton College,Carleton College,5,3,0.007263922518159807,5,0.0,0.3045224127906183,0.0013065751288609015,3,42,United States,Northfield,Minnesota
+Carnegie Institute of Technology,Carnegie Institute of Technology,Carnegie Institute of Technology,4,5,0.012106537530266345,6,0.0041023883890411025,0.2622440583934742,0.0021197393925994038,1,62,United States,Pittsburgh,Pennsylvania
+Carroll College,Carroll College,Carroll College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,22,1,United States,Helena,Montana
+Case School of Applied Science,Case School of Applied Science,Case School of Applied Science,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,12,2,United States,Cleveland,Ohio
+Catholic University of America,Catholic University of America,Catholic University of America,8,10,0.02421307506053269,11,0.01041711999985818,0.2910682975703432,0.004149446682247298,8,24,United States,Washington,District of Columbia
+Central Army Military Academy,中央陸軍軍官學校,Central Army Military Academy,16,6,0.014527845036319613,6,0.010666573421985206,0.26507495598162756,0.002761964442407902,4,41,China,Nanjing,Jiangsu
+Central Institute for Deaf,Central Institute for Deaf,Central Institute for Deaf,1,1,0.002421307506053269,1,0.0,0.23631791788738274,0.0006107294769507545,1,62,United States,St. Louis,Missouri
+Central Political School,中央政治學校,Central Political School,7,6,0.014527845036319613,6,0.004150558515990299,0.27817855833705296,0.0020433485126519217,4,41,China,Nanjing,Jiangsu
+Central University,中央大學,Central University,35,18,0.04358353510895884,36,0.0046166323667638605,0.32980632496370993,0.007357804635496872,7,29,China,Nanjing,Jiangsu
+Chemical Institute of Lyon,Chemical Institute of Lyon,Chemical Institute of Lyon,1,3,0.007263922518159807,3,0.0,0.20890284620671185,0.0013304814947230732,9,19,France,Lyon,
+Chengdu Sino-French University,成都中法大學,Chengdu Sino-French University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,23,1,China,Chengdu,Sichuan
+Chicago Aeronautical University,Chicago Aeronautical University,Chicago Aeronautical University,1,2,0.004842615012106538,2,0.0,0.22213106919841977,0.0011746263756461702,5,39,United States,Chicago,Illinois
+Chicago Technical College,Chicago Technical College,Chicago Technical College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,24,1,United States,Chicago,Illinois
+"Children Hospital, Massachusetts","Children Hospital, Massachusetts","Children Hospital, Massachusetts",1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,13,2,United States,Boston,Massachusetts
+China Academy,中國學院,China Academy,1,2,0.004842615012106538,2,0.0,0.2645557102304392,0.0007623888418357103,7,29,China,Shanghai,Shanghai
+China College University Department,中國公學大學部,China College University Department,2,3,0.007263922518159807,3,1.2891997893996059e-05,0.25173474384462113,0.001076843837584746,5,39,China,Shanghai,Shanghai
+China Public School,中國公學,China Public School,1,2,0.004842615012106538,2,0.0,0.21626211380726856,0.0010464509822460076,6,31,China,Shanghai,Shanghai
+China University,中國大學,China University,2,1,0.002421307506053269,1,0.0,0.22774989894205602,0.0006581013403123453,5,39,China,Beijing,Beijing
+Chongqing University,重慶大學,Chongqing University,1,1,0.002421307506053269,1,0.0,0.26198969946195777,0.0005865015404986731,1,62,China,Chongqing,Chongqing
+Chrysler Institute of Engineering,Chryster Institute,Chrysler Institute of Engineering,1,2,0.004842615012106538,2,0.0,0.25267668862982084,0.0007541909963854384,1,62,United States,Highland Park,Michigan
+Citadel Military College of South Carolina,Citadel Military College of South Carolina,Citadel Military College of South Carolina,1,0,0.0,0,0.0,0.0,0.00041419301394496577,25,1,United States,Charleston,South Carolina
+City College of New York,City College of New York,City College of New York,3,0,0.0,0,0.0,0.0,0.00041419301394496577,26,1,United States,New York,New York
+Claremont College,Claremont College,Claremont College,2,4,0.009685230024213076,4,1.4363531685450888e-05,0.3001237557169761,0.0011342361462532437,5,39,United States,Claremont,California
+Clarence White School of Photography,Clarence White School of Photography,Clarence White School of Photography,1,3,0.007263922518159807,3,0.0,0.29328054304590495,0.0009720286581812361,2,48,United States,New York,New York
+Clark University,Clark University,Clark University,5,9,0.02179176755447942,10,0.0012358006706550567,0.3219444340229779,0.0024317470632651624,4,41,United States,Worcester,Massachusetts
+College of Medical Evangelists,College of Medical Evangelists,College of Medical Evangelists,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,14,2,United States,Loma Linda,California
+College of St. Elisabeth,College of St. Elisabeth,College of St. Elisabeth,3,3,0.007263922518159807,4,0.0006668266791284845,0.28019852712165816,0.0018751230122291383,8,24,United States,Morristown,New Jersey
+College of St. Teresa,College of St. Teresa,College of St. Teresa,3,4,0.009685230024213076,4,0.00396067593032669,0.24290591739683315,0.0018626825561589662,6,31,United States,Winona,Minnesota
+College of the Pacific,College of the Pacific,College of the Pacific,1,2,0.004842615012106538,2,0.0,0.2275580287660307,0.0009213566434937764,7,29,United States,Stockton,California
+Colorado College,Colorado College,Colorado College,3,2,0.004842615012106538,3,0.0,0.2714687237640989,0.0009519892709292615,1,62,United States,Colorado Springs,Colorado
+Colorado School of Mines,Colorado School of Mines,Colorado School of Mines,7,9,0.02179176755447942,10,0.005311300926262222,0.2964998684360905,0.002897008937429358,1,62,United States,Golden,Colorado
+Columbia University,Columbia University,Columbia University,131,84,0.2033898305084746,181,0.12124997192707473,0.41683854960691114,0.04006800778567387,2,48,United States,New York City,New York
+Cooper Union Institute of Technology,Cooper Union Institute of Technology,Cooper Union Institute of Technology,1,1,0.002421307506053269,1,0.0,0.276753463263605,0.0005936294411291142,3,42,United States,New York,New York
+Cornell University,Cornell University,Cornell University,53,40,0.09685230024213076,67,0.020476027058367093,0.3799034882493368,0.013528964978516002,1,62,United States,Ithaca,New York
+Creighton University,Creighton University,Creighton University,1,1,0.002421307506053269,1,0.0,0.25922397326802155,0.0005877377765867134,7,29,United States,Omaha,Nebraska
+Cumberland Theological Seminary,Cumberland Theological Seminary,Cumberland Theological Seminary,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,11,2,United States,Lebanon,Tennessee
+Curtiss-Wright Technical Institute,Curtiss-Wright Technical Institute,Curtiss-Wright Technical Institute,4,3,0.007263922518159807,3,7.776464730570133e-05,0.2722896977270952,0.0009816698198709922,1,62,United States,Glendale,California
+Dartmouth College,Dartmouth College,Dartmouth College,2,3,0.007263922518159807,3,0.0010836935906948556,0.24511014532239425,0.001596258882390993,4,41,United States,Hanover,New Hampshire
+Datong University,大同大學,Datong University,7,6,0.014527845036319613,8,0.007918473233873768,0.29075498400998756,0.002751193616787208,3,42,China,Shanghai,Shanghai
+Daxia University,大夏大學,Daxia University,3,3,0.007263922518159807,3,5.049288104249433e-05,0.2584797896127067,0.0010484529560608547,7,29,China,Shanghai,Shanghai
+De La Salle College,De La Salle College,De La Salle College,1,1,0.002421307506053269,1,0.0,0.26198969946195777,0.0005865015404986731,1,62,Philippines,Manila,
+DePaul University,DePaul University,DePaul University,1,1,0.002421307506053269,1,0.0,0.25410289759668714,0.0006033319948244931,4,41,United States,Chicago,Illinois
+Denison University,Denison University,Denison University,1,2,0.004842615012106538,2,0.0,0.2834327178859165,0.0007914703832954952,4,41,United States,Granville,Ohio
+Detroit College of Law,Detroit College of Law,Detroit College of Law,1,2,0.004842615012106538,2,0.0,0.2442236710174308,0.0010750913684756138,4,41,United States,Detroit,Michigan
+Detroit Institute of Technology,Detroit Institute of Technology,Detroit Institute of Technology,1,2,0.004842615012106538,2,0.0,0.2974794935520688,0.0007817678296001165,2,48,United States,Detroit,Michigan
+Dickinson College,Dickinson College,Dickinson College,1,2,0.004842615012106538,2,0.0,0.24466610520405657,0.0007945927855702987,2,48,United States,Carlisle,Pennsylvania
+Dominican College,Dominican College,Dominican College,1,2,0.004842615012106538,2,0.0,0.283730441329074,0.0007671742037708618,7,29,United States,Orangeburg,South Carolina
+Drake University,Drake University,Drake University,2,3,0.007263922518159807,3,6.996380912081799e-06,0.2796184059474932,0.0009676915766564436,3,42,United States,Des Moines,Iowa
+Drew University,Drew University,Drew University,7,8,0.01937046004842615,10,0.0016459550806843038,0.29585036160490524,0.00282465955100257,6,31,United States,Madison,New Jersey
+Drexel Institute of Technology,Drexel Institute of Technology,Drexel Institute of Technology,1,1,0.002421307506053269,1,0.0,0.25458188515106356,0.0005949609534075726,2,48,United States,Philadelphia,Pennsylvania
+Duke University,Duke University,Duke University,5,6,0.014527845036319613,6,0.00032402268643365957,0.2810732363634531,0.001740000498913749,8,24,United States,Durham,North Carolina
+Duquesne University,Duquesne University,Duquesne University,1,1,0.002421307506053269,1,0.0,0.2106953043254902,0.000717583508698236,4,41,United States,Pittsburgh,Pennsylvania
+Ecole des Hautes Etudes Industrielles et Commerciales,Ecole des Hautes Etudes Industrielles et Commerciales,Ecole des Hautes Etudes Industrielles et Commerciales,1,1,0.002421307506053269,1,0.0,0.26198969946195777,0.0005865015404986731,1,62,France,Lille,
+Edinburgh University,Edinburgh University,Edinburgh University,3,4,0.009685230024213076,4,0.003942235579542707,0.26770206159095983,0.0016892818334350978,9,19,United Kingdom,Edinburgh,
+Elmira College,Elmira College,Elmira College,1,1,0.002421307506053269,1,0.0,0.21996040728442873,0.0006600291581672714,7,29,United States,Elmira,New York
+Embry–Riddle Aeronautical University (ERAU),Aeronautical University,Embry–Riddle Aeronautical University (ERAU),1,0,0.0,0,0.0,0.0,0.00041419301394496577,27,1,United States,Miami,Florida
+Emmanuel College,Emmanuel College,Emmanuel College,1,1,0.002421307506053269,1,0.0,0.24052660743123636,0.0006009256059098884,4,41,United States,Boston,Massachusetts
+Emmanuel Missionary College,Emmanuel Missionary College,Emmanuel Missionary College,1,2,0.004842615012106538,2,0.0,0.22249701824158027,0.0011028136014582606,3,42,United States,Berrien Springs,Michigan
+Emory University,Emory University,Emory University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,28,1,United States,Atlanta,Georgia
+Field Artillery School,Field Artillery School,Field Artillery School,1,2,0.004842615012106538,2,0.0,0.20097572927476076,0.001322541014416461,4,41,United States,Fort Sill,Oklahoma
+Finch College,Finch College,Finch College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,29,1,United States,New York,New York
+Fletcher School of Law & Diplomacy,Fletcher School of Law & Diplomacy,Fletcher School of Law & Diplomacy,1,1,0.002421307506053269,1,0.0,0.276753463263605,0.0005936294411291142,3,42,United States,Medford,Massachusetts
+Florida Southern College,Florida Southern College,Florida Southern College,2,3,0.007263922518159807,4,2.6877683713321667e-05,0.2901303760958952,0.0011242696646387694,3,42,United States,Lakeland,Florida
+Foochow College,福州學院,Foochow College,1,2,0.004842615012106538,2,0.0,0.24826413616293977,0.0010385034433789768,1,62,China,Fuzhou,Fujian
+Fordham University,Fordham University,Fordham University,5,5,0.012106537530266345,6,0.008017207644818433,0.27846534035595716,0.0033717060959476035,8,24,United States,New York,New York
+Forest Park University,Forest Park University,Forest Park University,1,2,0.004842615012106538,2,0.0,0.24826413616293977,0.0010385034433789768,1,62,United States,St. Louis,Missouri
+Fu-jen University,輔仁大學,Fu-jen University,11,11,0.026634382566585957,14,0.0031455820802384197,0.3104728507416994,0.003658721009766047,8,24,China,Beijing,Beijing
+Fudan University,復旦大學,Fudan University,16,14,0.03389830508474576,19,0.005832627947387102,0.330209511180047,0.00445608204400014,9,19,China,Shanghai,Shanghai
+Fujian Union University,福建協和大學,Fujian Union University,15,17,0.04116222760290557,27,0.004623318366872097,0.3423464894109993,0.005613694100285003,2,48,China,Fuzhou,Fujian
+George Peabody College,George Peabody College,George Peabody College,7,5,0.012106537530266345,8,0.0006120520048539245,0.2901303760958952,0.0022045672256011165,2,48,United States,Nashville,Tennessee
+George Washington University,George Washington University,George Washington University,13,17,0.04116222760290557,18,0.014506976536177246,0.3322403199818923,0.004849839077534078,4,41,United States,Washington,District of Columbia
+George Williams College,George Williams College,George Williams College,1,2,0.004842615012106538,2,0.0,0.2846273763385442,0.0007805468073890335,4,41,United States,Williams Bay,Wisconsin
+Georgetown University,Georgetown University,Georgetown University,5,10,0.02421307506053269,10,0.0007917882304703185,0.3266159372977974,0.0023910711175420566,9,19,United States,Washington,District of Columbia
+Georgia School of Technology,Georgia School of Technology,Georgia School of Technology,2,0,0.0,0,0.0,0.0,0.00041419301394496577,30,1,United States,Atlanta,Georgia
+Ginling College,金陵女子文理學院,Ginling College,17,20,0.04842615012106538,25,0.008857233029583564,0.32582796157452165,0.005678095486505841,6,31,China,Nanjing,Jiangsu
+Glasgow University,Glasgow University,Glasgow University,1,1,0.002421307506053269,1,0.0,0.20127524600989452,0.0007732075583597,9,19,United Kingdom,Glasgow,
+Gonzaga University,Gonzaga University,Gonzaga University,1,2,0.004842615012106538,2,0.0,0.2687675424331129,0.0007838902697102337,2,48,United States,Spokane,Washington
+Goucher College,Goucher College,Goucher College,3,4,0.009685230024213076,4,0.002238961807030369,0.2764701946215747,0.0015331476633034112,6,31,United States,Towson,Maryland
+Granville College,Granville College,Granville College,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,16,2,United States,Granville,Ohio
+Guangdong College of Law,廣東法學院,Guangdong College of Law,1,3,0.007263922518159807,3,0.0,0.3001237557169761,0.0009685004215650391,4,41,China,Guangzhou,Guangdong
+Guangdong National University,廣東國民大學,Guangdong National University,2,3,0.007263922518159807,3,0.00011828552451150295,0.2658576576233056,0.0011436609726906276,8,24,China,Guangzhou,Guangdong
+Guangdong Provincial Technical College,廣東省立工業專門學校,Guangdong Provincial Technical College,1,2,0.004842615012106538,2,0.0,0.2770373129695164,0.001032346565013865,3,42,China,Guangzhou,Guangdong
+Guanghua Medical College,光華醫學院,Guanghua Medical College,1,1,0.002421307506053269,1,0.0,0.25997245442278966,0.0005753740617640388,1,62,China,Shanghai,Shanghai
+Guanghua University,光華大學,Guanghua University,12,11,0.026634382566585957,17,0.003935151457444155,0.3192805911882724,0.0039621064777197465,4,41,China,Shanghai,Shanghai
+Guangxi Aviation School,廣西航空學校,Guangxi Aviation School,1,0,0.0,0,0.0,0.0,0.00041419301394496577,31,1,China,Liuzhou,Guangxi
+Guangxi University,廣西大學,Guangxi University,2,2,0.004842615012106538,2,0.0,0.24690254126625089,0.0007839297635466736,7,29,China,Wuzhou,Guangxi
+Guangzhou University,廣州大學,Guangzhou University,1,1,0.002421307506053269,1,0.0,0.25410289759668714,0.0006033319948244931,4,41,China,Guangzhou,Guangdong
+Guilford College,Guilford College,Guilford College,1,2,0.004842615012106538,2,0.0,0.25220483673695465,0.0007931575734145745,2,48,United States,Greensboro,North Carolina
+Hamline University,Hamline University,Hamline University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,32,1,United States,Saint Paul,Minnesota
+Harbin Polytechnic Institute,Harbin Polytechnic Institute,Harbin Polytechnic Institute,1,1,0.002421307506053269,1,0.0,0.23903661959759154,0.000591916516362593,1,62,China,Harbin,Heilongjiang
+Hartford Seminary Foundation,Hartford Seminary Foundation,Hartford Seminary Foundation,3,5,0.012106537530266345,6,0.00012291974987106952,0.28553000015357133,0.0016083461295190308,5,39,United States,Hartford,Connecticut
+Harvard University,Harvard University,Harvard University,95,50,0.12106537530266344,127,0.048688011334720574,0.386979054649396,0.025747366893677084,1,62,United States,Cambridge,Massachusetts
+Hastings College,Hastings College,Hastings College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,33,1,United States,Hastings,Nebraska
+Haverford College,Haverford College,Haverford College,5,7,0.01694915254237288,8,0.004132935162919158,0.31666046910349177,0.002295807374010845,5,39,United States,Haverford,Pennsylvania
+Heald's College,Heald's College,Heald's College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,34,1,United States,San Francisco,California
+Heald’s Engineering College,Heald’s Engineering College,Heald’s Engineering College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,35,1,United States,San Francisco,California
+Hebei Institute of Technology,河北工學院,Hebei Institute of Technology,2,1,0.002421307506053269,1,0.0,0.24400305342843584,0.0005887010636111718,7,29,China,Tianjin,Tianjin
+Hebei Provincial Institute of Technology,河北省立工業學院,Hebei Provincial Institute of Technology,1,0,0.0,0,0.0,0.0,0.00041419301394496577,36,1,China,Tianjin,Tianjin
+Hebei University,河北大學,Hebei University,1,1,0.002421307506053269,1,0.0,0.24803616174956702,0.0005971821404006263,1,62,China,Tianjin,Tianjin
+Henan University,河南大學,Henan University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,37,1,China,Kaifeng,Henan
+Hochschule für Musik,Hochschule für Musik,Hochschule für Musik,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,17,2,Germany,Berlin,
+Holy Cross College,Holy Cross College,Holy Cross College,1,1,0.002421307506053269,1,0.0,0.23756497814008656,0.0006160152001485396,1,62,United States,Notre Dame,Indiana
+Hongkong University,Hongkong University,Hongkong University,1,1,0.002421307506053269,1,0.0,0.27534289515318905,0.000602331402415968,2,48,Hong Kong,Hong Kong,
+Houghton College,Houghton College,Houghton College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,38,1,United States,Houghton,New York
+Huazhong University,華中大學,Huazhong University,1,2,0.004842615012106538,2,0.0,0.27562385729110045,0.0008108803789903731,3,42,China,Wuhan,Hubei
+Hunan University,湖南大學,Hunan University,1,1,0.002421307506053269,1,0.0,0.2424698205971979,0.0006271624313495573,5,39,China,Changsha,Hunan
+Hunter College,Hunter College,Hunter College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,39,1,United States,New York City,New York
+Hwa Nan College,華南學院,Hwa Nan College,7,9,0.02179176755447942,9,0.006656128168046967,0.2974794935520688,0.0028689844275448864,6,31,China,Fuzhou,Fujian
+Illinois Institute of Technology,Illinois Institute of Technology,Illinois Institute of Technology,4,8,0.01937046004842615,9,0.007993119522337135,0.3055558598928489,0.002764799155352744,5,39,United States,Chicago,Illinois
+Indiana Technical College,Indiana Technical College,Indiana Technical College,2,0,0.0,0,0.0,0.0,0.00041419301394496577,40,1,United States,Fort Wayne,Indiana
+Indiana University,Indiana University,Indiana University,8,10,0.02421307506053269,13,0.0018841921070203154,0.30694475016508915,0.003302391781259744,4,41,United States,Indianapolis,Indiana
+Institut Meurice Chimie,Institut Meurice Chimie,Institut Meurice Chimie,1,0,0.0,0,0.0,0.0,0.00041419301394496577,41,1,Belgium,Brussels,
+Institute for Advanced Study,Institute for Advanced Study,Institute for Advanced Study,1,2,0.004842615012106538,2,0.0,0.2597224809089216,0.0007772629326493184,1,62,United States,Princeton,New Jersey
+International University,International University,International University,1,2,0.004842615012106538,2,0.0,0.20278632143038924,0.00114498600375357,8,24,Belgium,Brussels,
+Iowa State College,Iowa State College,Iowa State College,13,11,0.026634382566585957,15,0.004439816791925041,0.2974794935520688,0.0037074439344860653,7,29,United States,Ames,Iowa
+Jiaotong University,交通大學,Jiaotong University,94,27,0.06537530266343826,103,0.015745257086976362,0.33264948293753505,0.019667329541342617,1,62,China,Shanghai,Shanghai
+Jiaozuo Institute of Technology,河南焦作工學院,Jiaozuo Institute of Technology,1,0,0.0,0,0.0,0.0,0.00041419301394496577,42,1,China,Jiaozuo,Henan
+Jinan University,暨南大學,Jinan University,13,14,0.03389830508474576,21,0.010666696827095225,0.31083012674945737,0.005337742133782827,3,42,China,Shanghai,Shanghai
+Jinling University,金陵大學,Jinling University,37,25,0.06053268765133172,48,0.015401077289474709,0.3489811112988094,0.010488528773228901,7,29,China,Nanjing,Jiangsu
+Johns Hopkins University,Johns Hopkins University,Johns Hopkins University,9,11,0.026634382566585957,12,0.006859172237372655,0.30180042474332786,0.00347056711447606,7,29,United States,Baltimore,Maryland
+Juilliard School of Music,Juilliard School of Music,Juilliard School of Music,4,5,0.012106537530266345,5,0.009298610788361441,0.2843277685739773,0.0027554053567922614,6,31,United States,New York City,New York
+Kansas State College,Kansas State College,Kansas State College,4,5,0.012106537530266345,6,0.000564597465207055,0.2913822871038602,0.0017215838607394652,5,39,United States,Manhattan,Kansas
+LaSalle College,LaSalle College,LaSalle College,1,1,0.002421307506053269,1,0.0,0.27534289515318905,0.000602331402415968,2,48,United States,Philadelphia,Pennsylvania
+Lafayette College,Lafayette College,Lafayette College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,43,1,United States,Easton,Pennsylvania
+Lehigh University,Lehigh University,Lehigh University,2,2,0.004842615012106538,2,6.0272305984354406e-05,0.2507997958637683,0.0008854246710167733,8,24,United States,Bethlehem,Pennsylvania
+Lenoir-Rhyne College,Lenoir-Rhyne College,Lenoir-Rhyne College,1,2,0.004842615012106538,2,0.0,0.26664499520757995,0.0007749493830514218,4,41,United States,Hickory,North Carolina
+Linfield College,Linfield College,Linfield College,2,0,0.0,0,0.0,0.0,0.00041419301394496577,44,1,United States,McMinnville,Oregon
+Lingnan University,嶺南大學,Lingnan University,60,46,0.11138014527845037,92,0.03448839979232415,0.37725053092915983,0.01952350978277191,5,39,China,Guangzhou,Guangdong
+Los Angeles City College,Los Angeles City College,Los Angeles City College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,45,1,United States,East Hollywood,California
+Louisiana State University,Louisiana State University,Louisiana State University,3,6,0.014527845036319613,6,0.0002859357288288839,0.2736690781613763,0.0017384238462107042,4,41,United States,Baton Rouge,Louisiana
+Lousiana State University,Lousiana State University,Lousiana State University,3,2,0.004842615012106538,2,0.0,0.27817855833705296,0.0008297516649134096,3,42,United States,Baton Rouge,Louisiana
+Lowell Textile Institute,Lowell Textile Institute,Lowell Textile Institute,3,4,0.009685230024213076,4,0.0,0.29813618117580404,0.0011357621092316107,5,39,United States,Lowell,Massachusetts
+Loyola University,Loyola University,Loyola University,3,4,0.009685230024213076,5,0.000989053808819201,0.2354937926288391,0.002164071272042411,8,24,United States,Chicago,Illinois
+Macalester College,Macalester College,Macalester College,2,1,0.002421307506053269,1,0.0,0.1981741600478932,0.0007144411013165126,1,62,United States,Saint Paul,Minnesota
+Madison College,Madison College,Madison College,7,7,0.01694915254237288,9,0.0005622450646720193,0.28919847981293195,0.002500454219530951,3,42,United States,Madison,Wisconsin
+Madison General Hospital,Madison General Hospital,Madison General Hospital,1,1,0.002421307506053269,1,0.0,0.22528055057988197,0.000682775550531685,8,24,United States,Madison,Wisconsin
+Manchester University,Manchester University,Manchester University,2,3,0.007263922518159807,3,0.003914055337455041,0.2594729876515643,0.0014962988099679918,9,19,United States,North Manchester,Indiana
+Manhattan College,Manhattan College,Manhattan College,2,1,0.002421307506053269,1,0.0,0.26198969946195777,0.0005865015404986731,1,62,United States,Riverdale,New York
+Mapúa Institute of Technology,Mapúa Institute of Technology,Mapúa Institute of Technology,1,2,0.004842615012106538,2,0.0,0.237774102240562,0.0009779963317537502,1,62,Philippines,Manila,
+Marquette University,Marquette University,Marquette University,5,3,0.007263922518159807,3,0.003914055337455042,0.29552667411956063,0.0014791220695827252,3,42,United States,Milwaukee,Wisconsin
+Mary Hardin-Baylor College,Mary Hardin-Baylor College,Mary Hardin-Baylor College,1,1,0.002421307506053269,1,0.0,0.1673552541172729,0.001256223251982003,5,39,United States,Belton,Texas
+Mary Manse College,Mary Manse College,Mary Manse College,1,1,0.002421307506053269,1,0.0,0.21660896563374377,0.0008332818477900115,3,42,United States,Toledo,Ohio
+Maryville College,Maryville College,Maryville College,1,2,0.004842615012106538,2,0.0,0.23611134628083782,0.0010828968591116211,9,19,United States,Maryville,Tennessee
+Massachusetts College of Pharmacy,Massachusetts College of Pharmacy,Massachusetts College of Pharmacy,2,1,0.002421307506053269,1,0.0,0.2348794609958943,0.0006176589925573029,2,48,United States,Boston,Massachusetts
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,Massachusetts Institute of Technology,119,45,0.1089588377723971,119,0.026294837705108813,0.3825940228686664,0.02257004878641522,1,62,United States,Cambridge,Massachusetts
+Master Institute of United Arts,Master Institute of United Arts,Master Institute of United Arts,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,10,2,United States,New York City,New York
+McGill University,McGill University,McGill University,3,6,0.014527845036319613,6,0.0005428212949258805,0.2720154885652351,0.001723462226846174,1,62,Canada,Montreal,
+Medical College of Virginia,Medical College of Virginia,Medical College of Virginia,2,2,0.004842615012106538,2,0.00015233292685091243,0.27590539340682174,0.0009372552709005703,2,48,United States,Richmond,Virginia
+Mercer University,Mercer University,Mercer University,2,2,0.004842615012106538,2,0.003914055337455041,0.23611134628083782,0.0015598510086240992,4,41,United States,Macon,Georgia
+Merrill-Palmer School,Merrill-Palmer School,Merrill-Palmer School,1,2,0.004842615012106538,2,0.0,0.23285463805627454,0.0008941575735364991,6,31,United States,Detroit,Michigan
+Miami University,Miami University,Miami University,1,2,0.004842615012106538,2,0.0,0.2870471627473735,0.0007826856432152965,5,39,United States,Oxford,Ohio
+Michigan State College,Michigan State College,Michigan State College,10,10,0.02421307506053269,15,0.008137784094383897,0.30624873032344496,0.003880931420244401,3,42,United States,East Lansing,Michigan
+Middlesex University,Middlesex University,Middlesex University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,46,1,United States,Cambridge,Massachusetts
+Mills College,Mills College,Mills College,12,8,0.01937046004842615,12,0.0002390032434245482,0.32504377875484775,0.0025614388345760234,3,42,United States,Oakland,California
+Millsaps College,Millsaps College,Millsaps College,1,2,0.004842615012106538,2,0.0,0.2473547437227825,0.0008383251873284619,4,41,United States,Jackson,Mississippi
+Missouri School of Mines & Metals,Missouri School of Mines & Metals,Missouri School of Mines & Metals,2,2,0.004842615012106538,2,0.0,0.29585036160490524,0.0007795462149805083,2,48,United States,Rolla,Missouri
+Monmouth College,Monmouth College,Monmouth College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,47,1,United States,West Long Branch,New Jersey
+Montana School of Mines,Montana School of Mines,Montana School of Mines,2,1,0.002421307506053269,1,0.0,0.2424698205971979,0.0006271624313495573,5,39,United States,Butte,Montana
+Montana State College,Montana State College,Montana State College,1,2,0.004842615012106538,2,0.0,0.24031261578761426,0.0008388790115931683,1,62,United States,Bozeman,Montana
+Moody Bible Institute,Moody Bible Institute,Moody Bible Institute,3,0,0.0,0,0.0,0.0,0.00041419301394496577,48,1,United States,Chicago,Illinois
+Morningside College,Morningside College,Morningside College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,49,1,United States,Sioux City,Iowa
+Morningside Conservatory of Music,Morningside Conservatory of Music,Morningside Conservatory of Music,1,2,0.004842615012106538,2,0.0,0.21836004862189043,0.0011511853818114883,6,31,United States,Sioux City,Iowa
+Mount Holyoke College,Mount Holyoke College,Mount Holyoke College,9,8,0.01937046004842615,10,0.003824497625080675,0.31154715126329696,0.002680484460952371,2,48,United States,South Hadley,Massachusetts
+Mount Mary College,Mount Mary College,Mount Mary College,2,1,0.002421307506053269,1,0.0,0.2142041079661209,0.0007355259921585687,8,24,United States,Milwaukee,Wisconsin
+Mount Union College,Mount Union College,Mount Union College,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,12,2,United States,Alliance,Ohio
+Multnomah University,Multnomah University,Multnomah University,1,1,0.002421307506053269,1,0.0,0.22813461160918785,0.0006681154607925829,8,24,United States,Portland,Oregon
+Nankai School,南開學校,Nankai School,1,3,0.007263922518159807,3,0.0,0.283730441329074,0.0009937581902898559,9,19,China,Tianjin,Tianjin
+Nankai University,南開大學,Nankai University,21,18,0.04358353510895884,22,0.01060034398106417,0.3306136843883457,0.005265981246971379,2,48,China,Tianjin,Tianjin
+Nanking Higher Normal School,南京高等師範學校,Nanking Higher Normal School,1,0,0.0,0,0.0,0.0,0.00041419301394496577,50,1,China,Nanjing,Jiangsu
+National College of Education,National College of Education,National College of Education,1,0,0.0,0,0.0,0.0,0.00041419301394496577,51,1,United States,Evanston,Illinois
+National College of Music,國主音樂專科學校,National College of Music,1,1,0.002421307506053269,1,0.0,0.2548220567408287,0.00059693687916026,1,62,China,Shanghai,Shanghai
+National Defense Planning Commission,國防設計委員會,National Defense Planning Commission,1,1,0.002421307506053269,1,0.0,0.2560297442135341,0.000603122330247627,2,48,China,Nanjing,Jiangsu
+National Guangdong Specialized School,國立廣東專門學校,National Guangdong Specialized School,1,1,0.002421307506053269,1,0.0,0.21053108351151867,0.0008836297313539012,6,31,China,Guangzhou,Guangdong
+Naval school,海軍學校,Naval school,1,0,0.0,0,0.0,0.0,0.00041419301394496577,52,1,China,Fuzhou,Fujian
+Neurological Institute,Neurological Institute,Neurological Institute,1,1,0.002421307506053269,1,0.0,0.2548220567408287,0.00059693687916026,1,62,United States,New York,New York
+New England Aircraft School,New England Aircraft School,New England Aircraft School,1,0,0.0,0,0.0,0.0,0.00041419301394496577,53,1,United States,Concord,Massachusetts
+New School For Social Research,New School For Social Research,New School For Social Research,7,11,0.026634382566585957,12,0.0008868316471804006,0.3270113561080853,0.002693688022319097,2,48,United States,New York,New York
+New York University,New York University,New York University,72,38,0.09200968523002422,77,0.03499315289374232,0.37001558924010747,0.01713568752158774,4,41,United States,New York City,New York
+Niagara University,Niagara University,Niagara University,1,1,0.002421307506053269,1,0.0,0.27534289515318905,0.000602331402415968,2,48,United States,Lewiston,New York
+Nihon University,日本大學,Nihon University,1,1,0.002421307506053269,1,0.0,0.27534289515318905,0.000602331402415968,2,48,Japan,Tokyo,Tokyo
+Normal University,師範大學,Normal University,10,6,0.014527845036319613,8,0.00035346095372865843,0.2867424417678115,0.0019980061390084385,7,29,China,Beijing,Beijing
+North American Institute of Aviation,North American Institute of Aviation,North American Institute of Aviation,1,2,0.004842615012106538,2,0.0,0.24074098052163853,0.0008533116034806013,4,41,United States,Conway,South Carolina
+North Carolina State College,North Carolina State College,North Carolina State College,1,1,0.002421307506053269,1,0.0,0.1965876129150498,0.0008382298193635335,9,19,United States,Raleigh,North Carolina
+North Dakota State College,North Dakota State College,North Dakota State College,2,4,0.009685230024213076,4,0.0007498222525247789,0.27011138014527847,0.001369905220023728,7,29,United States,Fargo,North Dakota
+Northeast University,東北大學,Northeast University,3,1,0.002421307506053269,1,0.0,0.23756497814008656,0.0006160152001485396,1,62,China,Shenyang,Liaoning
+Northeastern University,Northeastern University,Northeastern University,6,5,0.012106537530266345,5,0.004963024016162372,0.2861349365945746,0.002023578257997221,4,41,United States,Boston,Massachusetts
+Northern Baptist Theological Seminary,Northern Baptist Theological Seminary,Northern Baptist Theological Seminary,1,1,0.002421307506053269,1,0.0,0.2314579092932977,0.0006401467719100715,5,39,United States,Lombard,Illinois
+Northwestern University,Northwestern University,Northwestern University,11,14,0.03389830508474576,15,0.007446729205018852,0.32387455652911085,0.003979544056102683,5,39,United States,Evanston,Illinois
+Oberlin College,Oberlin College,Oberlin College,15,18,0.04358353510895884,21,0.006008795266846831,0.330209511180047,0.0048680455110897795,2,48,United States,Oberlin,Ohio
+Oberlin Conservatory of Music,Oberlin Conservatory of Music,Oberlin Conservatory of Music,1,1,0.002421307506053269,1,0.0,0.23903661959759154,0.0006113252900824773,2,48,United States,Oberlin,Ohio
+Ohio State University,Ohio State University,Ohio State University,11,8,0.01937046004842615,8,0.0012216860571703553,0.2991266668275509,0.0021414694923020685,7,29,United States,Columbus,Ohio
+Ohio Wesleyan University,Ohio Wesleyan University,Ohio Wesleyan University,5,8,0.01937046004842615,8,0.004225837535599557,0.29813618117580404,0.0023589690047305417,7,29,United States,Delaware,Ohio
+Olivet College,Olivet College,Olivet College,1,2,0.004842615012106538,2,0.0,0.22794209294960208,0.0009306417053668514,3,42,United States,Olivet,Michigan
+Oregon State College,Oregon State College,Oregon State College,16,13,0.031476997578692496,20,0.0016303712156748504,0.29879577449698946,0.00439425867810139,7,29,United States,Corvallis,Oregon
+Oxford University,Oxford University,Oxford University,3,5,0.012106537530266345,5,0.000235656168364915,0.2861349365945746,0.001379318105354754,1,62,United Kingdom,Oxford,
+Pacific School of Religion,Pacific School of Religion,Pacific School of Religion,1,1,0.002421307506053269,1,0.0,0.27422475141652636,0.0005914078265095062,3,42,United States,Berkeley,California
+Pacific Union College,Pacific Union College,Pacific Union College,2,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,14,2,United States,Angwin,California
+Park College,Park College,Park College,5,6,0.014527845036319613,6,0.0041274121397151505,0.2720154885652351,0.0021206124522156556,6,31,United States,Parkville,Missouri
+Parks Air College,Parks Air College,Parks Air College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,54,1,United States,Cahokia,Illinois
+Pasadena College,Pasadena College,Pasadena College,1,2,0.004842615012106538,2,0.0,0.24987176701690886,0.0010476066260914454,2,48,United States,Pasadena,California
+Peabody Conservatory of Music,Peabody Conservatory of Music,Peabody Conservatory of Music,1,0,0.0,0,0.0,0.0,0.00041419301394496577,55,1,United States,Baltimore,Maryland
+Peiping College of Finance and Commerce,北平財政商業專門學校,Peiping College of Finance and Commerce,1,2,0.004842615012106538,2,0.0,0.2567598670582495,0.0008100038444578872,4,41,China,Beijing,Beijing
+Peiping Minguo University,北平民國大學,Peiping Minguo University,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,15,2,China,Beijing,Beijing
+Peking Metropolitan University,京師大學,Peking Metropolitan University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,56,1,China,Beijing,Beijing
+Peking Union Medical College,協和醫學院,Peking Union Medical College,10,10,0.02421307506053269,20,0.0016925833513279113,0.3274077335094284,0.004460903624243715,3,42,China,Beijing,Beijing
+Penn State College,Penn State College,Penn State College,8,8,0.01937046004842615,9,0.0011357137781468746,0.3021380091110497,0.0021570746848188463,1,62,United States,State College,Pennsylvania
+Pennsylvania College for Woman,Pennsylvania College for Woman,Pennsylvania College for Woman,1,2,0.004842615012106538,2,0.0,0.24555580013207132,0.0008146877075103612,2,48,United States,Pittsburgh,Pennsylvania
+Peter Bent Brigham Hospital,Peter Bent Brigham Hospital,Peter Bent Brigham Hospital,1,2,0.004842615012106538,2,0.0,0.27450343510699027,0.0008703999604824468,3,42,United States,Boston,Massachusetts
+Polytechnic Engineering College,Polytechnic Engineering College,Polytechnic Engineering College,1,2,0.004842615012106538,2,0.0,0.2770373129695164,0.001032346565013865,3,42,United States,Oakland,California
+Polytechnic Institute of Brooklyn,Polytechnic Institute of Brooklyn,Polytechnic Institute of Brooklyn,2,1,0.002421307506053269,1,0.0,0.207299601032447,0.0008953841176979804,8,24,United States,Brooklyn,New York
+Pomona College,Pomona College,Pomona College,11,9,0.02179176755447942,10,0.004633776207308493,0.3079947322067029,0.0028350689867978657,5,39,United States,Claremont,California
+Pratt Institute,Pratt Institute,Pratt Institute,2,1,0.002421307506053269,1,0.0,0.27534289515318905,0.000602331402415968,2,48,United States,Brooklyn,New York
+Princeton Seminary,Princeton Seminary,Princeton Seminary,1,1,0.002421307506053269,1,0.0,0.23125974327506715,0.0006368743353929977,1,62,United States,Princeton,New Jersey
+Princeton University,Princeton University,Princeton University,9,11,0.026634382566585957,13,0.0008175242356094857,0.3079947322067029,0.002876878630628917,3,42,United States,Princeton,New Jersey
+Propaganda Fide,Propaganda Fide,Propaganda Fide,1,2,0.004842615012106538,2,0.0,0.2764701946215747,0.0010835225061689826,8,24,Italy,Rome,
+Pughy College,Pughy College,Pughy College,1,1,0.002421307506053269,1,0.0,0.23631791788738274,0.0006107294769507545,1,62,United States,,
+Purdue University,Purdue University,Purdue University,58,24,0.05811138014527845,52,0.019540061549967423,0.3389101381998475,0.010874599889687047,1,62,United States,West Lafayette,Indiana
+Qilu University,齊魯大學,Qilu University,9,9,0.02179176755447942,10,0.007216879418798456,0.3119069054795363,0.003159982153959925,8,24,China,Jinan,Shandong
+Radcliffe College,Radcliffe College,Radcliffe College,14,20,0.04842615012106538,20,0.014725411697040072,0.33264948293753505,0.00549752598675012,6,31,United States,Cambridge,Massachusetts
+Radio Corporation of America Institute,Radio Corporation of America Institute,Radio Corporation of America Institute,1,0,0.0,0,0.0,0.0,0.00041419301394496577,57,1,United States,New York,New York
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,8,4,0.009685230024213076,6,2.0569359881520488e-05,0.2720154885652351,0.0014823988083132434,1,62,United States,Troy,New York
+Rice Institute,Rice Institute,Rice Institute,2,0,0.0,0,0.0,0.0,0.00041419301394496577,58,1,United States,Houston,Texas
+Rochester Institute of Technology,Rochester Mechanical of Technology,Rochester Institute of Technology,1,1,0.002421307506053269,1,0.0,0.18300229007132687,0.001064206312213031,9,19,United States,Henrietta,New York
+Rockford College,Rockford College,Rockford College,2,3,0.007263922518159807,3,3.853128906464331e-05,0.28765855180540834,0.0009977158252739405,5,39,United States,Rockford,Illinois
+Rosary College,Rosary College,Rosary College,1,2,0.004842615012106538,2,0.0,0.2787527142882131,0.0008359826475241524,6,31,United States,River Forest,Illinois
+Rostock University,Rostock University,Rostock University,1,2,0.004842615012106538,2,0.0,0.2346753954346468,0.0008978369351114208,7,29,Germany,Rostock,
+Royal Military College,Royal Military College,Royal Military College,2,3,0.007263922518159807,3,0.00016510048536515126,0.20462983344339278,0.0018213368860489191,4,41,Canada,Kingston,
+Royal Polytechnic University of Milan,Royal Polytechnic University of Milan,Royal Polytechnic University of Milan,1,0,0.0,0,0.0,0.0,0.00041419301394496577,59,1,Italy,Milan,
+Rutgers University,Rutgers University,Rutgers University,1,1,0.002421307506053269,1,0.0,0.27422475141652636,0.0005914078265095062,3,42,United States,New Brunswick,New Jersey
+Safair Flying School,Safair Flying School,Safair Flying School,1,2,0.004842615012106538,2,0.0,0.25651603052732996,0.0008572544416721101,8,24,United States,Long Island,New York
+San Francisco State College,San Francisco State College,San Francisco State College,2,1,0.002421307506053269,1,0.0,0.24555580013207132,0.0006168421344300542,5,39,United States,San Francisco,California
+San Jose State College,San Jose State College,San Jose State College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,60,1,United States,San Jose,California
+Santa Barbara State College,Santa Barbara State College,Santa Barbara State College,3,1,0.002421307506053269,2,0.0,0.24555580013207132,0.0008194912549151427,5,39,United States,Santa Barbara,California
+Sarah Lawrence College,Sarah Lawrence College,Sarah Lawrence College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,61,1,United States,Bronxville,New York
+Scarritt College,Scarritt College,Scarritt College,2,2,0.004842615012106538,2,8.57699127375189e-05,0.27562385729110045,0.0008256091159881733,2,48,United States,Neosho,Missouri
+Schauffler College,Schauffler College,Schauffler College,1,1,0.002421307506053269,1,0.0,0.22323254557461028,0.0006551461576867275,5,39,United States,Cleveland,Ohio
+Seton Hill College,Seton Hill College,Seton Hill College,1,2,0.004842615012106538,2,0.0,0.2770373129695164,0.0008314988892100814,6,31,United States,Greensburg,Pennsylvania
+Shandong University,山東大學,Shandong University,3,5,0.012106537530266345,5,0.0002095901133314099,0.28553000015357133,0.0016622624016906444,2,48,China,Qingdao,Shandong
+Shanghai Medical College,上海醫學院,Shanghai Medical College,2,4,0.009685230024213076,4,0.0002694365469697407,0.3028154485933615,0.001313039740302455,3,42,China,Shanghai,Shanghai
+Shanghai Sanyu University,三育大學,Shanghai Sanyu University,1,2,0.004842615012106538,2,0.0,0.22249701824158027,0.0011028136014582606,3,42,China,Shanghai,Shanghai
+Shanghai University,滬江大學,Shanghai University,51,41,0.09927360774818403,75,0.04679116230659028,0.37411548496575964,0.016664032550545688,2,48,China,Shanghai,Shanghai
+Shanghai Xinhua University of Art,上海新華藝術大學,Shanghai Xinhua University of Art,1,1,0.002421307506053269,1,0.0,0.20127524600989452,0.0007769692965785421,5,39,China,Shanghai,Shanghai
+Simmons College,Simmons College,Simmons College,2,3,0.007263922518159807,3,2.976009811587234e-05,0.2840287908993464,0.000976633019167508,2,48,United States,Boston,Massachusetts
+Sino-French University,中法大學,Sino-French University,2,4,0.009685230024213076,4,0.0007522756483705263,0.24466610520405657,0.0015548029856914565,9,19,China,Beijing,Beijing
+Sino-Russian Industrial University,中俄工業大學,Sino-Russian Industrial University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,62,1,China,Harbin,Heilongjiang
+Smith College,Smith College,Smith College,5,8,0.01937046004842615,9,0.0004933769341338617,0.2920123028597605,0.0022488300705719375,6,31,United States,Northampton,Massachusetts
+South Pacific College,South Pacific College,South Pacific College,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,16,2,United States,Seattle,Washington
+Southeast University,東南大學,Southeast University,27,26,0.06295399515738499,38,0.023890358967708584,0.34718686393994663,0.009306730478617395,4,41,China,Nanjing,Jiangsu
+Southern College,Southern College,Southern College,1,2,0.004842615012106538,2,0.0,0.2567598670582495,0.000851408686011851,4,41,United States,,
+Southwest Associated University,西南聯合大學,Southwest Associated University,8,10,0.02421307506053269,10,0.006671643936442844,0.3086987201660325,0.003031419881665619,6,31,China,Kunming,Yunnan
+Southwestern Seminary,Southwestern Seminary,Southwestern Seminary,1,3,0.007263922518159807,3,0.0,0.25997245442278966,0.0010393282959264647,2,48,United States,Fort Worth,Texas
+Southwestern University,Southwestern University,Southwestern University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,63,1,United States,Georgetown,Texas
+Spartan College of Aeronautics and Technology,Spartan College of Aeronautics and Technology,Spartan College of Aeronautics and Technology,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,18,2,United States,Tulsa,Oklahoma
+Springfield College,Springfield College,Springfield College,1,2,0.004842615012106538,2,0.0,0.25897543638089976,0.0008307943307488141,9,19,United States,Springfield,Missouri
+St. John's Hospital,St. John's Hospital,St. John's Hospital,1,1,0.002421307506053269,1,0.0,0.21403437412462636,0.0007064757397968847,3,42,China,Shanghai,Jiangsu
+St. John's University,聖約翰大學,St. John's University,71,34,0.08232445520581114,84,0.03614275812116468,0.371542476128306,0.018061451559170855,1,62,China,Shanghai,Jiangsu
+St. Louis College of Pharmacy,St. Louis College of Pharmacy,St. Louis College of Pharmacy,1,2,0.004842615012106538,2,0.0,0.23611134628083782,0.0010828968591116211,9,19,United States,St. Louis,Missouri
+St. Louis University,St. Louis University,St. Louis University,2,1,0.002421307506053269,1,0.0,0.2548220567408287,0.00059693687916026,1,62,United States,St. Louis,Missouri
+St. Paul's Girls' School,St. Paul's Girls' School,St. Paul's Girls' School,1,0,0.0,0,0.0,0.0,0.00041419301394496577,64,1,United Kingdom,London,
+Stanford University,Stanford University,Stanford University,36,25,0.06053268765133172,40,0.022053610516136857,0.35216607580870724,0.009537869312202756,5,39,United States,Stanford,California
+State University of Iowa,State University of Iowa,State University of Iowa,19,23,0.05569007263922519,31,0.02126410370938247,0.33264948293753505,0.007601340298472835,9,19,United States,Iowa City,Iowa
+Stevens Institute of Technology,Stevens Institute of Technology,Stevens Institute of Technology,2,0,0.0,0,0.0,0.0,0.00041419301394496577,65,1,United States,Hoboken,New Jersey
+Sweet Briar College,Sweet Briar College,Sweet Briar College,1,1,0.002421307506053269,1,0.0,0.23125974327506715,0.0006368743353929977,1,62,United States,Sweet Briar,Virginia
+Syracuse University,Syracuse University,Syracuse University,9,12,0.029055690072639227,12,0.006003729272074407,0.31083012674945737,0.003347289895972839,8,24,United States,Syracuse,New York
+Taliesin Fellowship,Taliesin Fellowship,Taliesin Fellowship,1,3,0.007263922518159807,3,0.0,0.2882725508487497,0.0010351149125190223,5,39,United States,Spring Green,Wisconsin
+Tangshan Chiao Tung University,唐山交通大學,Tangshan Chiao Tung University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,66,1,China,Tangshan,Hebei
+Taxation College,稅務專門學校,Taxation College,2,2,0.004842615012106538,2,0.0,0.2687675424331129,0.0007757720502984237,2,48,China,Shanghai,Shanghai
+Technical College of Hanover,Technical College of Hanover,Technical College of Hanover,1,2,0.004842615012106538,2,0.0,0.2471284356315448,0.0008108581920005051,1,62,Germany,Hanover,
+Technical University Berlin,德國££工£大學,Technical University Berlin,1,0,0.0,0,0.0,0.0,0.00041419301394496577,67,1,Germany,Berlin,
+Texas Technical College,Texas Technical College,Texas Technical College,1,2,0.004842615012106538,2,0.0,0.2804894913242767,0.0008367601875578,6,31,United States,Lubbock,Texas
+Tianjin Industrial and Commercial College,天津工商學院,Tianjin Industrial and Commercial College,2,1,0.002421307506053269,2,0.0,0.276753463263605,0.0007730658683132626,3,42,China,Tianjin,Tianjin
+Tianjin University,天津大學,Tianjin University,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,17,2,China,Tianjin,Tianjin
+Tientsin Institute of Commerce,天津工商學院學,Tientsin Institute of Commerce,3,3,0.007263922518159807,4,2.1111561462768597e-05,0.26690847840442533,0.0012070547838775453,4,41,China,Tianjin,Tianjin
+Tokyo Imperial University,東京帝國大學,Tokyo Imperial University,1,1,0.002421307506053269,1,0.0,0.25150035395277326,0.0005754407464457446,1,62,Japan,Tokyo,Tokyo
+Tokyo University of Commerce,東京商科大學,Tokyo University of Commerce,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,15,2,Japan,Tokyo,Tokyo
+Tri-State College,Tri-State College,Tri-State College,13,9,0.02179176755447942,10,0.005205902344370394,0.3174046770214788,0.0029870793718830024,8,24,United States,Angola,Indiana
+Trinity College of Music,Trinity College of Music,Trinity College of Music,1,1,0.002421307506053269,1,0.0,0.21053108351151867,0.0008836297313539012,6,31,United Kingdom,London,
+Tsinghua University,清華大學,Tsinghua University,91,31,0.07506053268765134,105,0.01795773379371247,0.36452278022304785,0.019922441665385298,1,62,China,Beijing,Beijing
+Tufts College,Tufts College,Tufts College,4,1,0.002421307506053269,1,0.0,0.2409557360796418,0.0005971950919093415,2,48,United States,Medford,Massachusetts
+Tulane University,Tulane University,Tulane University,5,4,0.009685230024213076,4,0.011671642492771339,0.283730441329074,0.0018496832846388522,5,39,United States,New Orleans,Louisiana
+University College,University College,University College,1,1,0.002421307506053269,1,0.0,0.2346753954346468,0.0006135479474005689,9,19,United Kingdom,London,
+University de Liege,University de Liege,University de Liege,2,1,0.002421307506053269,1,0.0,0.276753463263605,0.0005936294411291142,3,42,Belgium,Liège,
+University de Nancy,University de Nancy,University de Nancy,1,1,0.002421307506053269,1,0.0,0.24400305342843584,0.0005998761607940474,7,29,France,Nancy,
+University of Arizona,University of Arizona,University of Arizona,3,4,0.009685230024213076,4,1.2502134902346675e-05,0.2910682975703432,0.0011528124507116108,5,39,United States,Tucson,Arizona
+University of Berlin,University of Berlin,University of Berlin,2,2,0.004842615012106538,2,0.003914055337455041,0.25530376195205906,0.0014867971736025564,1,62,Germany,Berlin,
+University of Bonn,University of Bonn,University of Bonn,1,0,0.0,0,0.0,0.0,0.00041419301394496577,68,1,Germany,Bonn,
+University of British Columbia,University of British Columbia,University of British Columbia,3,5,0.012106537530266345,5,0.00033766992068170684,0.3079947322067029,0.0013307569270789986,1,62,Canada,Vancouver,
+University of Brussels,University of Brussels,University of Brussels,1,2,0.004842615012106538,2,0.0,0.27562385729110045,0.0010475336985238167,2,48,Belgium,Brussels,
+University of California,University of California,University of California,116,43,0.10411622276029056,81,0.027056399720550694,0.38097514830081586,0.016539268358319197,7,29,United States,Berkeley,California
+University of Chicago,University of Chicago,University of Chicago,72,51,0.12348668280871672,94,0.04761236064733979,0.39146576832649055,0.019743395971300846,3,42,United States,Chicago,Illinois
+University of Cincinnati,University of Cincinnati,University of Cincinnati,10,7,0.01694915254237288,7,0.004309879781788635,0.2879652240354781,0.002323333094626318,3,42,United States,Cincinnati,Ohio
+University of Colorado,University of Colorado,University of Colorado,12,13,0.031476997578692496,14,0.0035535847148467302,0.3148151283744504,0.0033277168155218914,1,62,United States,Boulder,Colorado
+University of Connecticut,University of Connecticut,University of Connecticut,1,1,0.002421307506053269,1,0.0,0.23590513549805978,0.0006478442590531503,6,31,United States,Storrs,Connecticut
+University of Costa Rica,University of Costa Rica,University of Costa Rica,1,1,0.002421307506053269,1,0.0,0.2176562289647691,0.0006242775611871479,7,29,Costa Rica,San José,
+University of Denver,University of Denver,University of Denver,1,2,0.004842615012106538,2,0.0,0.2587273756180828,0.0008355003984860561,5,39,United States,Denver,Colorado
+University of Detroit,University of Detroit,University of Detroit,3,4,0.009685230024213076,4,0.0001689952260835252,0.28583214830188197,0.0012259669525145796,4,41,United States,Detroit,Michigan
+University of Dubuque,University of Dubuque,University of Dubuque,6,4,0.009685230024213076,4,0.0,0.3129911705043783,0.00114927410429186,3,42,United States,Dubuque,Iowa
+University of Edinburgh,University of Edinburgh,University of Edinburgh,2,3,0.007263922518159807,3,5.959633595450141e-06,0.2861349365945746,0.0009617200240012315,7,29,United Kingdom,Edinburgh,
+University of Geneva,University of Geneva,University of Geneva,2,2,0.004842615012106538,2,0.0,0.27562385729110045,0.0010475336985238167,2,48,Switzerland,Geneva,
+University of Hawaii,University of Hawaii,University of Hawaii,14,14,0.03389830508474576,19,0.002738262572494023,0.3282033780623067,0.004110034275928765,5,39,United States,Honolulu,Hawaii
+University of Hong Kong,University of Hong Kong,University of Hong Kong,21,18,0.04358353510895884,26,0.010800749752666206,0.333470839685529,0.006012708474208903,1,62,Hong Kong,Hong Kong,
+University of Houston,University of Houston,University of Houston,1,0,0.0,0,0.0,0.0,0.00041419301394496577,69,1,United States,Houston,Texas
+University of Illinois,University of Illinois,University of Illinois,40,32,0.0774818401937046,52,0.022427615605301817,0.35729018537735246,0.011196999781684919,1,62,United States,Chicago,Illinois
+University of Iowa,University of Iowa,University of Iowa,1,2,0.004842615012106538,2,0.0,0.2807810604420774,0.000767334915865296,7,29,United States,Iowa City,Iowa
+University of Kansas,University of Kansas,University of Kansas,3,5,0.012106537530266345,6,2.895517866723219e-05,0.31011639511513023,0.0014917818801168878,3,42,United States,Lawrence,Kansas
+University of Kentucky,University of Kentucky,University of Kentucky,1,2,0.004842615012106538,2,0.0,0.22213106919841977,0.0011746263756461702,5,39,United States,Lexington,Kentucky
+University of London,University of London,University of London,22,22,0.053268765133171914,32,0.00707775884363327,0.3367972321013447,0.0065763020064459774,1,62,United Kingdom,London,
+University of Lyon,University of Lyon,University of Lyon,2,4,0.009685230024213076,5,0.000851740494760839,0.2587273756180828,0.0018462021280203742,9,19,France,Lyons,
+University of Maine,University of Maine,University of Maine,1,0,0.0,0,0.0,0.0,0.00041419301394496577,70,1,United States,Orono,Maine
+University of Maryland,University of Maryland,University of Maryland,3,4,0.009685230024213076,4,0.00010845657809803664,0.2720154885652351,0.0012106372759885641,7,29,United States,College Park,Maryland
+University of Michigan,University of Michigan,University of Michigan,151,81,0.1961259079903148,196,0.10583048797585524,0.42007990691334135,0.041380596811836964,3,42,United States,Ann Arbor,Michigan
+University of Minnesota,University of Minnesota,University of Minnesota,39,27,0.06537530266343826,49,0.013406367237953151,0.3489811112988094,0.010060940385967507,7,29,United States,Minneapolis,Minnesota
+University of Missouri,University of Missouri,University of Missouri,10,10,0.02421307506053269,16,0.0013138782588550024,0.3266159372977974,0.0033931095889170445,2,48,United States,Columbia,South Carolina
+University of Nebraska,University of Nebraska,University of Nebraska,1,1,0.002421307506053269,1,0.0,0.2037039065952326,0.0007146300538096164,6,31,United States,Lincoln,Nebraska
+University of Nevada,University of Nevada,University of Nevada,1,0,0.0,0,0.0,0.0,0.00041419301394496577,71,1,United States,Reno,Nevada
+University of North Carolina,University of North Carolina,University of North Carolina,1,2,0.004842615012106538,2,0.0,0.2594729876515643,0.0008309503091238058,2,48,United States,Chapel Hill,North Carolina
+University of Notre Dame,University of Notre Dame,University of Notre Dame,4,3,0.007263922518159807,3,4.7953646779704555e-05,0.27011138014527847,0.0010519610487282653,8,24,United States,Notre Dame,Indiana
+University of Oklahoma,University of Oklahoma,University of Oklahoma,2,4,0.009685230024213076,4,0.0003002066775873595,0.27011138014527847,0.001315428382587286,1,62,United States,Norman,Oklahoma
+University of Oregon,University of Oregon,University of Oregon,3,0,0.0,0,0.0,0.0,0.00041419301394496577,72,1,United States,Eugene,Oregon
+University of Paris,University of Paris,University of Paris,7,8,0.01937046004842615,9,0.0036579833915117038,0.2761875052610209,0.002877259315885183,9,19,France,Paris,
+University of Pennsylvania,University of Pennsylvania,University of Pennsylvania,42,34,0.08232445520581114,58,0.02317393447952174,0.3710321155841737,0.01233616086656173,2,48,United States,Philadelphia,Pennsylvania
+University of Perugia,University of Perugia,University of Perugia,1,1,0.002421307506053269,1,0.0,0.1941850324552685,0.001046819522044179,1,62,Italy,Perugia,
+University of Pittsburgh,University of Pittsburgh,University of Pittsburgh,7,5,0.012106537530266345,5,0.004026749075104504,0.2846273763385442,0.0017848353397901906,4,41,United States,Pittsburgh,Pennsylvania
+University of Richmond,University of Richmond,University of Richmond,2,3,0.007263922518159807,3,0.00013821947500972838,0.2693034697360702,0.0011822444884313007,2,48,United States,Richmond,Virginia
+University of Rochester,University of Rochester,University of Rochester,5,5,0.012106537530266345,5,5.2713159703104645e-05,0.30590190276928475,0.001305357436770292,6,31,United States,Rochester,New York
+University of San Francisco,University of San Francisco,University of San Francisco,1,1,0.002421307506053269,1,0.0,0.1828783887239529,0.0010781952219170213,4,41,United States,San Francisco,California
+University of Santo Tomas,University of Santo Tomas,University of Santo Tomas,2,1,0.002421307506053269,2,0.0,0.217131334521928,0.0009065973737349929,1,62,Philippines,Manila,
+University of Southern California,University of Southern California,University of Southern California,41,30,0.07263922518159807,44,0.019646806956462756,0.3606293459883558,0.009742820728572991,2,48,United States,Los Angeles,California
+University of Tennessee,University of Tennessee,University of Tennessee,2,5,0.012106537530266345,5,0.0002442255570563127,0.29044234424223486,0.0014283951118135697,3,42,United States,Knoxville,Tennessee
+University of Texas,University of Texas,University of Texas,4,3,0.007263922518159807,3,0.007816356754977785,0.21085978153417523,0.002912177077974967,5,39,United States,Austin,Texas
+University of Toledo,University of Toledo,University of Toledo,1,0,0.0,0,0.0,0.0,0.00041419301394496577,73,1,United States,Toledo,Ohio
+University of Toronto,University of Toronto,University of Toronto,13,15,0.036319612590799036,26,0.002122756350850363,0.32900289908072894,0.005114173145000286,1,62,Canada,Toronto,
+University of Tulsa,University of Tulsa,University of Tulsa,1,1,0.002421307506053269,1,0.0,0.23903661959759154,0.000591916516362593,1,62,United States,Tulsa,Oklahoma
+University of Turin,University of Turin,University of Turin,1,0,0.0,0,0.0,0.0,0.00041419301394496577,74,1,Italy,Turin,
+University of Virginia,University of Virginia,University of Virginia,1,1,0.002421307506053269,1,0.0,0.2548220567408287,0.00059693687916026,1,62,United States,Charlottesville,Virginia
+University of Washington,University of Washington,University of Washington,28,20,0.04842615012106538,27,0.016255078221291543,0.34585323962263564,0.0067654036791516894,5,39,United States,Seattle,Oregon
+University of Wisconsin,University of Wisconsin,University of Wisconsin,30,24,0.05811138014527845,36,0.010935565572114439,0.34278093927065795,0.007751155880156105,2,48,United States,Madison,Wisconsin
+University of the Philippines,University of the Philippines,University of the Philippines,2,3,0.007263922518159807,3,2.7326364618110345e-05,0.2409557360796418,0.0012778128575653056,1,62,Philippines,Manila,
+Vassar College,Vassar College,Vassar College,1,1,0.002421307506053269,1,0.0,0.22360213588185304,0.000671850806419324,6,31,United States,Poughkeepsie,New York
+Virginia Polytechnic Institute,Virginia Polytechnic Institute,Virginia Polytechnic Institute,3,4,0.009685230024213076,5,0.00393450522067791,0.24826413616293977,0.0019428677882324383,6,31,United States,Blacksburg,Virginia
+Viterbo College,Viterbo College,Viterbo College,2,0,0.0,0,0.0,0.0,0.00041419301394496577,75,1,United States,La Crosse,Wisconsin
+Washington & Jefferson College,Washington & Jefferson College,Washington & Jefferson College,1,1,0.002421307506053269,1,0.0,0.24555580013207132,0.0006168421344300542,5,39,United States,Washington,District of Columbia
+Washington Missionary College,Washington Missionary College,Washington Missionary College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,76,1,United States,Takoma Park,Maryland
+Washington State College,Washington State College,Washington State College,2,0,0.0,0,0.0,0.0,0.00041419301394496577,77,1,United States,Pullman,Washington
+Washington University,Washington University,Washington University,4,2,0.004842615012106538,2,0.0,0.283730441329074,0.0007717620673088348,5,39,United States,Seattle,Missouri
+Wayne University,Wayne University,Wayne University,2,4,0.009685230024213076,4,0.0005831288877265272,0.283730441329074,0.001350485070074207,6,31,United States,Detroit,Michigan
+Wellesley College,Wellesley College,Wellesley College,9,8,0.01937046004842615,8,0.0014054682400469047,0.30521059903421294,0.0022884374616458847,6,31,United States,Wellesley,Massachusetts
+Wentworth Institute,Wentworth Institute,Wentworth Institute,1,1,0.002421307506053269,1,0.0,0.21152026636278656,0.0007582150010061303,4,41,United States,Boston,Massachusetts
+West China Union University,華西協和大學,West China Union University,1,1,0.002421307506053269,1,0.0,0.22471828631054777,0.0006513010474560892,8,24,China,Chengdu,Sichuan
+West China University,華西大學,West China University,5,6,0.014527845036319613,7,9.60957468944795e-05,0.3104728507416994,0.0016989760236558807,1,62,China,Chengdu,Sichuan
+Western Maryland College,Western Maryland College,Western Maryland College,1,1,0.002421307506053269,1,0.0,0.2142041079661209,0.0007355259921585687,8,24,United States,Westminster,Maryland
+Western Reserve University,Western Reserve University,Western Reserve University,2,2,0.004842615012106538,2,0.0,0.2761875052610209,0.000780958984691521,3,42,United States,Cleveland,Ohio
+Westminster Choir College,Westminster Choir College,Westminster Choir College,2,3,0.007263922518159807,3,0.0001534319016364999,0.22929658755965915,0.00164460695786204,6,31,United States,Princeton,New Jersey
+Westmont College,Westmont College,Westmont College,1,2,0.004842615012106538,2,0.0,0.24987176701690886,0.0010476066260914454,2,48,United States,Montecito,California
+Wheaton College,Wheaton College,Wheaton College,5,4,0.009685230024213076,5,2.192558141217019e-05,0.2846273763385442,0.001380528614133004,9,19,United States,Wheaton,Illinois
+Wheelock College,Wheelock College,Wheelock College,1,0,0.0,0,0.0,0.0,0.00041419301394496577,78,1,United States,Boston,Massachusetts
+Williams Hospital,Williams Hospital,Williams Hospital,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,13,2,United States,Providence,Rhode Island
+Witwatersrand College,Witwatersrand College,Witwatersrand College,1,1,0.002421307506053269,1,0.0,0.002421307506053269,0.0027612867596299075,18,2,South Africa,Johannesburg,
+Women's Christian Medical College,Women's Christian Medical College,Women's Christian Medical College,1,2,0.004842615012106538,2,0.0,0.2687675424331129,0.0007838902697102337,2,48,China,Shanghai,Shanghai
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,Worcester Polytechnic Institute,3,1,0.002421307506053269,1,0.0,0.21403437412462636,0.0007064757397968847,3,42,United States,Worcester,Massachusetts
+Wuchang University,武昌大學,Wuchang University,1,0,0.0,0,0.0,0.0,0.00041419301394496577,79,1,China,Wuhan,Hubei
+Wuhan University,武漢大學,Wuhan University,4,3,0.007263922518159807,4,0.0,0.2929624513506274,0.0010970020246078213,1,62,China,Wuhan,Hubei
+Wusong Merchant Shipping School,吳淞商船學校,Wusong Merchant Shipping School,3,1,0.002421307506053269,2,0.0,0.2424698205971979,0.0008401318487541489,5,39,China,Shanghai,Shanghai
+Xiamen University,廈門大學,Xiamen University,4,7,0.01694915254237288,7,0.0023068582037650675,0.30180042474332786,0.0019586106468004187,7,29,China,Xiamen,Fujian
+Yale University,Yale University,Yale University,15,17,0.04116222760290557,18,0.005816303396774414,0.3389101381998475,0.00417494918760161,2,48,United States,New Haven,Connecticut
+Yenching University,燕京大學,Yenching University,134,76,0.18401937046004843,192,0.09645783636369343,0.4142812578915314,0.04003031339018373,3,42,China,Beijing,Beijing
+Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,1,2,0.004842615012106538,2,0.0,0.2685003778780104,0.0007891506609837614,5,39,China,Leshan,Sichuan
+Yunnan University,雲南大學,Yunnan University,1,1,0.002421307506053269,1,0.0,0.18692829075797815,0.0008100538066812056,6,31,China,Kunming,Yunnan
+Zhejiang Provincial Technical College,浙江省立工業專門學校,Zhejiang Provincial Technical College,1,2,0.004842615012106538,2,0.0,0.2831356186009208,0.0007766185675847747,3,42,China,Hangzhou,Zhejiang
+Zhejiang University,浙江大學,Zhejiang University,15,9,0.02179176755447942,12,0.0014838601264886033,0.2879652240354781,0.0030227234315979177,1,62,China,Hangzhou,Zhejiang
+Zhijiang University,之江大學,Zhijiang University,13,15,0.036319612590799036,20,0.01408948771174827,0.32348668280871673,0.0052401930489673725,1,62,China,Hangzhou,Zhejiang
+Zhizhi College,持誌學院,Zhizhi College,2,2,0.004842615012106538,2,3.204317986520805e-05,0.27904068196826287,0.0008095694471481208,4,41,China,Shanghai,Shanghai
+Zhonghua University,中華大學,Zhonghua University,1,1,0.002421307506053269,1,0.0,0.2071406289457657,0.0007036528123899822,4,41,China,Wuhan,Hubei
+Zhongshan University,中山大學,Zhongshan University,30,22,0.053268765133171914,37,0.009449950983508844,0.3419131394244031,0.008129585059324262,4,41,China,Guangzhou,Guangdong
+École Libre des Sciences Politiques,École Libre des Sciences Politiques,École Libre des Sciences Politiques,1,1,0.002421307506053269,1,0.0,0.2142041079661209,0.0007560705745770502,4,41,France,Paris,
