@@ -76,9 +76,7 @@ Current Field families are:
 - Earth & Environmental Sciences
 - Agricultural Sciences
 - Health Sciences
-- Architecture & Planning
 - Education
-- Other / Interdisciplinary
 - Unspecified
 
 The explicit `FIELD_MAP` is stored in the notebook and can be edited if a different substantive classification is preferred. The original detailed discipline values remain available.
